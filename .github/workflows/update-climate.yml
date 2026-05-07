@@ -1,0 +1,73 @@
+name: Update Climate & Weather Data
+
+on:
+  schedule:
+    # Щодня о 6:00 UTC — оновлює тільки погоду (швидко)
+    - cron: '0 6 * * *'
+    # Щомісяця 1-го числа — повне оновлення клімату
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Режим оновлення'
+        required: true
+        default: 'weather'
+        type: choice
+        options:
+          - weather
+          - full
+
+jobs:
+  update-weather:
+    name: Оновити погоду по регіонах
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 6 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weather')
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Встановити Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Встановити залежності
+        run: pip install requests
+
+      - name: Оновити погоду
+        run: python scripts/fetch_climate.py --weather-only
+
+      - name: Зберегти зміни
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/regions_ua_weather.json
+          git diff --staged --quiet || git commit -m "auto: update weather $(date +'%Y-%m-%d')"
+          git push
+
+  update-climate:
+    name: Повне оновлення кліматичних даних
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 3 1 * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'full')
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Встановити Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Встановити залежності
+        run: pip install requests
+
+      - name: Зібрати кліматичні дані
+        run: python scripts/fetch_climate.py
+
+      - name: Зберегти зміни
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/regions_ua_climate.json data/regions_ua_weather.json
+          git diff --staged --quiet || git commit -m "auto: update climate data $(date +'%Y-%m-%d')"
+          git push
