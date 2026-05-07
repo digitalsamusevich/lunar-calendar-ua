@@ -1,0 +1,2060 @@
+{
+  "meta": {
+    "version": "1.0",
+    "updated": "2026-05-07",
+    "description": "База городніх культур України — строки посадки, догляд, збір врожаю",
+    "total_plants": 50
+  },
+  "categories": {
+    "solanaceae":   { "name_ua": "Пасльонові",    "icon": "🍅" },
+    "cucurbit":     { "name_ua": "Гарбузові",     "icon": "🥒" },
+    "brassica":     { "name_ua": "Капустяні",     "icon": "🥦" },
+    "root":         { "name_ua": "Коренеплоди",   "icon": "🥕" },
+    "bulb":         { "name_ua": "Цибулеві",      "icon": "🧅" },
+    "legume":       { "name_ua": "Бобові",        "icon": "🫘" },
+    "leafy":        { "name_ua": "Листові",       "icon": "🥬" },
+    "herb":         { "name_ua": "Прянощі",       "icon": "🌿" },
+    "berry":        { "name_ua": "Ягідні",        "icon": "🍓" },
+    "melon":        { "name_ua": "Баштанні",      "icon": "🍉" },
+    "perennial":    { "name_ua": "Багаторічні",   "icon": "🌱" }
+  },
+  "plants": [
+    {
+      "id": "tomato",
+      "name_ua": "Томат (помідор)",
+      "name_latin": "Solanum lycopersicum",
+      "category": "solanaceae",
+      "emoji": "🍅",
+      "description": "Найпопулярніша городня культура в Україні. Теплолюбна, потребує розсадного методу вирощування.",
+      "seo": {
+        "slug": "koly-sadyty-tomaty",
+        "keywords": ["коли садити томати", "посадка помідорів", "розсада томатів строки", "томати у відкритий ґрунт"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 60,
+        "seedling_indoor": { "start": "02-01", "end": "03-15", "note": "за 60-70 днів до висадки" },
+        "open_ground":     { "start": "05-10", "end": "06-01", "note": "після загрози заморозків, ґрунт +15°C" },
+        "greenhouse":      { "start": "04-01", "end": "04-20" },
+        "depth_cm": 8,
+        "spacing_cm": 50,
+        "row_spacing_cm": 70
+      },
+      "care": {
+        "watering": "помірний, раз на 3-4 дні, під корінь",
+        "fertilizing": "кожні 2 тижні, калійно-фосфорні добрива",
+        "pinching": true,
+        "pinching_note": "обов'язкове пасинкування",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 90,
+        "season_start": "07-15",
+        "season_end": "10-01",
+        "signs": "рівномірне почервоніння плодів"
+      },
+      "pests": ["фітофтора", "колорадський жук", "попелиця", "білокрилка"],
+      "companions": ["базилік", "морква", "петрушка"],
+      "avoid": ["фенхель", "цибуля", "картопля"],
+      "moon_tips": "Сіяти і саджати у знаках Рак, Риби, Скорпіон. Уникати Лева, Водолія"
+    },
+    {
+      "id": "pepper_sweet",
+      "name_ua": "Перець солодкий",
+      "name_latin": "Capsicum annuum",
+      "category": "solanaceae",
+      "emoji": "🫑",
+      "description": "Теплолюбна культура, потребує довгого вегетаційного сезону. Найкраще росте на півдні та в центрі України.",
+      "seo": {
+        "slug": "koly-sadyty-perets",
+        "keywords": ["коли садити перець", "розсада перцю строки", "солодкий перець посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 75,
+        "seedling_indoor": { "start": "01-20", "end": "02-20", "note": "за 75-90 днів до висадки" },
+        "open_ground":     { "start": "05-15", "end": "06-05", "note": "ґрунт не нижче +15°C" },
+        "greenhouse":      { "start": "04-10", "end": "04-25" },
+        "depth_cm": 8,
+        "spacing_cm": 40,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "регулярний, раз на 2-3 дні, тепла вода",
+        "fertilizing": "азотні на початку, калійні при плодоношенні",
+        "pinching": false,
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 110,
+        "season_start": "07-20",
+        "season_end": "10-01",
+        "signs": "досягнення розміру сорту, легко відривається"
+      },
+      "pests": ["попелиця", "павутинний кліщ", "фітофтора"],
+      "companions": ["базилік", "морква", "огірки"],
+      "avoid": ["фенхель", "картопля"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні. Не садити в Леві і Водолії"
+    },
+    {
+      "id": "eggplant",
+      "name_ua": "Баклажан",
+      "name_latin": "Solanum melongena",
+      "category": "solanaceae",
+      "emoji": "🍆",
+      "description": "Найтеплолюбніша з пасльонових. На півночі України рекомендується вирощувати в теплицях.",
+      "seo": {
+        "slug": "koly-sadyty-baklazhany",
+        "keywords": ["коли садити баклажани", "розсада баклажанів", "баклажани посадка строки"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 80,
+        "seedling_indoor": { "start": "01-20", "end": "02-15", "note": "за 80-90 днів до висадки" },
+        "open_ground":     { "start": "05-20", "end": "06-10", "note": "ґрунт +18°C, без заморозків" },
+        "greenhouse":      { "start": "04-15", "end": "04-28" },
+        "depth_cm": 10,
+        "spacing_cm": 45,
+        "row_spacing_cm": 65
+      },
+      "care": {
+        "watering": "рясний, раз на 2 дні",
+        "fertilizing": "3 рази за сезон",
+        "pinching": true,
+        "pinching_note": "формування в 2-3 стебла",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 120,
+        "season_start": "08-01",
+        "season_end": "10-01",
+        "signs": "блискуча шкірка, довжина 15-20 см"
+      },
+      "pests": ["колорадський жук", "павутинний кліщ", "попелиця"],
+      "companions": ["перець", "базилік"],
+      "avoid": ["фенхель"],
+      "moon_tips": "Сіяти у Раку, Рибах. Уникати Лева"
+    },
+    {
+      "id": "cucumber",
+      "name_ua": "Огірок",
+      "name_latin": "Cucumis sativus",
+      "category": "cucurbit",
+      "emoji": "🥒",
+      "description": "Одна з найпопулярніших культур. Швидко росте, дає рясний врожай при правильному поливі.",
+      "seo": {
+        "slug": "koly-sadyty-ohirky",
+        "keywords": ["коли садити огірки", "посадка огірків відкритий ґрунт", "огірки строки посадки"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 22,
+        "seedling_indoor": { "start": "04-15", "end": "04-28", "note": "за 20-25 днів" },
+        "open_ground":     { "start": "05-05", "end": "05-25", "note": "ґрунт +12°C, після заморозків" },
+        "greenhouse":      { "start": "04-01", "end": "04-15" },
+        "depth_cm": 2,
+        "spacing_cm": 30,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "рясний щоденний, тепла вода вранці",
+        "fertilizing": "кожні 10 днів, азотні на початку",
+        "pinching": true,
+        "pinching_note": "прищипування головного стебла після 5-6 листка",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 45,
+        "season_start": "06-20",
+        "season_end": "09-01",
+        "signs": "довжина 10-15 см, тверді, темно-зелені"
+      },
+      "pests": ["борошниста роса", "попелиця", "павутинний кліщ", "пероноспороз"],
+      "companions": ["кріп", "салат", "цибуля"],
+      "avoid": ["томати", "картопля"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні, Тельці. Не садити в Леві і Водолії"
+    },
+    {
+      "id": "zucchini",
+      "name_ua": "Кабачок",
+      "name_latin": "Cucurbita pepo",
+      "category": "cucurbit",
+      "emoji": "🥬",
+      "description": "Невибаглива культура з рясним урожаєм. Росте майже у всіх регіонах України.",
+      "seo": {
+        "slug": "koly-sadyty-kabachky",
+        "keywords": ["коли садити кабачки", "посадка кабачків", "кабачки строки посіву"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 20,
+        "seedling_indoor": { "start": "04-20", "end": "05-01" },
+        "open_ground":     { "start": "05-01", "end": "05-20", "note": "ґрунт +10°C" },
+        "greenhouse":      { "start": "04-05", "end": "04-20" },
+        "depth_cm": 3,
+        "spacing_cm": 70,
+        "row_spacing_cm": 100
+      },
+      "care": {
+        "watering": "помірний, раз на 3-4 дні",
+        "fertilizing": "органіка при посадці, 2-3 рази за сезон",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 50,
+        "season_start": "06-25",
+        "season_end": "09-15",
+        "signs": "довжина 15-20 см, ніжна шкірка"
+      },
+      "pests": ["борошниста роса", "попелиця", "павутинний кліщ"],
+      "companions": ["кріп", "квасоля", "кукурудза"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "pumpkin",
+      "name_ua": "Гарбуз",
+      "name_latin": "Cucurbita maxima",
+      "category": "cucurbit",
+      "emoji": "🎃",
+      "description": "Посухостійка культура. Займає багато місця, але дає великий врожай із мінімальним доглядом.",
+      "seo": {
+        "slug": "koly-sadyty-harbuz",
+        "keywords": ["коли садити гарбуз", "посадка гарбуза", "гарбуз строки посіву"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 20,
+        "seedling_indoor": { "start": "04-25", "end": "05-05" },
+        "open_ground":     { "start": "05-05", "end": "05-25", "note": "насінням або розсадою" },
+        "greenhouse":      null,
+        "depth_cm": 4,
+        "spacing_cm": 100,
+        "row_spacing_cm": 150
+      },
+      "care": {
+        "watering": "рідкий але рясний, раз на тиждень",
+        "fertilizing": "органіка при посадці",
+        "pinching": true,
+        "pinching_note": "прищипування після 2-3 плодів",
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 100,
+        "season_start": "08-20",
+        "season_end": "10-01",
+        "signs": "суха плодоніжка, тверда шкірка"
+      },
+      "pests": ["борошниста роса", "попелиця"],
+      "companions": ["кукурудза", "квасоля", "кріп"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Скорпіоні, Рибах"
+    },
+    {
+      "id": "watermelon",
+      "name_ua": "Кавун",
+      "name_latin": "Citrullus lanatus",
+      "category": "melon",
+      "emoji": "🍉",
+      "description": "Баштанна культура. Добре росте на півдні та сході України. На півночі — тільки в теплицях.",
+      "seo": {
+        "slug": "koly-sadyty-kavun",
+        "keywords": ["коли садити кавун", "посадка кавуна", "кавун строки посіву Україна"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 30,
+        "seedling_indoor": { "start": "04-10", "end": "04-25" },
+        "open_ground":     { "start": "05-01", "end": "05-20", "note": "ґрунт +15°C, тепліші регіони" },
+        "greenhouse":      { "start": "04-01", "end": "04-15" },
+        "depth_cm": 4,
+        "spacing_cm": 100,
+        "row_spacing_cm": 150
+      },
+      "care": {
+        "watering": "помірний, уникати переливу при дозріванні",
+        "fertilizing": "мінімальні, не зловживати азотом",
+        "pinching": true,
+        "pinching_note": "залишити 2-3 плоди на рослині",
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 80,
+        "season_start": "07-20",
+        "season_end": "09-01",
+        "signs": "глухий звук при постукуванні, суха плодоніжка"
+      },
+      "pests": ["борошниста роса", "попелиця", "антракноз"],
+      "companions": ["кукурудза", "редис"],
+      "avoid": ["картопля", "огірки"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "melon",
+      "name_ua": "Диня",
+      "name_latin": "Cucumis melo",
+      "category": "melon",
+      "emoji": "🍈",
+      "description": "Теплолюбна баштанна культура. Вирощується переважно на півдні України.",
+      "seo": {
+        "slug": "koly-sadyty-dyniu",
+        "keywords": ["коли садити диню", "посадка дині", "диня строки посіву"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 28,
+        "seedling_indoor": { "start": "04-10", "end": "04-25" },
+        "open_ground":     { "start": "05-01", "end": "05-20", "note": "ґрунт +15°C" },
+        "greenhouse":      { "start": "04-01", "end": "04-15" },
+        "depth_cm": 3,
+        "spacing_cm": 80,
+        "row_spacing_cm": 120
+      },
+      "care": {
+        "watering": "помірний, зменшити при дозріванні",
+        "fertilizing": "2-3 рази за сезон",
+        "pinching": true,
+        "pinching_note": "прищипування головного стебла",
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 75,
+        "season_start": "07-20",
+        "season_end": "09-01",
+        "signs": "аромат, легко відривається від плодоніжки"
+      },
+      "pests": ["борошниста роса", "попелиця"],
+      "companions": ["кукурудза", "редис"],
+      "avoid": ["картопля", "огірки"],
+      "moon_tips": "Сіяти у Раку, Рибах, Близнюках"
+    },
+    {
+      "id": "potato",
+      "name_ua": "Картопля",
+      "name_latin": "Solanum tuberosum",
+      "category": "solanaceae",
+      "emoji": "🥔",
+      "description": "Друга хліб України. Найпоширеніша культура. Вирощується у всіх регіонах.",
+      "seo": {
+        "slug": "koly-sadyty-kartopliu",
+        "keywords": ["коли садити картоплю", "посадка картоплі строки", "картопля коли садити 2026"]
+      },
+      "growing": {
+        "method": "tubers",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-10", "end": "05-10", "note": "ґрунт +8°C на глибині 10 см" },
+        "greenhouse":      null,
+        "depth_cm": 10,
+        "spacing_cm": 35,
+        "row_spacing_cm": 70
+      },
+      "care": {
+        "watering": "помірний, особливо при цвітінні",
+        "fertilizing": "при посадці і окучуванні",
+        "pinching": false,
+        "supports": false,
+        "hilling": true,
+        "hilling_note": "окучування 2-3 рази за сезон"
+      },
+      "harvest": {
+        "days_to_maturity": 80,
+        "season_start": "07-10",
+        "season_end": "09-15",
+        "signs": "пожовтіння і засихання бадилля"
+      },
+      "pests": ["колорадський жук", "фітофтора", "дротяник", "парша"],
+      "companions": ["квасоля", "капуста", "кукурудза", "хрін"],
+      "avoid": ["томати", "огірки", "соняшник"],
+      "moon_tips": "Садити у Козерозі, Тельці, Рибах на спадному місяці"
+    },
+    {
+      "id": "carrot",
+      "name_ua": "Морква",
+      "name_latin": "Daucus carota",
+      "category": "root",
+      "emoji": "🥕",
+      "description": "Невибаглива холодостійка культура. Можна сіяти ранньою весною і під зиму.",
+      "seo": {
+        "slug": "koly-sadyty-morkvu",
+        "keywords": ["коли садити моркву", "посів моркви строки", "морква посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-25", "end": "05-10", "note": "ґрунт +4°C, можна під зиму у жовтні" },
+        "greenhouse":      { "start": "03-01", "end": "03-20" },
+        "depth_cm": 1.5,
+        "spacing_cm": 5,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "помірний регулярний",
+        "fertilizing": "мінімальні, без свіжого гною",
+        "pinching": false,
+        "supports": false,
+        "thinning": true,
+        "thinning_note": "проріджування на відстань 5 см"
+      },
+      "harvest": {
+        "days_to_maturity": 90,
+        "season_start": "07-01",
+        "season_end": "10-15",
+        "signs": "діаметр 2-3 см, яскравий колір"
+      },
+      "pests": ["морквяна муха", "дротяник", "попелиця"],
+      "companions": ["цибуля", "салат", "томати", "розмарин"],
+      "avoid": ["кріп", "петрушка"],
+      "moon_tips": "Сіяти у Козерозі, Тельці, Рибах на коренеплоди"
+    },
+    {
+      "id": "beet",
+      "name_ua": "Буряк столовий",
+      "name_latin": "Beta vulgaris",
+      "category": "root",
+      "emoji": "🫚",
+      "description": "Холодостійка культура. Сіють навесні і влітку для отримання пізнього врожаю.",
+      "seo": {
+        "slug": "koly-sadyty-buryak",
+        "keywords": ["коли садити буряк", "посів буряку строки", "буряк посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-15", "end": "06-01", "note": "ґрунт +8°C" },
+        "greenhouse":      null,
+        "depth_cm": 2,
+        "spacing_cm": 10,
+        "row_spacing_cm": 25
+      },
+      "care": {
+        "watering": "помірний регулярний",
+        "fertilizing": "калійні і фосфорні",
+        "pinching": false,
+        "supports": false,
+        "thinning": true,
+        "thinning_note": "проріджування до 10 см"
+      },
+      "harvest": {
+        "days_to_maturity": 80,
+        "season_start": "07-10",
+        "season_end": "10-15",
+        "signs": "діаметр 5-8 см"
+      },
+      "pests": ["бурякова блішка", "попелиця", "борошниста роса"],
+      "companions": ["цибуля", "капуста", "салат"],
+      "avoid": ["шпинат", "мангольд"],
+      "moon_tips": "Сіяти у Козерозі, Тельці на спадному місяці"
+    },
+    {
+      "id": "radish",
+      "name_ua": "Редис",
+      "name_latin": "Raphanus sativus",
+      "category": "root",
+      "emoji": "🌱",
+      "description": "Найшвидша культура городу — врожай через 20-25 днів. Сіють кілька разів за сезон.",
+      "seo": {
+        "slug": "koly-sadyty-redys",
+        "keywords": ["коли садити редис", "посів редису строки", "редис посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-20", "end": "04-20", "note": "перший посів; також у серпні-вересні" },
+        "greenhouse":      { "start": "02-20", "end": "03-10" },
+        "depth_cm": 1.5,
+        "spacing_cm": 5,
+        "row_spacing_cm": 15
+      },
+      "care": {
+        "watering": "регулярний рівномірний",
+        "fertilizing": "не потрібне при хорошому ґрунті",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 22,
+        "season_start": "04-15",
+        "season_end": "10-01",
+        "signs": "діаметр 2-3 см, не допускати перезростання"
+      },
+      "pests": ["хрестоцвіта блішка", "капустяна муха"],
+      "companions": ["огірки", "салат", "морква"],
+      "avoid": ["капуста", "редька"],
+      "moon_tips": "Сіяти у Козерозі, Тельці, Скорпіоні на спадному місяці"
+    },
+    {
+      "id": "radish_winter",
+      "name_ua": "Редька",
+      "name_latin": "Raphanus sativus var. niger",
+      "category": "root",
+      "emoji": "🌑",
+      "description": "Зимова редька зберігається до весни. Сіють у другій половині літа.",
+      "seo": {
+        "slug": "koly-sadyty-redku",
+        "keywords": ["коли садити редьку", "посів редьки строки", "редька зимова посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "06-20", "end": "07-20", "note": "літній посів для зимового зберігання" },
+        "greenhouse":      null,
+        "depth_cm": 2,
+        "spacing_cm": 15,
+        "row_spacing_cm": 30
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 60,
+        "season_start": "09-01",
+        "season_end": "10-15",
+        "signs": "діаметр 8-12 см"
+      },
+      "pests": ["хрестоцвіта блішка", "капустяна муха"],
+      "companions": ["морква", "салат"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Козерозі, Тельці на спадному місяці"
+    },
+    {
+      "id": "onion",
+      "name_ua": "Цибуля ріпчаста",
+      "name_latin": "Allium cepa",
+      "category": "bulb",
+      "emoji": "🧅",
+      "description": "Незамінна городня культура. Вирощують з сіянки або насінням. Добре зберігається взимку.",
+      "seo": {
+        "slug": "koly-sadyty-tsybuliu",
+        "keywords": ["коли садити цибулю", "посадка цибулі сіянки", "цибуля строки посадки"]
+      },
+      "growing": {
+        "method": "sets_or_seed",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "04-25", "note": "сіянка; можна під зиму у жовтні" },
+        "greenhouse":      null,
+        "depth_cm": 3,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "помірний, припинити за 3 тижні до збору",
+        "fertilizing": "азотні навесні, калійні влітку",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 80,
+        "season_start": "07-01",
+        "season_end": "08-15",
+        "signs": "вилягання пера, шийка підсохла"
+      },
+      "pests": ["цибулева муха", "трипси", "несправжня борошниста роса"],
+      "companions": ["морква", "салат", "буряк", "томати"],
+      "avoid": ["квасоля", "горох"],
+      "moon_tips": "Садити у Козерозі, Скорпіоні, Рибах на спадному місяці"
+    },
+    {
+      "id": "garlic",
+      "name_ua": "Часник",
+      "name_latin": "Allium sativum",
+      "category": "bulb",
+      "emoji": "🧄",
+      "description": "Озимий часник садять восени, ярий навесні. Озимий дає більший урожай.",
+      "seo": {
+        "slug": "koly-sadyty-chasнyk",
+        "keywords": ["коли садити часник", "посадка часнику озимого", "часник строки посадки"]
+      },
+      "growing": {
+        "method": "cloves",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "10-01", "end": "10-20", "note": "озимий; ярий: 03-25–04-15" },
+        "greenhouse":      null,
+        "depth_cm": 6,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "помірний, припинити за 3 тижні до збору",
+        "fertilizing": "азотні навесні",
+        "pinching": true,
+        "pinching_note": "видалення стрілок у стрілкуючих сортів",
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 270,
+        "season_start": "07-01",
+        "season_end": "07-25",
+        "signs": "пожовтіння нижніх листків, 3-4 зелені листки залишилось"
+      },
+      "pests": ["цибулева муха", "стеблова нематода", "іржа"],
+      "companions": ["морква", "томати", "троянди", "суниця"],
+      "avoid": ["квасоля", "горох", "капуста"],
+      "moon_tips": "Садити у Козерозі, Скорпіоні на спадному місяці"
+    },
+    {
+      "id": "leek",
+      "name_ua": "Цибуля-порей",
+      "name_latin": "Allium ampeloprasum",
+      "category": "bulb",
+      "emoji": "🌿",
+      "description": "Дворічна культура. М'якший смак ніж ріпчаста цибуля, зберігається прямо в ґрунті до морозів.",
+      "seo": {
+        "slug": "koly-sadyty-porey",
+        "keywords": ["коли садити порей", "цибуля порей посадка", "порей розсада строки"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 60,
+        "seedling_indoor": { "start": "02-15", "end": "03-10" },
+        "open_ground":     { "start": "05-01", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 15,
+        "spacing_cm": 15,
+        "row_spacing_cm": 30
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "азотні на початку",
+        "pinching": false,
+        "supports": false,
+        "hilling": true,
+        "hilling_note": "регулярне окучування для вибілювання стебла"
+      },
+      "harvest": {
+        "days_to_maturity": 120,
+        "season_start": "09-01",
+        "season_end": "11-15",
+        "signs": "товщина стебла 2-3 см"
+      },
+      "pests": ["цибулева муха", "трипси"],
+      "companions": ["морква", "селера", "буряк"],
+      "avoid": ["квасоля"],
+      "moon_tips": "Сіяти у Козерозі, Скорпіоні"
+    },
+    {
+      "id": "cabbage_white",
+      "name_ua": "Капуста білокачанна",
+      "name_latin": "Brassica oleracea",
+      "category": "brassica",
+      "emoji": "🥬",
+      "description": "Найпоширеніша капуста. Холодостійка, при правильному зберіганні лежить до весни.",
+      "seo": {
+        "slug": "koly-sadyty-kapustu",
+        "keywords": ["коли садити капусту", "розсада капусти строки", "капуста посадка відкритий ґрунт"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 55,
+        "seedling_indoor": { "start": "03-01", "end": "03-25", "note": "рання: 02-10–03-01" },
+        "open_ground":     { "start": "04-25", "end": "05-20", "note": "рання: 04-15–05-01" },
+        "greenhouse":      { "start": "03-20", "end": "04-05" },
+        "depth_cm": 8,
+        "spacing_cm": 50,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "рясний регулярний",
+        "fertilizing": "азотні на початку, фосфорні при утворенні качана",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 120,
+        "season_start": "07-15",
+        "season_end": "10-15",
+        "signs": "щільний качан, нижні листки підсохли"
+      },
+      "pests": ["капустяна білянка", "попелиця", "хрестоцвіта блішка", "кіла"],
+      "companions": ["кріп", "ромашка", "буряк", "салат"],
+      "avoid": ["томати", "часник", "полуниця"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні. Пікірувати в ті самі знаки"
+    },
+    {
+      "id": "cabbage_broccoli",
+      "name_ua": "Броколі",
+      "name_latin": "Brassica oleracea var. italica",
+      "category": "brassica",
+      "emoji": "🥦",
+      "description": "Корисна культура з високим вмістом вітамінів. Любить прохолоду, дає два врожаї за сезон.",
+      "seo": {
+        "slug": "koly-sadyty-brokoli",
+        "keywords": ["коли садити броколі", "розсада броколі строки", "броколі посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 45,
+        "seedling_indoor": { "start": "03-01", "end": "04-01" },
+        "open_ground":     { "start": "04-20", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 45,
+        "row_spacing_cm": 55
+      },
+      "care": {
+        "watering": "регулярний рівномірний",
+        "fertilizing": "азотні на початку",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 90,
+        "season_start": "06-20",
+        "season_end": "10-01",
+        "signs": "щільна зелена головка до розкриття бутонів"
+      },
+      "pests": ["капустяна білянка", "попелиця", "хрестоцвіта блішка"],
+      "companions": ["кріп", "ромашка", "салат"],
+      "avoid": ["томати", "полуниця"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "cabbage_cauliflower",
+      "name_ua": "Капуста цвітна",
+      "name_latin": "Brassica oleracea var. botrytis",
+      "category": "brassica",
+      "emoji": "🤍",
+      "description": "Примхлива культура, потребує рівномірної вологи і температури. Найкраще росте при +16-18°C.",
+      "seo": {
+        "slug": "koly-sadyty-tsvitnu-kapustu",
+        "keywords": ["коли садити цвітну капусту", "розсада цвітної капусти", "цвітна капуста строки"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 50,
+        "seedling_indoor": { "start": "03-01", "end": "03-25" },
+        "open_ground":     { "start": "04-25", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 50,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "рівномірний, уникати пересихання",
+        "fertilizing": "борне добриво обов'язкове",
+        "pinching": false,
+        "supports": false,
+        "blanching": true,
+        "blanching_note": "захист головки від сонця листками"
+      },
+      "harvest": {
+        "days_to_maturity": 100,
+        "season_start": "07-10",
+        "season_end": "10-01",
+        "signs": "діаметр головки 15-20 см, щільна, біла"
+      },
+      "pests": ["капустяна білянка", "попелиця", "кіла"],
+      "companions": ["кріп", "салат", "буряк"],
+      "avoid": ["томати", "полуниця"],
+      "moon_tips": "Сіяти у Раку, Рибах"
+    },
+    {
+      "id": "pea",
+      "name_ua": "Горох",
+      "name_latin": "Pisum sativum",
+      "category": "legume",
+      "emoji": "🫛",
+      "description": "Холодостійка культура. Одна з перших весняних посадок. Збагачує ґрунт азотом.",
+      "seo": {
+        "slug": "koly-sadyty-horokh",
+        "keywords": ["коли садити горох", "посів гороху строки", "горох посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-15", "end": "04-15", "note": "ґрунт +4°C, холодостійкий" },
+        "greenhouse":      null,
+        "depth_cm": 4,
+        "spacing_cm": 8,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "помірний, рясний при цвітінні",
+        "fertilizing": "фосфорно-калійні, без азоту",
+        "pinching": false,
+        "supports": true,
+        "supports_note": "шпалера або кілочки"
+      },
+      "harvest": {
+        "days_to_maturity": 60,
+        "season_start": "06-01",
+        "season_end": "07-15",
+        "signs": "лопатки ніжні, зерна наповнені"
+      },
+      "pests": ["горохова попелиця", "горохова плодожерка", "борошниста роса"],
+      "companions": ["морква", "редис", "салат", "огірки"],
+      "avoid": ["цибуля", "часник", "картопля"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "bean",
+      "name_ua": "Квасоля",
+      "name_latin": "Phaseolus vulgaris",
+      "category": "legume",
+      "emoji": "🫘",
+      "description": "Теплолюбна бобова культура. Збагачує ґрунт азотом. Кущова і виткова форми.",
+      "seo": {
+        "slug": "koly-sadyty-kvasoliu",
+        "keywords": ["коли садити квасолю", "посів квасолі строки", "квасоля посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "05-01", "end": "05-20", "note": "ґрунт +12°C, після заморозків" },
+        "greenhouse":      null,
+        "depth_cm": 4,
+        "spacing_cm": 15,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "помірний, уникати поливу при цвітінні",
+        "fertilizing": "фосфорно-калійні, без азоту",
+        "pinching": true,
+        "pinching_note": "виткі сорти — прищипування верхівки",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 55,
+        "season_start": "07-01",
+        "season_end": "09-01",
+        "signs": "лопатки ніжні (спаржева), або насіння сухе (зернова)"
+      },
+      "pests": ["бобова попелиця", "борошниста роса", "антракноз"],
+      "companions": ["морква", "капуста", "огірки", "кукурудза"],
+      "avoid": ["цибуля", "часник", "буряк", "горох"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "lettuce",
+      "name_ua": "Салат листовий",
+      "name_latin": "Lactuca sativa",
+      "category": "leafy",
+      "emoji": "🥗",
+      "description": "Швидкозростаюча культура. Сіють кілька разів за сезон. Любить прохолоду.",
+      "seo": {
+        "slug": "koly-sadyty-salat",
+        "keywords": ["коли садити салат", "посів салату строки", "листовий салат посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-25", "end": "05-01", "note": "і знову серпень-вересень" },
+        "greenhouse":      { "start": "02-15", "end": "03-10" },
+        "depth_cm": 0.5,
+        "spacing_cm": 20,
+        "row_spacing_cm": 25
+      },
+      "care": {
+        "watering": "регулярний, уникати попадання на листки",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 30,
+        "season_start": "04-25",
+        "season_end": "10-15",
+        "signs": "до утворення стрілки, листки соковиті"
+      },
+      "pests": ["попелиця", "слимаки", "борошниста роса"],
+      "companions": ["огірки", "редис", "морква", "цибуля"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "spinach",
+      "name_ua": "Шпинат",
+      "name_latin": "Spinacia oleracea",
+      "category": "leafy",
+      "emoji": "🌿",
+      "description": "Холодостійка скоростигла культура. Рекордсмен за вмістом заліза і вітамінів.",
+      "seo": {
+        "slug": "koly-sadyty-shpinat",
+        "keywords": ["коли садити шпинат", "посів шпинату строки", "шпинат посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-20", "end": "04-20", "note": "і серпень-вересень" },
+        "greenhouse":      { "start": "02-10", "end": "03-01" },
+        "depth_cm": 2,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "азотні при проріджуванні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 28,
+        "season_start": "04-20",
+        "season_end": "10-01",
+        "signs": "5-6 листків, до утворення стрілки"
+      },
+      "pests": ["попелиця", "несправжня борошниста роса"],
+      "companions": ["полуниця", "капуста", "цибуля"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "dill",
+      "name_ua": "Кріп",
+      "name_latin": "Anethum graveolens",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Найпоширеніша приправа в Україні. Сіють кілька разів за сезон для безперервного врожаю.",
+      "seo": {
+        "slug": "koly-sadyty-krip",
+        "keywords": ["коли садити кріп", "посів кропу строки", "кріп посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "03-25", "end": "07-01", "note": "кожні 2-3 тижні для безперервного збору" },
+        "greenhouse":      { "start": "02-15", "end": "03-15" },
+        "depth_cm": 1,
+        "spacing_cm": 5,
+        "row_spacing_cm": 15
+      },
+      "care": {
+        "watering": "помірний регулярний",
+        "fertilizing": "не потрібне",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 40,
+        "season_start": "05-05",
+        "season_end": "10-01",
+        "signs": "висота 20-30 см, до утворення суцвіть"
+      },
+      "pests": ["попелиця", "морквяна муха"],
+      "companions": ["огірки", "капуста", "цибуля", "салат"],
+      "avoid": ["морква", "петрушка", "фенхель"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні, Тельці"
+    },
+    {
+      "id": "parsley",
+      "name_ua": "Петрушка",
+      "name_latin": "Petroselinum crispum",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Дворічна культура. Перший рік — листя, другий — насіння. Можна вирощувати взимку на підвіконні.",
+      "seo": {
+        "slug": "koly-sadyty-petrushku",
+        "keywords": ["коли садити петрушку", "посів петрушки строки", "петрушка посадка весна"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "05-01", "note": "замочити насіння на добу перед посівом" },
+        "greenhouse":      { "start": "02-20", "end": "03-15" },
+        "depth_cm": 1,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "азотні навесні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 70,
+        "season_start": "06-10",
+        "season_end": "10-15",
+        "signs": "листки досягли 15-20 см"
+      },
+      "pests": ["морквяна муха", "попелиця"],
+      "companions": ["томати", "спаржа", "троянди"],
+      "avoid": ["морква", "кріп"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні, Діві"
+    },
+    {
+      "id": "basil",
+      "name_ua": "Базилік",
+      "name_latin": "Ocimum basilicum",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Теплолюбна ароматна трава. Відмінний компаньйон для томатів. Відлякує шкідників.",
+      "seo": {
+        "slug": "koly-sadyty-bazylyk",
+        "keywords": ["коли садити базилік", "розсада базиліку строки", "базилік посадка"]
+      },
+      "growing": {
+        "method": "seedling_or_direct",
+        "seedling_days": 30,
+        "seedling_indoor": { "start": "04-01", "end": "04-20" },
+        "open_ground":     { "start": "05-15", "end": "06-01", "note": "тільки після заморозків" },
+        "greenhouse":      { "start": "04-15", "end": "05-01" },
+        "depth_cm": 0.5,
+        "spacing_cm": 20,
+        "row_spacing_cm": 30
+      },
+      "care": {
+        "watering": "регулярний теплою водою",
+        "fertilizing": "мінімальні",
+        "pinching": true,
+        "pinching_note": "регулярне прищипування для кущистості"
+      },
+      "harvest": {
+        "days_to_maturity": 35,
+        "season_start": "06-10",
+        "season_end": "09-15",
+        "signs": "до цвітіння, верхні листки"
+      },
+      "pests": ["попелиця", "слимаки"],
+      "companions": ["томати", "перець", "огірки"],
+      "avoid": ["шавлія"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "mint",
+      "name_ua": "М'ята",
+      "name_latin": "Mentha",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Багаторічна рослина. Розповсюджується кореневищами. Краще вирощувати в обмежувачах.",
+      "seo": {
+        "slug": "koly-sadyty-miatu",
+        "keywords": ["коли садити м'яту", "розсада м'яти строки", "м'ята посадка"]
+      },
+      "growing": {
+        "method": "division_or_seedling",
+        "seedling_days": 20,
+        "seedling_indoor": { "start": "03-01", "end": "03-25" },
+        "open_ground":     { "start": "04-15", "end": "05-15" },
+        "greenhouse":      null,
+        "depth_cm": 5,
+        "spacing_cm": 30,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "органіка раз на рік",
+        "pinching": true,
+        "pinching_note": "видалення суцвіть для листкового збору"
+      },
+      "harvest": {
+        "days_to_maturity": 60,
+        "season_start": "05-20",
+        "season_end": "10-01",
+        "signs": "перед цвітінням"
+      },
+      "pests": ["іржа", "попелиця"],
+      "companions": ["капуста", "томати", "горох"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Близнюках"
+    },
+    {
+      "id": "sorrel",
+      "name_ua": "Щавель",
+      "name_latin": "Rumex acetosa",
+      "category": "perennial",
+      "emoji": "🌿",
+      "description": "Багаторічна кисла культура. Посіяв один раз — збираєш 10-15 років.",
+      "seo": {
+        "slug": "koly-sadyty-shchavel",
+        "keywords": ["коли садити щавель", "посів щавлю строки", "щавель посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "05-01", "note": "або серпень-вересень" },
+        "greenhouse":      null,
+        "depth_cm": 1,
+        "spacing_cm": 15,
+        "row_spacing_cm": 25
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "органіка раз на рік",
+        "pinching": true,
+        "pinching_note": "видалення стрілок"
+      },
+      "harvest": {
+        "days_to_maturity": 60,
+        "season_start": "04-25",
+        "season_end": "10-01",
+        "signs": "листки 10-15 см"
+      },
+      "pests": ["щавелевий листоїд", "попелиця"],
+      "companions": ["цибуля", "морква"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "corn",
+      "name_ua": "Кукурудза",
+      "name_latin": "Zea mays",
+      "category": "leafy",
+      "emoji": "🌽",
+      "description": "Теплолюбна висока культура. Запилюється вітром — садити блоками мінімум 4×4.",
+      "seo": {
+        "slug": "koly-sadyty-kukurudzu",
+        "keywords": ["коли садити кукурудзу", "посів кукурудзи строки", "кукурудза посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "05-01", "end": "05-20", "note": "ґрунт +10°C" },
+        "greenhouse":      null,
+        "depth_cm": 5,
+        "spacing_cm": 40,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "рясний при формуванні качанів",
+        "fertilizing": "азотні у фазі 5-6 листків",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 80,
+        "season_start": "07-25",
+        "season_end": "09-01",
+        "signs": "нитки побуріли, зерно соковите при натисканні"
+      },
+      "pests": ["кукурудзяний метелик", "попелиця"],
+      "companions": ["гарбуз", "квасоля", "огірки"],
+      "avoid": ["томати"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "sunflower",
+      "name_ua": "Соняшник",
+      "name_latin": "Helianthus annuus",
+      "category": "leafy",
+      "emoji": "🌻",
+      "description": "Технічна і декоративна культура. Невибаглива, посухостійка.",
+      "seo": {
+        "slug": "koly-sadyty-sonashnyk",
+        "keywords": ["коли садити соняшник", "посів соняшника строки", "соняшник посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-25", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 6,
+        "spacing_cm": 60,
+        "row_spacing_cm": 70
+      },
+      "care": {
+        "watering": "помірний, посухостійкий",
+        "fertilizing": "фосфорно-калійні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 110,
+        "season_start": "08-20",
+        "season_end": "09-20",
+        "signs": "тильний бік кошика пожовтів"
+      },
+      "pests": ["соняшниковий міль", "попелиця"],
+      "companions": ["огірки", "кабачки"],
+      "avoid": ["картопля", "картопля"],
+      "moon_tips": "Сіяти у Раку, Рибах"
+    },
+    {
+      "id": "celery",
+      "name_ua": "Селера",
+      "name_latin": "Apium graveolens",
+      "category": "root",
+      "emoji": "🌿",
+      "description": "Культура з довгим вегетаційним сезоном. Корінь або черешки використовують в кулінарії.",
+      "seo": {
+        "slug": "koly-sadyty-seleru",
+        "keywords": ["коли садити селеру", "розсада селери строки", "селера посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 70,
+        "seedling_indoor": { "start": "02-01", "end": "03-01", "note": "за 70-80 днів, насіння не загортати" },
+        "open_ground":     { "start": "05-01", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 0,
+        "spacing_cm": 30,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "рясний регулярний",
+        "fertilizing": "азотні на початку",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 150,
+        "season_start": "09-01",
+        "season_end": "10-20",
+        "signs": "діаметр кореня 8-10 см"
+      },
+      "pests": ["морквяна муха", "попелиця", "борошниста роса"],
+      "companions": ["томати", "капуста", "цибуля-порей"],
+      "avoid": ["морква", "петрушка"],
+      "moon_tips": "Сіяти у Раку, Рибах, Діві"
+    },
+    {
+      "id": "fennel",
+      "name_ua": "Фенхель",
+      "name_latin": "Foeniculum vulgare",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Ароматна культура з анісовим запахом. Відштовхує більшість городніх рослин — садіть окремо.",
+      "seo": {
+        "slug": "koly-sadyty-fenkhel",
+        "keywords": ["коли садити фенхель", "посів фенхелю строки", "фенхель посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-10", "end": "05-10" },
+        "greenhouse":      null,
+        "depth_cm": 1,
+        "spacing_cm": 30,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "мінімальні",
+        "pinching": true,
+        "pinching_note": "видалення суцвіть для листкового збору"
+      },
+      "harvest": {
+        "days_to_maturity": 70,
+        "season_start": "06-20",
+        "season_end": "09-01",
+        "signs": "цибулина діаметром 8-10 см"
+      },
+      "pests": [],
+      "companions": [],
+      "avoid": ["більшість городніх культур", "томати", "квасоля"],
+      "moon_tips": "Сіяти у Стрільці, Раку"
+    },
+    {
+      "id": "asparagus",
+      "name_ua": "Спаржа",
+      "name_latin": "Asparagus officinalis",
+      "category": "perennial",
+      "emoji": "🌿",
+      "description": "Багаторічна культура. Перші 2-3 роки не дає врожаю, але потім плодоносить 20+ років.",
+      "seo": {
+        "slug": "koly-sadyty-sparhu",
+        "keywords": ["коли садити спаржу", "розсада спаржі строки", "спаржа посадка"]
+      },
+      "growing": {
+        "method": "seedling_or_rhizome",
+        "seedling_days": 60,
+        "seedling_indoor": { "start": "02-15", "end": "03-15" },
+        "open_ground":     { "start": "04-20", "end": "05-15" },
+        "greenhouse":      null,
+        "depth_cm": 20,
+        "spacing_cm": 40,
+        "row_spacing_cm": 100
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "органіка щорічно",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 730,
+        "season_start": "04-15",
+        "season_end": "06-01",
+        "signs": "пагони 15-20 см, до розпускання головок"
+      },
+      "pests": ["спаржева мушка", "попелиця"],
+      "companions": ["томати", "петрушка", "базилік"],
+      "avoid": ["часник", "цибуля"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "strawberry",
+      "name_ua": "Суниця садова (полуниця)",
+      "name_latin": "Fragaria × ananassa",
+      "category": "berry",
+      "emoji": "🍓",
+      "description": "Найпопулярніша ягідна культура. Добре плодоносить 3-4 роки, потім розсаджують.",
+      "seo": {
+        "slug": "koly-sadyty-polunytsu",
+        "keywords": ["коли садити полуницю", "посадка полуниці строки", "суниця садова посадка"]
+      },
+      "growing": {
+        "method": "seedling_or_runners",
+        "seedling_days": 60,
+        "seedling_indoor": { "start": "02-01", "end": "03-01" },
+        "open_ground":     { "start": "04-15", "end": "05-15", "note": "або серпень: 08-01–09-01" },
+        "greenhouse":      null,
+        "depth_cm": 5,
+        "spacing_cm": 25,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "регулярний, уникати попадання на ягоди",
+        "fertilizing": "калійні після плодоношення",
+        "pinching": true,
+        "pinching_note": "видалення усів крім потрібних для розмноження",
+        "mulching": true
+      },
+      "harvest": {
+        "days_to_maturity": 365,
+        "season_start": "06-01",
+        "season_end": "07-15",
+        "signs": "рівномірне почервоніння"
+      },
+      "pests": ["сіра гниль", "земляничний кліщ", "довгоносик", "попелиця"],
+      "companions": ["часник", "цибуля", "петрушка", "шпинат"],
+      "avoid": ["капуста", "фенхель", "картопля"],
+      "moon_tips": "Садити у Раку, Рибах, Скорпіоні, Діві"
+    },
+    {
+      "id": "raspberry",
+      "name_ua": "Малина",
+      "name_latin": "Rubus idaeus",
+      "category": "berry",
+      "emoji": "🫐",
+      "description": "Популярний ягідний чагарник. Невибагливий, дає рясний врожай. Дворічний цикл плодоношення.",
+      "seo": {
+        "slug": "koly-sadyty-malunu",
+        "keywords": ["коли садити малину", "посадка малини строки", "малина посадка весна осінь"]
+      },
+      "growing": {
+        "method": "seedling_or_cuttings",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-15", "end": "05-15", "note": "або жовтень-листопад" },
+        "greenhouse":      null,
+        "depth_cm": 10,
+        "spacing_cm": 50,
+        "row_spacing_cm": 150
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "органіка восени, азотні навесні",
+        "pinching": true,
+        "pinching_note": "обрізування відплодоносивших пагонів",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 365,
+        "season_start": "07-01",
+        "season_end": "08-15",
+        "signs": "ягоди легко відриваються"
+      },
+      "pests": ["малинна муха", "малинний жук", "попелиця"],
+      "companions": ["часник", "чорнобривці"],
+      "avoid": ["картопля", "томати"],
+      "moon_tips": "Садити у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "currant_black",
+      "name_ua": "Смородина чорна",
+      "name_latin": "Ribes nigrum",
+      "category": "berry",
+      "emoji": "🫐",
+      "description": "Невибагливий ягідний чагарник. Рекордсмен за вмістом вітаміну C.",
+      "seo": {
+        "slug": "koly-sadyty-smorodunu",
+        "keywords": ["коли садити смородину", "посадка смородини строки", "смородина чорна посадка"]
+      },
+      "growing": {
+        "method": "cuttings",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "09-20", "end": "10-20", "note": "найкраще восени; навесні: 04-01–04-25" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 150,
+        "row_spacing_cm": 200
+      },
+      "care": {
+        "watering": "регулярний при плодоношенні",
+        "fertilizing": "органіка восени",
+        "pinching": true,
+        "pinching_note": "омолоджуюче обрізування кожні 3-4 роки"
+      },
+      "harvest": {
+        "days_to_maturity": 365,
+        "season_start": "07-01",
+        "season_end": "08-01",
+        "signs": "ягоди чорні, легко відриваються"
+      },
+      "pests": ["смородинова склівка", "попелиця", "борошниста роса"],
+      "companions": ["аґрус", "жимолость"],
+      "avoid": ["фенхель"],
+      "moon_tips": "Садити у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "gooseberry",
+      "name_ua": "Аґрус",
+      "name_latin": "Ribes uva-crispa",
+      "category": "berry",
+      "emoji": "🍈",
+      "description": "Колючий чагарник з кислими або солодкими ягодами. Дуже невибагливий.",
+      "seo": {
+        "slug": "koly-sadyty-ahrus",
+        "keywords": ["коли садити аґрус", "посадка аґрусу строки", "аґрус посадка"]
+      },
+      "growing": {
+        "method": "cuttings",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "09-20", "end": "10-20", "note": "найкраще восени; навесні: 04-01–04-25" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 100,
+        "row_spacing_cm": 150
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "органіка восени",
+        "pinching": true,
+        "pinching_note": "санітарне обрізування щорічно"
+      },
+      "harvest": {
+        "days_to_maturity": 365,
+        "season_start": "07-01",
+        "season_end": "08-01",
+        "signs": "м'які на дотик, характерний колір сорту"
+      },
+      "pests": ["борошниста роса", "агрусова вогнівка", "попелиця"],
+      "companions": ["смородина", "томати"],
+      "avoid": ["фенхель"],
+      "moon_tips": "Садити у Раку, Скорпіоні, Козерозі"
+    },
+    {
+      "id": "grape",
+      "name_ua": "Виноград",
+      "name_latin": "Vitis vinifera",
+      "category": "berry",
+      "emoji": "🍇",
+      "description": "Ліана-багаторічник. На півдні України дає чудові врожаї. На півночі — лише укривні сорти.",
+      "seo": {
+        "slug": "koly-sadyty-vynograd",
+        "keywords": ["коли садити виноград", "посадка винограду строки", "виноград посадка весна"]
+      },
+      "growing": {
+        "method": "cuttings_or_seedling",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-20", "end": "05-20", "note": "або жовтень" },
+        "greenhouse":      null,
+        "depth_cm": 50,
+        "spacing_cm": 200,
+        "row_spacing_cm": 250
+      },
+      "care": {
+        "watering": "рідкий але рясний",
+        "fertilizing": "комплексні добрива",
+        "pinching": true,
+        "pinching_note": "чеканка і пасинкування обов'язкові",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 730,
+        "season_start": "08-15",
+        "season_end": "10-01",
+        "signs": "ягоди м'які, характерний смак і колір"
+      },
+      "pests": ["оїдіум", "мілдью", "виноградна філоксера"],
+      "companions": ["троянди", "кріп"],
+      "avoid": ["капуста"],
+      "moon_tips": "Садити у Раку, Рибах, Скорпіоні, Близнюках"
+    },
+    {
+      "id": "garlic_winter",
+      "name_ua": "Часник озимий",
+      "name_latin": "Allium sativum",
+      "category": "bulb",
+      "emoji": "🧄",
+      "description": "Озимий часник садять восени і збирають наступного липня. Дає більший врожай ніж ярий.",
+      "seo": {
+        "slug": "koly-sadyty-ozymyi-chasnyk",
+        "keywords": ["коли садити озимий часник", "посадка часнику під зиму", "озимий часник строки"]
+      },
+      "growing": {
+        "method": "cloves",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "10-01", "end": "10-25", "note": "за 3-4 тижні до промерзання ґрунту" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "не потрібен восени, помірний навесні",
+        "fertilizing": "азотні навесні",
+        "pinching": true,
+        "pinching_note": "видалення стрілок"
+      },
+      "harvest": {
+        "days_to_maturity": 270,
+        "season_start": "07-01",
+        "season_end": "07-20",
+        "signs": "3-4 зелені листки, нижні пожовтіли"
+      },
+      "pests": ["іржа", "шийкова гниль"],
+      "companions": ["морква", "томати", "буряк"],
+      "avoid": ["квасоля", "горох"],
+      "moon_tips": "Садити у Козерозі, Скорпіоні, Рибах на спадному місяці"
+    },
+    {
+      "id": "topinambur",
+      "name_ua": "Топінамбур",
+      "name_latin": "Helianthus tuberosus",
+      "category": "perennial",
+      "emoji": "🌻",
+      "description": "Невибаглива багаторічна культура. Бульби їстівні, листки йдуть на корм худобі.",
+      "seo": {
+        "slug": "koly-sadyty-topinambur",
+        "keywords": ["коли садити топінамбур", "посадка топінамбура строки"]
+      },
+      "growing": {
+        "method": "tubers",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "05-01" },
+        "greenhouse":      null,
+        "depth_cm": 10,
+        "spacing_cm": 40,
+        "row_spacing_cm": 70
+      },
+      "care": {
+        "watering": "не потрібен",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 180,
+        "season_start": "10-01",
+        "season_end": "04-01",
+        "signs": "після перших морозів, можна збирати всю зиму"
+      },
+      "pests": [],
+      "companions": ["кукурудза", "соняшник"],
+      "avoid": [],
+      "moon_tips": "Садити у Козерозі, Тельці, Рибах"
+    },
+    {
+      "id": "horseradish",
+      "name_ua": "Хрін",
+      "name_latin": "Armoracia rusticana",
+      "category": "perennial",
+      "emoji": "🌿",
+      "description": "Невибаглива багаторічна культура. Контролюйте розповсюдження — росте дуже агресивно.",
+      "seo": {
+        "slug": "koly-sadyty-khrin",
+        "keywords": ["коли садити хрін", "посадка хрону строки", "хрін посадка"]
+      },
+      "growing": {
+        "method": "cuttings",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "04-25" },
+        "greenhouse":      null,
+        "depth_cm": 10,
+        "spacing_cm": 30,
+        "row_spacing_cm": 50
+      },
+      "care": {
+        "watering": "не потрібен",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 150,
+        "season_start": "10-01",
+        "season_end": "04-01",
+        "signs": "коріння діаметром 3-5 см"
+      },
+      "pests": ["хрінова блішка"],
+      "companions": ["картопля"],
+      "avoid": [],
+      "moon_tips": "Садити у Козерозі, Тельці на спадному місяці"
+    },
+    {
+      "id": "pumpkin_patisson",
+      "name_ua": "Патисон",
+      "name_latin": "Cucurbita pepo var. patisson",
+      "category": "cucurbit",
+      "emoji": "🥏",
+      "description": "Різновид кабачка у формі летючої тарілки. Ніжна м'якоть, швидко росте.",
+      "seo": {
+        "slug": "koly-sadyty-patysony",
+        "keywords": ["коли садити патисони", "посадка патисонів строки", "патисони посів"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 20,
+        "seedling_indoor": { "start": "04-20", "end": "05-01" },
+        "open_ground":     { "start": "05-01", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 3,
+        "spacing_cm": 70,
+        "row_spacing_cm": 100
+      },
+      "care": {
+        "watering": "помірний регулярний",
+        "fertilizing": "органіка при посадці",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 45,
+        "season_start": "06-25",
+        "season_end": "09-15",
+        "signs": "діаметр 7-12 см, ніжна шкірка"
+      },
+      "pests": ["борошниста роса", "попелиця"],
+      "companions": ["кріп", "кукурудза"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "kohlrabi",
+      "name_ua": "Кольрабі",
+      "name_latin": "Brassica oleracea var. gongylodes",
+      "category": "brassica",
+      "emoji": "🥬",
+      "description": "Швидкостигла капуста. Їдять потовщене стебло. Дає два врожаї на рік.",
+      "seo": {
+        "slug": "koly-sadyty-kolrabi",
+        "keywords": ["коли садити кольрабі", "розсада кольрабі строки", "кольрабі посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 35,
+        "seedling_indoor": { "start": "03-10", "end": "04-01" },
+        "open_ground":     { "start": "04-20", "end": "05-15" },
+        "greenhouse":      null,
+        "depth_cm": 6,
+        "spacing_cm": 25,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "рівномірний",
+        "fertilizing": "азотні на початку",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 60,
+        "season_start": "06-15",
+        "season_end": "09-15",
+        "signs": "діаметр стебла 8-10 см"
+      },
+      "pests": ["хрестоцвіта блішка", "капустяна білянка"],
+      "companions": ["салат", "буряк", "цибуля"],
+      "avoid": ["томати"],
+      "moon_tips": "Сіяти у Раку, Рибах, Козерозі"
+    },
+    {
+      "id": "savoy_cabbage",
+      "name_ua": "Капуста савойська",
+      "name_latin": "Brassica oleracea var. sabauda",
+      "category": "brassica",
+      "emoji": "🥬",
+      "description": "М'якша і смачніша за білокачанну. Холодостійка, витримує морози до -8°C.",
+      "seo": {
+        "slug": "koly-sadyty-savoisku-kapustu",
+        "keywords": ["коли садити савойську капусту", "савойська капуста посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 50,
+        "seedling_indoor": { "start": "03-10", "end": "04-01" },
+        "open_ground":     { "start": "05-01", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 50,
+        "row_spacing_cm": 60
+      },
+      "care": {
+        "watering": "регулярний рівномірний",
+        "fertilizing": "азотні на початку, фосфорні при утворенні качана",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 130,
+        "season_start": "08-01",
+        "season_end": "11-01",
+        "signs": "качан щільний, 1-2 кг"
+      },
+      "pests": ["капустяна білянка", "попелиця"],
+      "companions": ["кріп", "салат"],
+      "avoid": ["томати"],
+      "moon_tips": "Сіяти у Раку, Рибах, Близнюках"
+    },
+    {
+      "id": "chinese_cabbage",
+      "name_ua": "Капуста пекінська",
+      "name_latin": "Brassica rapa subsp. pekinensis",
+      "category": "brassica",
+      "emoji": "🥬",
+      "description": "Скоростигла культура. Готова за 45-60 днів. Схильна до стрілкування при довгому дні.",
+      "seo": {
+        "slug": "koly-sadyty-pekinsku-kapustu",
+        "keywords": ["коли садити пекінську капусту", "пекінська капуста посадка строки"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 25,
+        "seedling_indoor": { "start": "04-01", "end": "04-20" },
+        "open_ground":     { "start": "04-20", "end": "05-10", "note": "або серпень" },
+        "greenhouse":      null,
+        "depth_cm": 1,
+        "spacing_cm": 30,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "рясний регулярний",
+        "fertilizing": "азотні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 55,
+        "season_start": "06-10",
+        "season_end": "10-15",
+        "signs": "щільна головка 500-800 г"
+      },
+      "pests": ["хрестоцвіта блішка", "попелиця"],
+      "companions": ["морква", "салат"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "mache",
+      "name_ua": "Мангольд",
+      "name_latin": "Beta vulgaris var. cicla",
+      "category": "leafy",
+      "emoji": "🌿",
+      "description": "Листовий буряк. Декоративний і смачний. Замінює шпинат влітку коли той іде в стрілку.",
+      "seo": {
+        "slug": "koly-sadyty-manhold",
+        "keywords": ["коли садити мангольд", "мангольд посадка строки"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-15", "end": "06-01" },
+        "greenhouse":      null,
+        "depth_cm": 2,
+        "spacing_cm": 20,
+        "row_spacing_cm": 30
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "азотні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 55,
+        "season_start": "06-01",
+        "season_end": "10-15",
+        "signs": "листки 20-30 см, зрізати зовнішні"
+      },
+      "pests": ["попелиця", "бурякова блішка"],
+      "companions": ["цибуля", "капуста"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Козерозі"
+    },
+    {
+      "id": "coriander",
+      "name_ua": "Коріандр (кінза)",
+      "name_latin": "Coriandrum sativum",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Пряна рослина з різким ароматом. Одні обожнюють, інші не переносять. Швидко іде в стрілку.",
+      "seo": {
+        "slug": "koly-sadyty-kinzu",
+        "keywords": ["коли садити кінзу", "посів коріандру строки", "кінза посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-01", "end": "06-01", "note": "кожні 3 тижні для безперервного збору" },
+        "greenhouse":      null,
+        "depth_cm": 1,
+        "spacing_cm": 10,
+        "row_spacing_cm": 20
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "не потрібне",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 30,
+        "season_start": "05-01",
+        "season_end": "09-15",
+        "signs": "до утворення суцвіть"
+      },
+      "pests": ["попелиця"],
+      "companions": ["томати", "капуста", "салат"],
+      "avoid": ["фенхель"],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "daikon",
+      "name_ua": "Дайкон",
+      "name_latin": "Raphanus sativus var. longipinnatus",
+      "category": "root",
+      "emoji": "🌿",
+      "description": "Японська редька. Величезний корінь до 60 см. Сіють влітку для осіннього збору.",
+      "seo": {
+        "slug": "koly-sadyty-daikon",
+        "keywords": ["коли садити дайкон", "посів дайкону строки", "дайкон посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "07-01", "end": "07-20", "note": "літній посів для осіннього збору" },
+        "greenhouse":      null,
+        "depth_cm": 2,
+        "spacing_cm": 20,
+        "row_spacing_cm": 40
+      },
+      "care": {
+        "watering": "рівномірний",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 65,
+        "season_start": "09-15",
+        "season_end": "11-01",
+        "signs": "діаметр 5-8 см"
+      },
+      "pests": ["хрестоцвіта блішка", "капустяна муха"],
+      "companions": ["морква", "салат"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Козерозі, Тельці, Скорпіоні"
+    },
+    {
+      "id": "chicory",
+      "name_ua": "Цикорій",
+      "name_latin": "Cichorium intybus",
+      "category": "perennial",
+      "emoji": "🌿",
+      "description": "Листкова і коренева форма. Замінник кави. Гіркуватий смак, корисний для травлення.",
+      "seo": {
+        "slug": "koly-sadyty-tsykoriy",
+        "keywords": ["коли садити цикорій", "посів цикорію строки", "цикорій посадка"]
+      },
+      "growing": {
+        "method": "direct",
+        "seedling_days": null,
+        "seedling_indoor": null,
+        "open_ground":     { "start": "04-15", "end": "06-01" },
+        "greenhouse":      null,
+        "depth_cm": 1,
+        "spacing_cm": 15,
+        "row_spacing_cm": 30
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "мінімальні",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 120,
+        "season_start": "09-01",
+        "season_end": "10-15",
+        "signs": "коріння діаметром 3-5 см"
+      },
+      "pests": ["попелиця"],
+      "companions": ["морква", "салат"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Стрільці, Діві"
+    },
+    {
+      "id": "thyme",
+      "name_ua": "Чабер (чебрець)",
+      "name_latin": "Thymus vulgaris",
+      "category": "herb",
+      "emoji": "🌿",
+      "description": "Багаторічна пряна рослина. Посухостійка, декоративна. Відлякує шкідників.",
+      "seo": {
+        "slug": "koly-sadyty-chaber",
+        "keywords": ["коли садити чабер", "чабер посадка строки", "чебрець посадка"]
+      },
+      "growing": {
+        "method": "seedling_or_direct",
+        "seedling_days": 30,
+        "seedling_indoor": { "start": "03-01", "end": "03-25" },
+        "open_ground":     { "start": "04-20", "end": "05-15" },
+        "greenhouse":      null,
+        "depth_cm": 0.5,
+        "spacing_cm": 25,
+        "row_spacing_cm": 35
+      },
+      "care": {
+        "watering": "мінімальний",
+        "fertilizing": "не потрібне",
+        "pinching": true,
+        "pinching_note": "стрижка після цвітіння"
+      },
+      "harvest": {
+        "days_to_maturity": 90,
+        "season_start": "06-01",
+        "season_end": "09-15",
+        "signs": "перед і під час цвітіння"
+      },
+      "pests": [],
+      "companions": ["томати", "капуста", "баклажани"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "valerian",
+      "name_ua": "Валеріана",
+      "name_latin": "Valeriana officinalis",
+      "category": "herb",
+      "emoji": "🌸",
+      "description": "Лікарська рослина. Корені використовують як заспокійливий засіб.",
+      "seo": {
+        "slug": "koly-sadyty-valerianu",
+        "keywords": ["коли садити валеріану", "посів валеріани строки"]
+      },
+      "growing": {
+        "method": "direct_or_seedling",
+        "seedling_days": 25,
+        "seedling_indoor": { "start": "03-15", "end": "04-01" },
+        "open_ground":     { "start": "04-20", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 0.5,
+        "spacing_cm": 30,
+        "row_spacing_cm": 50
+      },
+      "care": {
+        "watering": "помірний",
+        "fertilizing": "мінімальні",
+        "pinching": true,
+        "pinching_note": "видалення суцвіть для росту кореня"
+      },
+      "harvest": {
+        "days_to_maturity": 365,
+        "season_start": "10-01",
+        "season_end": "04-01",
+        "signs": "коріння на другий рік"
+      },
+      "pests": ["кішки (привабливі для них)"],
+      "companions": ["овочеві культури загалом"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Діві"
+    },
+    {
+      "id": "artichoke",
+      "name_ua": "Артишок",
+      "name_latin": "Cynara scolymus",
+      "category": "perennial",
+      "emoji": "🌿",
+      "description": "Декоративна і їстівна рослина. Їдять нерозквітлі суцвіття. На півдні України багаторічник.",
+      "seo": {
+        "slug": "koly-sadyty-artushok",
+        "keywords": ["коли садити артишок", "розсада артишоку строки", "артишок посадка"]
+      },
+      "growing": {
+        "method": "seedling",
+        "seedling_days": 60,
+        "seedling_indoor": { "start": "02-15", "end": "03-15" },
+        "open_ground":     { "start": "05-01", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 10,
+        "spacing_cm": 80,
+        "row_spacing_cm": 100
+      },
+      "care": {
+        "watering": "рясний регулярний",
+        "fertilizing": "органіка щорічно",
+        "pinching": false,
+        "supports": false
+      },
+      "harvest": {
+        "days_to_maturity": 180,
+        "season_start": "08-01",
+        "season_end": "10-01",
+        "signs": "суцвіття щільне, до розпускання"
+      },
+      "pests": ["попелиця", "павутинний кліщ"],
+      "companions": ["томати", "капуста"],
+      "avoid": [],
+      "moon_tips": "Сіяти у Раку, Рибах, Скорпіоні"
+    },
+    {
+      "id": "lemongrass",
+      "name_ua": "Лимонник китайський",
+      "name_latin": "Schisandra chinensis",
+      "category": "berry",
+      "emoji": "🍋",
+      "description": "Декоративна ліана з корисними ягодами. Тонізуючий засіб. Росте повільно.",
+      "seo": {
+        "slug": "koly-sadyty-lymonnik",
+        "keywords": ["коли садити лимонник", "посадка лимонника строки"]
+      },
+      "growing": {
+        "method": "seedling_or_cuttings",
+        "seedling_days": 30,
+        "seedling_indoor": { "start": "03-01", "end": "03-25" },
+        "open_ground":     { "start": "04-20", "end": "05-20" },
+        "greenhouse":      null,
+        "depth_cm": 8,
+        "spacing_cm": 100,
+        "row_spacing_cm": 200
+      },
+      "care": {
+        "watering": "регулярний",
+        "fertilizing": "комплексні щорічно",
+        "pinching": true,
+        "pinching_note": "формування на шпалері",
+        "supports": true
+      },
+      "harvest": {
+        "days_to_maturity": 1825,
+        "season_start": "09-01",
+        "season_end": "10-01",
+        "signs": "грона ягід червоні"
+      },
+      "pests": ["борошниста роса"],
+      "companions": ["актинідія"],
+      "avoid": [],
+      "moon_tips": "Садити у Раку, Рибах, Близнюках"
+    }
+  ]
+}
