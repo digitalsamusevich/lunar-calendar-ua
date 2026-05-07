@@ -1,0 +1,3348 @@
+{
+  "meta": {
+    "month": 6,
+    "year": 2026,
+    "month_name_ua": "Червень",
+    "source": "floristics.info",
+    "source_url": "https://floristics.info/ua/misyachnij-kalendar/cherven.html"
+  },
+  "by_plant": {
+    "абрикос": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "агрус": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "айстри": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "аніс": [
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "арахіс": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "артишок": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "артишоки": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "базилік": [
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "баклажани": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "батун": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "баштанні культури": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "боби": [
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "бобові": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "болгарський перець": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "болгарський і гіркий перець": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "болгарський і каєнський перець": [
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "броколі": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "брюссельська": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "буряк": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "білокачанна": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "білокачанна капуста": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      }
+    ],
+    "валеріана": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "виноград": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "вишня": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "волоський горіх": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "волошки": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "всі види капусти": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "всі різновиди цибулі": [
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "віоли": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гарбузи": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гвоздика": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гвоздики": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гладіолуси": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "горох": [
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "горіх": [
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "груша": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гіацинти": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гіркий перець": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "гірчиця": [
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "дайкон": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "дельфініуми": [
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "жоржини": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "запашний горошок": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "кабачки": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "календула": [
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "калина": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "капуста": [
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "картопля": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "каєнський перець": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "клематиси": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "кольрабі": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "конвалії": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "коренеплоди (мангольд, буряк, морква, редька, дайкон)": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "коріандр": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "крес-салат": [
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "крокуси": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "кріп": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "кінза": [
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "латук": [
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "левкої": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "лимонник": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "листові овочі": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "ліани": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "лілії": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "м'ята": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "маки": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "малина": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "мангольд": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "маргаритки": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "матіоли": [
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "меліса": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "морква": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "нагідки": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "настурції": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "незабудки": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "нігтики": [
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "обліпиха": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "огірки": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "патисони": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "пекінська": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "пекінська капуста": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "перець чилі": [
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "персик": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "петрушка": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "помідори": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "примули": [
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "пряні трави": [
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "півонії": [
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "рання білокачанна капуста": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "редис": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "редька": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "ріпа": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "ріпчаста": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "савойська": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "савойська капуста": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "салат": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "салати": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "сальвія": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "селера": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "слива": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "смородина": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "солодкий перець": [
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "соя": [
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "спаржа": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "стокротки": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "суниця": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "тагетеси": [
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "томати": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "топінамбур": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "троянди": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "турнепс": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "фенхель": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "флокси": [
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "фіалки": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "хризантеми": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "хрін": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "цвітна": [
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "цвітна капуста": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибулинні квіти": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-07",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибулинні садові квіти": [
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "цибуля": [
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "цибуля (всі види)": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибуля на зелень": [
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "цибуля-батун": [
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибуля-порей": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибуля-ріпка на перо": [
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "rating": "bad",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибуля-ріпчаста": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цибуля-сіянка": [
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-07",
+        "rating": "bad",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "цикорій": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "цинії": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "чабер": [
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "чагарники": [
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "часник": [
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "червоноголова капуста": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "червоноголова і кольорова капуста": [
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "червонокачанна": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "червонокачанна капуста": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "черешня": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "rating": "bad",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "чорнобривці": [
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "rating": "good",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "шавлія": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "шипшина": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "шніт-цибуля": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "шпинат": [
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "rating": "normal",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ],
+    "щавель": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "rating": "excellent",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "яблуня": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "rating": "excellent",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "rating": "normal",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "ягідні культури": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "rating": "good",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      }
+    ],
+    "іриси": [
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "rating": "good",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "rating": "good",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      }
+    ]
+  },
+  "by_rating": {
+    "excellent": [
+      {
+        "day": 4,
+        "date": "2026-06-04",
+        "weekday": "четвер",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-06-16",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 17,
+        "date": "2026-06-17",
+        "weekday": "середа",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 25,
+        "date": "2026-06-25",
+        "weekday": "четвер",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 26,
+        "date": "2026-06-26",
+        "weekday": "п'ятниця",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "good": [
+      {
+        "day": 8,
+        "date": "2026-06-08",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Третя чверть"
+      },
+      {
+        "day": 9,
+        "date": "2026-06-09",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-06-12",
+        "weekday": "п'ятниця",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-06-13",
+        "weekday": "субота",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2026-06-20",
+        "weekday": "субота",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 21,
+        "date": "2026-06-21",
+        "weekday": "неділя",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 22,
+        "date": "2026-06-22",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 23,
+        "date": "2026-06-23",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 24,
+        "date": "2026-06-24",
+        "weekday": "середа",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "normal": [
+      {
+        "day": 1,
+        "date": "2026-06-01",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 2,
+        "date": "2026-06-02",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2026-06-14",
+        "weekday": "неділя",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 27,
+        "date": "2026-06-27",
+        "weekday": "субота",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 28,
+        "date": "2026-06-28",
+        "weekday": "неділя",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 29,
+        "date": "2026-06-29",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "bad": [
+      {
+        "day": 3,
+        "date": "2026-06-03",
+        "weekday": "середа",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-06-05",
+        "weekday": "п'ятниця",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-06-06",
+        "weekday": "субота",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-06-07",
+        "weekday": "неділя",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 10,
+        "date": "2026-06-10",
+        "weekday": "середа",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 11,
+        "date": "2026-06-11",
+        "weekday": "четвер",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2026-06-18",
+        "weekday": "четвер",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      },
+      {
+        "day": 19,
+        "date": "2026-06-19",
+        "weekday": "п'ятниця",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Зростаючий"
+      }
+    ],
+    "terrible": [
+      {
+        "day": 15,
+        "date": "2026-06-15",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодик"
+      },
+      {
+        "day": 30,
+        "date": "2026-06-30",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Повня"
+      }
+    ]
+  },
+  "rating_labels_ua": {
+    "excellent": "Відмінний",
+    "good": "Гарний",
+    "normal": "Нормальний",
+    "bad": "Поганий",
+    "terrible": "Жахливий"
+  }
+}
