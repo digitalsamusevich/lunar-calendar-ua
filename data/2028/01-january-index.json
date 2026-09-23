@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "year": 2028,
+    "month": 1
+  },
+  "by_plant": {},
+  "by_rating": {
+    "terrible": [
+      {
+        "day": 12,
+        "date": "2028-01-12",
+        "weekday": "середа",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Повня"
+      },
+      {
+        "day": 26,
+        "date": "2028-01-26",
+        "weekday": "середа",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Новий місяць"
+      },
+      {
+        "day": 27,
+        "date": "2028-01-27",
+        "weekday": "четвер",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "bad": [
+      {
+        "day": 4,
+        "date": "2028-01-04",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 5,
+        "date": "2028-01-05",
+        "weekday": "середа",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 13,
+        "date": "2028-01-13",
+        "weekday": "четвер",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2028-01-14",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2028-01-28",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2028-01-31",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "normal": [
+      {
+        "day": 9,
+        "date": "2028-01-09",
+        "weekday": "неділя",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-01-10",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 21,
+        "date": "2028-01-21",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2028-01-22",
+        "weekday": "субота",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2028-01-23",
+        "weekday": "неділя",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "good": [
+      {
+        "day": 6,
+        "date": "2028-01-06",
+        "weekday": "четвер",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-01-07",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 8,
+        "date": "2028-01-08",
+        "weekday": "субота",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 15,
+        "date": "2028-01-15",
+        "weekday": "субота",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2028-01-16",
+        "weekday": "неділя",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2028-01-17",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2028-01-18",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 25,
+        "date": "2028-01-25",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "excellent": [
+      {
+        "day": 1,
+        "date": "2028-01-01",
+        "weekday": "субота",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-01-02",
+        "weekday": "неділя",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 3,
+        "date": "2028-01-03",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 11,
+        "date": "2028-01-11",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2028-01-19",
+        "weekday": "середа",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2028-01-20",
+        "weekday": "четвер",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2028-01-24",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2028-01-29",
+        "weekday": "субота",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-01-30",
+        "weekday": "неділя",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ]
+  },
+  "rating_labels_ua": {
+    "excellent": "Відмінний",
+    "good": "Гарний",
+    "normal": "Нейтральний",
+    "bad": "Поганий",
+    "terrible": "Несприятливий"
+  },
+  "activity_labels_ua": {
+    "seedling_indoor": "сівба на розсаду",
+    "greenhouse": "у теплицю",
+    "open_ground": "у відкритий ґрунт",
+    "autumn": "осіння посадка",
+    "planting": "посадка саджанців",
+    "division": "поділ і пересадка"
+  }
+}
