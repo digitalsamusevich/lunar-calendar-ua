@@ -1,0 +1,16 @@
+{
+  "name": "lunar-calendar-ua",
+  "private": true,
+  "type": "module",
+  "description": "Генератор місячного посівного календаря України (власні астрономічні розрахунки + правила)",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": {
+    "astronomy-engine": "^2.1.19"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

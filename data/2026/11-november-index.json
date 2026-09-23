@@ -1,0 +1,1055 @@
+{
+  "meta": {
+    "year": 2026,
+    "month": 11
+  },
+  "by_plant": {
+    "carrot": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "beet": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "parsnip": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "parsley_root": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "welsh_onion": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "valerian": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "chamomile": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "echinacea": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "aster": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "calendula": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "spinach": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "sorrel": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "dill": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 18,
+        "date": "2026-11-18",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-11-19",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "parsley": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "coriander": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ]
+  },
+  "by_rating": {
+    "terrible": [
+      {
+        "day": 9,
+        "date": "2026-11-09",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Новий місяць"
+      },
+      {
+        "day": 24,
+        "date": "2026-11-24",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Повня"
+      }
+    ],
+    "bad": [
+      {
+        "day": 1,
+        "date": "2026-11-01",
+        "weekday": "неділя",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-02",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 10,
+        "date": "2026-11-10",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 15,
+        "date": "2026-11-15",
+        "weekday": "неділя",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 16,
+        "date": "2026-11-16",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 17,
+        "date": "2026-11-17",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 20,
+        "date": "2026-11-20",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 21,
+        "date": "2026-11-21",
+        "weekday": "субота",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 22,
+        "date": "2026-11-22",
+        "weekday": "неділя",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2026-11-29",
+        "weekday": "неділя",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 30,
+        "date": "2026-11-30",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "normal": [
+      {
+        "day": 11,
+        "date": "2026-11-11",
+        "weekday": "середа",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 12,
+        "date": "2026-11-12",
+        "weekday": "четвер",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-11-25",
+        "weekday": "середа",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 26,
+        "date": "2026-11-26",
+        "weekday": "четвер",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "good": [
+      {
+        "day": 3,
+        "date": "2026-11-03",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 4,
+        "date": "2026-11-04",
+        "weekday": "середа",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 5,
+        "date": "2026-11-05",
+        "weekday": "четвер",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-11-06",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 7,
+        "date": "2026-11-07",
+        "weekday": "субота",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-11-08",
+        "weekday": "неділя",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2026-11-23",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "excellent": [
+      {
+        "day": 13,
+        "date": "2026-11-13",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-11-14",
+        "weekday": "субота",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 18,
+        "date": "2026-11-18",
+        "weekday": "середа",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-11-19",
+        "weekday": "четвер",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 27,
+        "date": "2026-11-27",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2026-11-28",
+        "weekday": "субота",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      }
+    ]
+  },
+  "rating_labels_ua": {
+    "excellent": "Відмінний",
+    "good": "Гарний",
+    "normal": "Нейтральний",
+    "bad": "Поганий",
+    "terrible": "Несприятливий"
+  },
+  "activity_labels_ua": {
+    "seedling_indoor": "сівба на розсаду",
+    "greenhouse": "у теплицю",
+    "open_ground": "у відкритий ґрунт",
+    "autumn": "осіння посадка",
+    "planting": "посадка саджанців",
+    "division": "поділ і пересадка"
+  }
+}

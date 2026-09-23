@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-09-23T15:51:16.791Z",
+  "rules_version": "2.0",
+  "timezone": "Europe/Kyiv",
+  "months": [
+    {
+      "year": 2026,
+      "month": 1,
+      "calendar": "data/2026/01-january-calendar.json",
+      "index": "data/2026/01-january-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "calendar": "data/2026/02-february-calendar.json",
+      "index": "data/2026/02-february-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "calendar": "data/2026/03-march-calendar.json",
+      "index": "data/2026/03-march-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "calendar": "data/2026/04-april-calendar.json",
+      "index": "data/2026/04-april-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "calendar": "data/2026/05-may-calendar.json",
+      "index": "data/2026/05-may-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "calendar": "data/2026/06-june-calendar.json",
+      "index": "data/2026/06-june-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "calendar": "data/2026/07-july-calendar.json",
+      "index": "data/2026/07-july-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "calendar": "data/2026/08-august-calendar.json",
+      "index": "data/2026/08-august-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "calendar": "data/2026/09-september-calendar.json",
+      "index": "data/2026/09-september-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "calendar": "data/2026/10-october-calendar.json",
+      "index": "data/2026/10-october-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 11,
+      "calendar": "data/2026/11-november-calendar.json",
+      "index": "data/2026/11-november-index.json"
+    },
+    {
+      "year": 2026,
+      "month": 12,
+      "calendar": "data/2026/12-december-calendar.json",
+      "index": "data/2026/12-december-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 1,
+      "calendar": "data/2027/01-january-calendar.json",
+      "index": "data/2027/01-january-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 2,
+      "calendar": "data/2027/02-february-calendar.json",
+      "index": "data/2027/02-february-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 3,
+      "calendar": "data/2027/03-march-calendar.json",
+      "index": "data/2027/03-march-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 4,
+      "calendar": "data/2027/04-april-calendar.json",
+      "index": "data/2027/04-april-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 5,
+      "calendar": "data/2027/05-may-calendar.json",
+      "index": "data/2027/05-may-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 6,
+      "calendar": "data/2027/06-june-calendar.json",
+      "index": "data/2027/06-june-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 7,
+      "calendar": "data/2027/07-july-calendar.json",
+      "index": "data/2027/07-july-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 8,
+      "calendar": "data/2027/08-august-calendar.json",
+      "index": "data/2027/08-august-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 9,
+      "calendar": "data/2027/09-september-calendar.json",
+      "index": "data/2027/09-september-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 10,
+      "calendar": "data/2027/10-october-calendar.json",
+      "index": "data/2027/10-october-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 11,
+      "calendar": "data/2027/11-november-calendar.json",
+      "index": "data/2027/11-november-index.json"
+    },
+    {
+      "year": 2027,
+      "month": 12,
+      "calendar": "data/2027/12-december-calendar.json",
+      "index": "data/2027/12-december-index.json"
+    }
+  ]
+}

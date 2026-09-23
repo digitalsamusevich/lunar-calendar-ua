@@ -1,0 +1,4263 @@
+{
+  "meta": {
+    "year": 2027,
+    "month": 10,
+    "month_name_ua": "Жовтень",
+    "generated_at": "2026-09-23T15:51:17.796Z",
+    "rules_version": "2.0",
+    "source": "Власний розрахунок (astronomy-engine) і правила традиційного місячного садівництва",
+    "timezone": "Europe/Kyiv",
+    "observer": "Київ (50.45° пн. ш., 30.52° сх. д.)",
+    "phases": [
+      {
+        "date": "2027-10-07",
+        "type": "first_quarter",
+        "time": "14:48"
+      },
+      {
+        "date": "2027-10-15",
+        "type": "full",
+        "time": "16:47"
+      },
+      {
+        "date": "2027-10-22",
+        "type": "third_quarter",
+        "time": "20:29"
+      },
+      {
+        "date": "2027-10-29",
+        "type": "new_moon",
+        "time": "16:37"
+      }
+    ],
+    "eclipses": [],
+    "tasks": [
+      "Посадка озимого часнику й цибулі",
+      "Осіння посадка плодових дерев",
+      "Підзимова підготовка грядок, внесення органіки",
+      "Збір і закладання врожаю на зберігання"
+    ],
+    "rating_counts": {
+      "terrible": 2,
+      "bad": 6,
+      "normal": 7,
+      "good": 7,
+      "excellent": 9
+    }
+  },
+  "days": [
+    {
+      "date": "2027-10-01",
+      "day": 1,
+      "weekday": "пʼятниця",
+      "lunar_day": "2-3",
+      "lunar_days": [
+        2,
+        3
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 2,
+      "waxing": true,
+      "moon_sign": "Libra",
+      "moon_sign_ua": "Терези",
+      "moon_sign_symbol": "♎",
+      "element": "air",
+      "sign_at_start": "Libra",
+      "sign_at_start_ua": "Терези",
+      "sign_change": {
+        "time": "20:45",
+        "to": "Scorpio",
+        "to_ua": "Скорпіон"
+      },
+      "moonrise": "08:44",
+      "moonset": "18:36",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних. Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.",
+      "recommended": [
+        "Садити квіти, троянди й цибулинні",
+        "Висаджувати плодові дерева й кущі",
+        "Збирати врожай для зберігання",
+        "Вносити мінеральні добрива",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Вносити свіжий гній",
+        "Обробляти від шкідників",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити квіти, троянди й цибулинні",
+          "Висаджувати плодові дерева й кущі",
+          "Збирати врожай для зберігання",
+          "Вносити мінеральні добрива"
+        ],
+        "not": [
+          "Вносити свіжий гній",
+          "Обробляти від шкідників"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "daffodil",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Тюльпани",
+        "Нарциси",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Лілії",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-02",
+      "day": 2,
+      "weekday": "субота",
+      "lunar_day": "3-4",
+      "lunar_days": [
+        3,
+        4
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 7,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": null,
+      "moonrise": "10:08",
+      "moonset": "18:59",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Сіяти й садити майже всі культури, особливо розсаду",
+        "Садити часник і цибулю",
+        "Щеплювати",
+        "Поливати й підживлювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Розмножувати поділом коренів і бульб — можуть загнити",
+        "Обрізати дерева",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити майже всі культури, особливо розсаду",
+          "Садити часник і цибулю",
+          "Щеплювати",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Розмножувати поділом коренів і бульб — можуть загнити",
+          "Обрізати дерева"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_red",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "honeysuckle",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "daffodil",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Смородина червона",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Жимолость їстівна",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Нарциси",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-03",
+      "day": 3,
+      "weekday": "неділя",
+      "lunar_day": "4-5",
+      "lunar_days": [
+        4,
+        5
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 13,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": null,
+      "moonrise": "11:28",
+      "moonset": "19:28",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Сіяти й садити майже всі культури, особливо розсаду",
+        "Садити часник і цибулю",
+        "Щеплювати",
+        "Поливати й підживлювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Розмножувати поділом коренів і бульб — можуть загнити",
+        "Обрізати дерева",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити майже всі культури, особливо розсаду",
+          "Садити часник і цибулю",
+          "Щеплювати",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Розмножувати поділом коренів і бульб — можуть загнити",
+          "Обрізати дерева"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_red",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "honeysuckle",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "daffodil",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Смородина червона",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Жимолость їстівна",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Нарциси",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-04",
+      "day": 4,
+      "weekday": "понеділок",
+      "lunar_day": "5-6",
+      "lunar_days": [
+        5,
+        6
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 21,
+      "waxing": true,
+      "moon_sign": "Sagittarius",
+      "moon_sign_ua": "Стрілець",
+      "moon_sign_symbol": "♐",
+      "element": "fire",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": {
+        "time": "01:56",
+        "to": "Sagittarius",
+        "to_ua": "Стрілець"
+      },
+      "moonrise": "12:42",
+      "moonset": "20:07",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.",
+      "recommended": [
+        "Сіяти цибулю на перо, часник, кріп, гострий перець",
+        "Косити й збирати насіння",
+        "Прополювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати",
+        "Рясно поливати",
+        "Обрізати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти цибулю на перо, часник, кріп, гострий перець",
+          "Косити й збирати насіння",
+          "Прополювати"
+        ],
+        "not": [
+          "Пересаджувати",
+          "Рясно поливати",
+          "Обрізати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-05",
+      "day": 5,
+      "weekday": "вівторок",
+      "lunar_day": "6-7",
+      "lunar_days": [
+        6,
+        7
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 30,
+      "waxing": true,
+      "moon_sign": "Sagittarius",
+      "moon_sign_ua": "Стрілець",
+      "moon_sign_symbol": "♐",
+      "element": "fire",
+      "sign_at_start": "Sagittarius",
+      "sign_at_start_ua": "Стрілець",
+      "sign_change": null,
+      "moonrise": "13:45",
+      "moonset": "20:56",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.",
+      "recommended": [
+        "Сіяти цибулю на перо, часник, кріп, гострий перець",
+        "Косити й збирати насіння",
+        "Прополювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати",
+        "Рясно поливати",
+        "Обрізати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти цибулю на перо, часник, кріп, гострий перець",
+          "Косити й збирати насіння",
+          "Прополювати"
+        ],
+        "not": [
+          "Пересаджувати",
+          "Рясно поливати",
+          "Обрізати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-06",
+      "day": 6,
+      "weekday": "середа",
+      "lunar_day": "7-8",
+      "lunar_days": [
+        7,
+        8
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 39,
+      "waxing": true,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Sagittarius",
+      "sign_at_start_ua": "Стрілець",
+      "sign_change": {
+        "time": "10:59",
+        "to": "Capricorn",
+        "to_ua": "Козеріг"
+      },
+      "moonrise": "14:36",
+      "moonset": "21:54",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Щеплювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_red",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "honeysuckle",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Смородина червона",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Жимолость їстівна",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-07",
+      "day": 7,
+      "weekday": "четвер",
+      "lunar_day": "8-9",
+      "lunar_days": [
+        8,
+        9
+      ],
+      "moon_phase": "first_quarter",
+      "moon_phase_ua": "Перша чверть",
+      "phase_event": {
+        "type": "first_quarter",
+        "time": "14:48"
+      },
+      "illumination": 49,
+      "waxing": true,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Capricorn",
+      "sign_at_start_ua": "Козеріг",
+      "sign_change": null,
+      "moonrise": "15:14",
+      "moonset": "23:00",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Щеплювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_red",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "honeysuckle",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Смородина червона",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Жимолость їстівна",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-08",
+      "day": 8,
+      "weekday": "пʼятниця",
+      "lunar_day": "9-10",
+      "lunar_days": [
+        9,
+        10
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 58,
+      "waxing": true,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Capricorn",
+      "sign_at_start_ua": "Козеріг",
+      "sign_change": {
+        "time": "23:09",
+        "to": "Aquarius",
+        "to_ua": "Водолій"
+      },
+      "moonrise": "15:42",
+      "moonset": null,
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Щеплювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_red",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "honeysuckle",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Смородина червона",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Жимолость їстівна",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-09",
+      "day": 9,
+      "weekday": "субота",
+      "lunar_day": "10-11",
+      "lunar_days": [
+        10,
+        11
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 68,
+      "waxing": true,
+      "moon_sign": "Aquarius",
+      "moon_sign_ua": "Водолій",
+      "moon_sign_symbol": "♒",
+      "element": "air",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": null,
+      "moonrise": "16:04",
+      "moonset": "00:10",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Водолій — неплідний знак: день для догляду, а не для посівів.",
+      "recommended": [
+        "Прополювати й розпушувати",
+        "Прищипувати й пасинкувати",
+        "Боротися зі шкідниками",
+        "Збирати врожай"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Поливати й підживлювати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати",
+          "Прищипувати й пасинкувати",
+          "Боротися зі шкідниками",
+          "Збирати врожай"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-10",
+      "day": 10,
+      "weekday": "неділя",
+      "lunar_day": "11-12",
+      "lunar_days": [
+        11,
+        12
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 76,
+      "waxing": true,
+      "moon_sign": "Aquarius",
+      "moon_sign_ua": "Водолій",
+      "moon_sign_symbol": "♒",
+      "element": "air",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": null,
+      "moonrise": "16:21",
+      "moonset": "01:20",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Водолій — неплідний знак: день для догляду, а не для посівів.",
+      "recommended": [
+        "Прополювати й розпушувати",
+        "Прищипувати й пасинкувати",
+        "Боротися зі шкідниками",
+        "Збирати врожай"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Поливати й підживлювати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати",
+          "Прищипувати й пасинкувати",
+          "Боротися зі шкідниками",
+          "Збирати врожай"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-11",
+      "day": 11,
+      "weekday": "понеділок",
+      "lunar_day": "12-13",
+      "lunar_days": [
+        12,
+        13
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 84,
+      "waxing": true,
+      "moon_sign": "Aquarius",
+      "moon_sign_ua": "Водолій",
+      "moon_sign_symbol": "♒",
+      "element": "air",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": {
+        "time": "12:01",
+        "to": "Pisces",
+        "to_ua": "Риби"
+      },
+      "moonrise": "16:36",
+      "moonset": "02:29",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Водолій — неплідний знак: день для догляду, а не для посівів.",
+      "recommended": [
+        "Прополювати й розпушувати",
+        "Прищипувати й пасинкувати",
+        "Боротися зі шкідниками",
+        "Збирати врожай"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Поливати й підживлювати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати",
+          "Прищипувати й пасинкувати",
+          "Боротися зі шкідниками",
+          "Збирати врожай"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-12",
+      "day": 12,
+      "weekday": "вівторок",
+      "lunar_day": "13-14",
+      "lunar_days": [
+        13,
+        14
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 90,
+      "waxing": true,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": null,
+      "moonrise": "16:49",
+      "moonset": "03:38",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-13",
+      "day": 13,
+      "weekday": "середа",
+      "lunar_day": "14-15",
+      "lunar_days": [
+        14,
+        15
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 95,
+      "waxing": true,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": {
+        "time": "23:09",
+        "to": "Aries",
+        "to_ua": "Овен"
+      },
+      "moonrise": "17:02",
+      "moonset": "04:48",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "rye_winter",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blackberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "sea_buckthorn",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_sour",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "cherry_plum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "hyacinth",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "crocus",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Жито озиме (сидерат)",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Ожина садова",
+        "Лохина (чорниця садова)",
+        "Обліпиха",
+        "Калина звичайна",
+        "Виноград",
+        "Лимонник китайський",
+        "Яблуня",
+        "Груша",
+        "Вишня",
+        "Слива",
+        "Алича",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Гіацинти",
+        "Крокуси (шафран)",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-14",
+      "day": 14,
+      "weekday": "четвер",
+      "lunar_day": "15-16",
+      "lunar_days": [
+        15,
+        16
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 98,
+      "waxing": true,
+      "moon_sign": "Aries",
+      "moon_sign_ua": "Овен",
+      "moon_sign_symbol": "♈",
+      "element": "fire",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": null,
+      "moonrise": "17:16",
+      "moonset": "05:59",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Овен — неплідний знак: насіння сходить погано, рослини слабкі.",
+      "recommended": [
+        "Прополювати й розпушувати ґрунт",
+        "Боротися зі шкідниками й хворобами",
+        "Збирати овочі та зелень для швидкого вживання",
+        "Сушити трави, гриби й фрукти"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Рясно поливати й підживлювати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати ґрунт",
+          "Боротися зі шкідниками й хворобами",
+          "Збирати овочі та зелень для швидкого вживання",
+          "Сушити трави, гриби й фрукти"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Рясно поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-15",
+      "day": 15,
+      "weekday": "пʼятниця",
+      "lunar_day": "16-17",
+      "lunar_days": [
+        16,
+        17
+      ],
+      "moon_phase": "full",
+      "moon_phase_ua": "Повня",
+      "phase_event": {
+        "type": "full",
+        "time": "16:47"
+      },
+      "illumination": 100,
+      "waxing": true,
+      "moon_sign": "Aries",
+      "moon_sign_ua": "Овен",
+      "moon_sign_symbol": "♈",
+      "element": "fire",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": null,
+      "moonrise": "17:32",
+      "moonset": "07:12",
+      "eclipse": null,
+      "planting_rating": "terrible",
+      "rating_reason": "Повня — рослини найчутливіші до пошкоджень, пересадки й обрізання не рекомендують. Овен — неплідний знак: насіння сходить погано, рослини слабкі.",
+      "recommended": [
+        "Прорідити посіви, прополювати",
+        "Збирати врожай для швидкого вживання та лікарські трави"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Обрізати та щеплювати"
+      ],
+      "sign_works": {
+        "rec": [],
+        "not": []
+      },
+      "phase_works": {
+        "rec": [
+          "Прорідити посіви, прополювати",
+          "Збирати врожай для швидкого вживання та лікарські трави"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Обрізати та щеплювати"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-16",
+      "day": 16,
+      "weekday": "субота",
+      "lunar_day": "17-18",
+      "lunar_days": [
+        17,
+        18
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 99,
+      "waxing": false,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": {
+        "time": "07:37",
+        "to": "Taurus",
+        "to_ua": "Телець"
+      },
+      "moonrise": "17:52",
+      "moonset": "08:28",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються.",
+      "recommended": [
+        "Садити коренеплоди й бульби для зберігання",
+        "Висаджувати розсаду та саджанці",
+        "Вносити органічні добрива",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Глибоко перекопувати біля коріння",
+        "Обрізати коріння під час пересадки",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди й бульби для зберігання",
+          "Висаджувати розсаду та саджанці",
+          "Вносити органічні добрива",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Глибоко перекопувати біля коріння",
+          "Обрізати коріння під час пересадки"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "horseradish",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Топінамбур",
+        "Хрін",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Груша",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-17",
+      "day": 17,
+      "weekday": "неділя",
+      "lunar_day": "18-19",
+      "lunar_days": [
+        18,
+        19
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 96,
+      "waxing": false,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Taurus",
+      "sign_at_start_ua": "Телець",
+      "sign_change": null,
+      "moonrise": "18:17",
+      "moonset": "09:46",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються.",
+      "recommended": [
+        "Садити коренеплоди й бульби для зберігання",
+        "Висаджувати розсаду та саджанці",
+        "Вносити органічні добрива",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Глибоко перекопувати біля коріння",
+        "Обрізати коріння під час пересадки",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди й бульби для зберігання",
+          "Висаджувати розсаду та саджанці",
+          "Вносити органічні добрива",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Глибоко перекопувати біля коріння",
+          "Обрізати коріння під час пересадки"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "horseradish",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Топінамбур",
+        "Хрін",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Груша",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-18",
+      "day": 18,
+      "weekday": "понеділок",
+      "lunar_day": "19-20",
+      "lunar_days": [
+        19,
+        20
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 91,
+      "waxing": false,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Taurus",
+      "sign_at_start_ua": "Телець",
+      "sign_change": {
+        "time": "13:46",
+        "to": "Gemini",
+        "to_ua": "Близнюки"
+      },
+      "moonrise": "18:51",
+      "moonset": "11:04",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються.",
+      "recommended": [
+        "Садити коренеплоди й бульби для зберігання",
+        "Висаджувати розсаду та саджанці",
+        "Вносити органічні добрива",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Глибоко перекопувати біля коріння",
+        "Обрізати коріння під час пересадки",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди й бульби для зберігання",
+          "Висаджувати розсаду та саджанці",
+          "Вносити органічні добрива",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Глибоко перекопувати біля коріння",
+          "Обрізати коріння під час пересадки"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "horseradish",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "currant_black",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gooseberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "pear",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "quince",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Топінамбур",
+        "Хрін",
+        "Малина",
+        "Смородина чорна",
+        "Аґрус",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Груша",
+        "Айва",
+        "Горіх волоський",
+        "Тюльпани",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-19",
+      "day": 19,
+      "weekday": "вівторок",
+      "lunar_day": "20-21",
+      "lunar_days": [
+        20,
+        21
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 84,
+      "waxing": false,
+      "moon_sign": "Gemini",
+      "moon_sign_ua": "Близнюки",
+      "moon_sign_symbol": "♊",
+      "element": "air",
+      "sign_at_start": "Gemini",
+      "sign_at_start_ua": "Близнюки",
+      "sign_change": null,
+      "moonrise": "19:39",
+      "moonset": "12:16",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Близнюки — малородючий знак, але добрий для витких і в’юнких рослин.",
+      "recommended": [
+        "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+        "Висаджувати вуса суниці",
+        "Прополювати й розпушувати",
+        "Збирати лікарські трави",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Рясно поливати",
+        "Вносити мінеральні добрива",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+          "Висаджувати вуса суниці",
+          "Прополювати й розпушувати",
+          "Збирати лікарські трави"
+        ],
+        "not": [
+          "Рясно поливати",
+          "Вносити мінеральні добрива"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Тюльпани",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-20",
+      "day": 20,
+      "weekday": "середа",
+      "lunar_day": "21-22",
+      "lunar_days": [
+        21,
+        22
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 75,
+      "waxing": false,
+      "moon_sign": "Gemini",
+      "moon_sign_ua": "Близнюки",
+      "moon_sign_symbol": "♊",
+      "element": "air",
+      "sign_at_start": "Gemini",
+      "sign_at_start_ua": "Близнюки",
+      "sign_change": {
+        "time": "18:24",
+        "to": "Cancer",
+        "to_ua": "Рак"
+      },
+      "moonrise": "20:41",
+      "moonset": "13:18",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Близнюки — малородючий знак, але добрий для витких і в’юнких рослин.",
+      "recommended": [
+        "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+        "Висаджувати вуса суниці",
+        "Прополювати й розпушувати",
+        "Збирати лікарські трави",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Рясно поливати",
+        "Вносити мінеральні добрива",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+          "Висаджувати вуса суниці",
+          "Прополювати й розпушувати",
+          "Збирати лікарські трави"
+        ],
+        "not": [
+          "Рясно поливати",
+          "Вносити мінеральні добрива"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Тюльпани",
+        "Троянди"
+      ]
+    },
+    {
+      "date": "2027-10-21",
+      "day": 21,
+      "weekday": "четвер",
+      "lunar_day": "22-23",
+      "lunar_days": [
+        22,
+        23
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 65,
+      "waxing": false,
+      "moon_sign": "Cancer",
+      "moon_sign_ua": "Рак",
+      "moon_sign_symbol": "♋",
+      "element": "water",
+      "sign_at_start": "Cancer",
+      "sign_at_start_ua": "Рак",
+      "sign_change": null,
+      "moonrise": "21:56",
+      "moonset": "14:07",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Рак — один із найродючіших знаків: насіння дружно сходить, рослини соковиті.",
+      "recommended": [
+        "Сіяти й висаджувати більшість городніх культур",
+        "Поливати",
+        "Вносити мінеральні добрива",
+        "Щеплювати плодові дерева",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви"
+      ],
+      "not_recommended": [
+        "Обробляти рослини хімічними препаратами",
+        "Закладати врожай на тривале зберігання",
+        "Садити картоплю — бульби будуть водянисті",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й висаджувати більшість городніх культур",
+          "Поливати",
+          "Вносити мінеральні добрива",
+          "Щеплювати плодові дерева"
+        ],
+        "not": [
+          "Обробляти рослини хімічними препаратами",
+          "Закладати врожай на тривале зберігання",
+          "Садити картоплю — бульби будуть водянисті"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Топінамбур",
+        "Валеріана",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Малина",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Тюльпани"
+      ]
+    },
+    {
+      "date": "2027-10-22",
+      "day": 22,
+      "weekday": "пʼятниця",
+      "lunar_day": "23-24",
+      "lunar_days": [
+        23,
+        24
+      ],
+      "moon_phase": "third_quarter",
+      "moon_phase_ua": "Остання чверть",
+      "phase_event": {
+        "type": "third_quarter",
+        "time": "20:29"
+      },
+      "illumination": 54,
+      "waxing": false,
+      "moon_sign": "Cancer",
+      "moon_sign_ua": "Рак",
+      "moon_sign_symbol": "♋",
+      "element": "water",
+      "sign_at_start": "Cancer",
+      "sign_at_start_ua": "Рак",
+      "sign_change": {
+        "time": "22:02",
+        "to": "Leo",
+        "to_ua": "Лев"
+      },
+      "moonrise": "23:19",
+      "moonset": "14:42",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Рак — один із найродючіших знаків: насіння дружно сходить, рослини соковиті.",
+      "recommended": [
+        "Сіяти й висаджувати більшість городніх культур",
+        "Поливати",
+        "Вносити мінеральні добрива",
+        "Щеплювати плодові дерева",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви"
+      ],
+      "not_recommended": [
+        "Обробляти рослини хімічними препаратами",
+        "Закладати врожай на тривале зберігання",
+        "Садити картоплю — бульби будуть водянисті",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й висаджувати більшість городніх культур",
+          "Поливати",
+          "Вносити мінеральні добрива",
+          "Щеплювати плодові дерева"
+        ],
+        "not": [
+          "Обробляти рослини хімічними препаратами",
+          "Закладати врожай на тривале зберігання",
+          "Садити картоплю — бульби будуть водянисті"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Топінамбур",
+        "Валеріана",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Малина",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Тюльпани"
+      ]
+    },
+    {
+      "date": "2027-10-23",
+      "day": 23,
+      "weekday": "субота",
+      "lunar_day": "24",
+      "lunar_days": [
+        24
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 43,
+      "waxing": false,
+      "moon_sign": "Leo",
+      "moon_sign_ua": "Лев",
+      "moon_sign_symbol": "♌",
+      "element": "fire",
+      "sign_at_start": "Leo",
+      "sign_at_start_ua": "Лев",
+      "sign_change": null,
+      "moonrise": null,
+      "moonset": "15:09",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Лев — найбільш неплідний знак: посіяне погано сходить.",
+      "recommended": [
+        "Збирати фрукти, ягоди й насіння",
+        "Сушити й заготовляти",
+        "Мульчувати й прополювати",
+        "Косити газон — повільніше відростатиме",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Пересаджувати",
+        "Поливати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Збирати фрукти, ягоди й насіння",
+          "Сушити й заготовляти",
+          "Мульчувати й прополювати",
+          "Косити газон — повільніше відростатиме"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Пересаджувати",
+          "Поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-24",
+      "day": 24,
+      "weekday": "неділя",
+      "lunar_day": "24-25",
+      "lunar_days": [
+        24,
+        25
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 32,
+      "waxing": false,
+      "moon_sign": "Leo",
+      "moon_sign_ua": "Лев",
+      "moon_sign_symbol": "♌",
+      "element": "fire",
+      "sign_at_start": "Leo",
+      "sign_at_start_ua": "Лев",
+      "sign_change": null,
+      "moonrise": "00:44",
+      "moonset": "15:30",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Лев — найбільш неплідний знак: посіяне погано сходить.",
+      "recommended": [
+        "Збирати фрукти, ягоди й насіння",
+        "Сушити й заготовляти",
+        "Мульчувати й прополювати",
+        "Косити газон — повільніше відростатиме",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Пересаджувати",
+        "Поливати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Збирати фрукти, ягоди й насіння",
+          "Сушити й заготовляти",
+          "Мульчувати й прополювати",
+          "Косити газон — повільніше відростатиме"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Пересаджувати",
+          "Поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-25",
+      "day": 25,
+      "weekday": "понеділок",
+      "lunar_day": "25-26",
+      "lunar_days": [
+        25,
+        26
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 22,
+      "waxing": false,
+      "moon_sign": "Virgo",
+      "moon_sign_ua": "Діва",
+      "moon_sign_symbol": "♍",
+      "element": "earth",
+      "sign_at_start": "Leo",
+      "sign_at_start_ua": "Лев",
+      "sign_change": {
+        "time": "00:53",
+        "to": "Virgo",
+        "to_ua": "Діва"
+      },
+      "moonrise": "02:08",
+      "moonset": "15:48",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Діва — знак, сприятливий для квітів і декоративних рослин; овочі на насіння — гірше.",
+      "recommended": [
+        "Сіяти й пересаджувати квіти та декоративні рослини",
+        "Ділити кущі багаторічників",
+        "Садити плодові дерева й кущі",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти овочі на насіння",
+        "Замочувати насіння",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й пересаджувати квіти та декоративні рослини",
+          "Ділити кущі багаторічників",
+          "Садити плодові дерева й кущі",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Сіяти овочі на насіння",
+          "Замочувати насіння"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "carrot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsnip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsley_root",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "garlic",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "viburnum",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "planting",
+            "autumn"
+          ]
+        },
+        {
+          "id": "tulip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Морква",
+        "Буряк столовий",
+        "Пастернак",
+        "Петрушка коренева",
+        "Цибуля ріпчаста",
+        "Часник (озимий і ярий)",
+        "Цибуля-шалот",
+        "Цибуля-батун",
+        "Топінамбур",
+        "Валеріана",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Малина",
+        "Калина звичайна",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Тюльпани",
+        "Айстри однорічні",
+        "Нагідки (календула)"
+      ]
+    },
+    {
+      "date": "2027-10-26",
+      "day": 26,
+      "weekday": "вівторок",
+      "lunar_day": "26-27",
+      "lunar_days": [
+        26,
+        27
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 13,
+      "waxing": false,
+      "moon_sign": "Virgo",
+      "moon_sign_ua": "Діва",
+      "moon_sign_symbol": "♍",
+      "element": "earth",
+      "sign_at_start": "Virgo",
+      "sign_at_start_ua": "Діва",
+      "sign_change": null,
+      "moonrise": "03:32",
+      "moonset": "16:04",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Діва — знак, сприятливий для квітів і декоративних рослин; овочі на насіння — гірше.",
+      "recommended": [
+        "Сіяти й пересаджувати квіти та декоративні рослини",
+        "Ділити кущі багаторічників",
+        "Садити плодові дерева й кущі",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти овочі на насіння",
+        "Замочувати насіння",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й пересаджувати квіти та декоративні рослини",
+          "Ділити кущі багаторічників",
+          "Садити плодові дерева й кущі",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Сіяти овочі на насіння",
+          "Замочувати насіння"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "carrot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsnip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsley_root",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Морква",
+        "Буряк столовий",
+        "Пастернак",
+        "Петрушка коренева",
+        "Цибуля ріпчаста",
+        "Цибуля-батун",
+        "Валеріана",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Айстри однорічні",
+        "Нагідки (календула)"
+      ]
+    },
+    {
+      "date": "2027-10-27",
+      "day": 27,
+      "weekday": "середа",
+      "lunar_day": "27-28",
+      "lunar_days": [
+        27,
+        28
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 6,
+      "waxing": false,
+      "moon_sign": "Libra",
+      "moon_sign_ua": "Терези",
+      "moon_sign_symbol": "♎",
+      "element": "air",
+      "sign_at_start": "Virgo",
+      "sign_at_start_ua": "Діва",
+      "sign_change": {
+        "time": "03:21",
+        "to": "Libra",
+        "to_ua": "Терези"
+      },
+      "moonrise": "04:54",
+      "moonset": "16:21",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних.",
+      "recommended": [
+        "Садити квіти, троянди й цибулинні",
+        "Висаджувати плодові дерева й кущі",
+        "Збирати врожай для зберігання",
+        "Вносити мінеральні добрива",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви"
+      ],
+      "not_recommended": [
+        "Вносити свіжий гній",
+        "Обробляти від шкідників",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити квіти, троянди й цибулинні",
+          "Висаджувати плодові дерева й кущі",
+          "Збирати врожай для зберігання",
+          "Вносити мінеральні добрива"
+        ],
+        "not": [
+          "Вносити свіжий гній",
+          "Обробляти від шкідників"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "carrot",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsnip",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsley_root",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Морква",
+        "Буряк столовий",
+        "Пастернак",
+        "Петрушка коренева",
+        "Цибуля ріпчаста",
+        "Цибуля-батун",
+        "Валеріана",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Айстри однорічні",
+        "Нагідки (календула)"
+      ]
+    },
+    {
+      "date": "2027-10-28",
+      "day": 28,
+      "weekday": "четвер",
+      "lunar_day": "28-29",
+      "lunar_days": [
+        28,
+        29
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 2,
+      "waxing": false,
+      "moon_sign": "Libra",
+      "moon_sign_ua": "Терези",
+      "moon_sign_symbol": "♎",
+      "element": "air",
+      "sign_at_start": "Libra",
+      "sign_at_start_ua": "Терези",
+      "sign_change": null,
+      "moonrise": "06:17",
+      "moonset": "16:38",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних. Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.",
+      "recommended": [
+        "Садити квіти, троянди й цибулинні",
+        "Висаджувати плодові дерева й кущі",
+        "Збирати врожай для зберігання",
+        "Вносити мінеральні добрива",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви"
+      ],
+      "not_recommended": [
+        "Вносити свіжий гній",
+        "Обробляти від шкідників",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити квіти, троянди й цибулинні",
+          "Висаджувати плодові дерева й кущі",
+          "Збирати врожай для зберігання",
+          "Вносити мінеральні добрива"
+        ],
+        "not": [
+          "Вносити свіжий гній",
+          "Обробляти від шкідників"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Айстри однорічні",
+        "Нагідки (календула)"
+      ]
+    },
+    {
+      "date": "2027-10-29",
+      "day": 29,
+      "weekday": "пʼятниця",
+      "lunar_day": "29-30-1",
+      "lunar_days": [
+        29,
+        30,
+        1
+      ],
+      "moon_phase": "new_moon",
+      "moon_phase_ua": "Новий місяць",
+      "phase_event": {
+        "type": "new_moon",
+        "time": "16:37"
+      },
+      "illumination": 0,
+      "waxing": false,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Libra",
+      "sign_at_start_ua": "Терези",
+      "sign_change": {
+        "time": "06:22",
+        "to": "Scorpio",
+        "to_ua": "Скорпіон"
+      },
+      "moonrise": "07:40",
+      "moonset": "17:00",
+      "eclipse": null,
+      "planting_rating": "terrible",
+      "rating_reason": "Новий місяць — сили рослин на мінімумі, посіви та пересадки приживаються гірше. Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Планувати посадки, готувати насіння та інвентар",
+        "Легке прополювання"
+      ],
+      "not_recommended": [
+        "Сіяти, садити й пересаджувати",
+        "Щеплювати й обрізати"
+      ],
+      "sign_works": {
+        "rec": [],
+        "not": []
+      },
+      "phase_works": {
+        "rec": [
+          "Планувати посадки, готувати насіння та інвентар",
+          "Легке прополювання"
+        ],
+        "not": [
+          "Сіяти, садити й пересаджувати",
+          "Щеплювати й обрізати"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-10-30",
+      "day": 30,
+      "weekday": "субота",
+      "lunar_day": "1-2",
+      "lunar_days": [
+        1,
+        2
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 1,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": null,
+      "moonrise": "09:02",
+      "moonset": "17:26",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб. Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.",
+      "recommended": [
+        "Сіяти й садити майже всі культури, особливо розсаду",
+        "Садити часник і цибулю",
+        "Щеплювати",
+        "Поливати й підживлювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Розмножувати поділом коренів і бульб — можуть загнити",
+        "Обрізати дерева",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити майже всі культури, особливо розсаду",
+          "Садити часник і цибулю",
+          "Щеплювати",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Розмножувати поділом коренів і бульб — можуть загнити",
+          "Обрізати дерева"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "spinach",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "sorrel",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "parsley",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "chamomile",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "lovage",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "caraway",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "apple",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "walnut",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "autumn"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Шпинат",
+        "Щавель",
+        "Кріп",
+        "Петрушка листова",
+        "Коріандр (кінза)",
+        "Ромашка лікарська",
+        "Ехінацея пурпурова",
+        "Любисток",
+        "Кмин звичайний",
+        "Виноград",
+        "Яблуня",
+        "Горіх волоський",
+        "Айстри однорічні",
+        "Нагідки (календула)"
+      ]
+    },
+    {
+      "date": "2027-10-31",
+      "day": 31,
+      "weekday": "неділя",
+      "lunar_day": "2-3",
+      "lunar_days": [
+        2,
+        3
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 4,
+      "waxing": true,
+      "moon_sign": "Sagittarius",
+      "moon_sign_ua": "Стрілець",
+      "moon_sign_symbol": "♐",
+      "element": "fire",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": {
+        "time": "10:24",
+        "to": "Sagittarius",
+        "to_ua": "Стрілець"
+      },
+      "moonrise": "09:20",
+      "moonset": "17:01",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.",
+      "recommended": [
+        "Сіяти цибулю на перо, часник, кріп, гострий перець",
+        "Косити й збирати насіння",
+        "Прополювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Пересаджувати",
+        "Рясно поливати",
+        "Обрізати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти цибулю на перо, часник, кріп, гострий перець",
+          "Косити й збирати насіння",
+          "Прополювати"
+        ],
+        "not": [
+          "Пересаджувати",
+          "Рясно поливати",
+          "Обрізати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "caraway",
+          "activities": [
+            "autumn"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Кмин звичайний"
+      ]
+    }
+  ]
+}

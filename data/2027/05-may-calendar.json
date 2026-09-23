@@ -1,0 +1,6227 @@
+{
+  "meta": {
+    "year": 2027,
+    "month": 5,
+    "month_name_ua": "Травень",
+    "generated_at": "2026-09-23T15:51:17.580Z",
+    "rules_version": "2.0",
+    "source": "Власний розрахунок (astronomy-engine) і правила традиційного місячного садівництва",
+    "timezone": "Europe/Kyiv",
+    "observer": "Київ (50.45° пн. ш., 30.52° сх. д.)",
+    "phases": [
+      {
+        "date": "2027-05-06",
+        "type": "new_moon",
+        "time": "13:59"
+      },
+      {
+        "date": "2027-05-13",
+        "type": "first_quarter",
+        "time": "07:44"
+      },
+      {
+        "date": "2027-05-20",
+        "type": "full",
+        "time": "13:59"
+      },
+      {
+        "date": "2027-05-28",
+        "type": "third_quarter",
+        "time": "16:58"
+      }
+    ],
+    "eclipses": [],
+    "tasks": [
+      "Висадка розсади томатів, перцю, баклажанів після заморозків",
+      "Сівба огірків, кабачків, гарбузів, квасолі",
+      "Перші підживлення й регулярне прополювання",
+      "Захист від весняних заморозків і шкідників"
+    ],
+    "rating_counts": {
+      "terrible": 2,
+      "bad": 7,
+      "normal": 6,
+      "good": 4,
+      "excellent": 12
+    }
+  },
+  "days": [
+    {
+      "date": "2027-05-01",
+      "day": 1,
+      "weekday": "субота",
+      "lunar_day": "24-25",
+      "lunar_days": [
+        24,
+        25
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 27,
+      "waxing": false,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": null,
+      "moonrise": "03:28",
+      "moonset": "14:34",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Садити коренеплоди, цибулю й часник"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "potato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "carrot",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "radish",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "turnip",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsnip",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsley_root",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "shallot",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chives",
+          "activities": [
+            "open_ground",
+            "division"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "horseradish",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "raspberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "iris",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Картопля",
+        "Морква",
+        "Буряк столовий",
+        "Редис (редиска)",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Ріпа",
+        "Пастернак",
+        "Петрушка коренева",
+        "Цибуля ріпчаста",
+        "Цибуля-порей",
+        "Цибуля-шалот",
+        "Цибуля-батун",
+        "Цибуля-шніт",
+        "Топінамбур",
+        "Хрін",
+        "Валеріана",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Малина",
+        "Лохина (чорниця садова)",
+        "Виноград",
+        "Лимонник китайський",
+        "Лілії",
+        "Гладіолуси",
+        "Троянди",
+        "Айстри однорічні",
+        "Нагідки (календула)",
+        "Космея",
+        "Флокси волотисті",
+        "Іриси (півники) бородаті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-02",
+      "day": 2,
+      "weekday": "неділя",
+      "lunar_day": "25-26",
+      "lunar_days": [
+        25,
+        26
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 18,
+      "waxing": false,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": null,
+      "moonrise": "03:41",
+      "moonset": "15:46",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Садити коренеплоди, цибулю й часник"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "potato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "carrot",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "radish",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "turnip",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chives",
+          "activities": [
+            "open_ground",
+            "division"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "schisandra",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "iris",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Картопля",
+        "Морква",
+        "Буряк столовий",
+        "Редис (редиска)",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Ріпа",
+        "Цибуля ріпчаста",
+        "Цибуля-порей",
+        "Цибуля-батун",
+        "Цибуля-шніт",
+        "Топінамбур",
+        "Валеріана",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Лохина (чорниця садова)",
+        "Виноград",
+        "Лимонник китайський",
+        "Лілії",
+        "Гладіолуси",
+        "Троянди",
+        "Айстри однорічні",
+        "Нагідки (календула)",
+        "Космея",
+        "Флокси волотисті",
+        "Іриси (півники) бородаті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-03",
+      "day": 3,
+      "weekday": "понеділок",
+      "lunar_day": "26-27",
+      "lunar_days": [
+        26,
+        27
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 11,
+      "waxing": false,
+      "moon_sign": "Aries",
+      "moon_sign_ua": "Овен",
+      "moon_sign_symbol": "♈",
+      "element": "fire",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": {
+        "time": "04:43",
+        "to": "Aries",
+        "to_ua": "Овен"
+      },
+      "moonrise": "03:54",
+      "moonset": "17:00",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Овен — неплідний знак: насіння сходить погано, рослини слабкі.",
+      "recommended": [
+        "Прополювати й розпушувати ґрунт",
+        "Боротися зі шкідниками й хворобами",
+        "Збирати овочі та зелень для швидкого вживання",
+        "Сушити трави, гриби й фрукти",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Рясно поливати й підживлювати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати ґрунт",
+          "Боротися зі шкідниками й хворобами",
+          "Збирати овочі та зелень для швидкого вживання",
+          "Сушити трави, гриби й фрукти"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Рясно поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-04",
+      "day": 4,
+      "weekday": "вівторок",
+      "lunar_day": "27-28",
+      "lunar_days": [
+        27,
+        28
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 5,
+      "waxing": false,
+      "moon_sign": "Aries",
+      "moon_sign_ua": "Овен",
+      "moon_sign_symbol": "♈",
+      "element": "fire",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": null,
+      "moonrise": "04:08",
+      "moonset": "18:17",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Овен — неплідний знак: насіння сходить погано, рослини слабкі.",
+      "recommended": [
+        "Прополювати й розпушувати ґрунт",
+        "Боротися зі шкідниками й хворобами",
+        "Збирати овочі та зелень для швидкого вживання",
+        "Сушити трави, гриби й фрукти",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Рясно поливати й підживлювати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати ґрунт",
+          "Боротися зі шкідниками й хворобами",
+          "Збирати овочі та зелень для швидкого вживання",
+          "Сушити трави, гриби й фрукти"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Рясно поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-05",
+      "day": 5,
+      "weekday": "середа",
+      "lunar_day": "28-29",
+      "lunar_days": [
+        28,
+        29
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 2,
+      "waxing": false,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": {
+        "time": "10:52",
+        "to": "Taurus",
+        "to_ua": "Телець"
+      },
+      "moonrise": "04:25",
+      "moonset": "19:39",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються. Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.",
+      "recommended": [
+        "Садити коренеплоди й бульби для зберігання",
+        "Висаджувати розсаду та саджанці",
+        "Вносити органічні добрива",
+        "Укорінювати живці",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Глибоко перекопувати біля коріння",
+        "Обрізати коріння під час пересадки",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди й бульби для зберігання",
+          "Висаджувати розсаду та саджанці",
+          "Вносити органічні добрива",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Глибоко перекопувати біля коріння",
+          "Обрізати коріння під час пересадки"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "potato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "carrot",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "radish",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "turnip",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "welsh_onion",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chives",
+          "activities": [
+            "open_ground",
+            "division"
+          ]
+        },
+        {
+          "id": "topinambur",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "valerian",
+          "activities": [
+            "open_ground"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Картопля",
+        "Морква",
+        "Буряк столовий",
+        "Редис (редиска)",
+        "Селера коренева",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Ріпа",
+        "Цибуля ріпчаста",
+        "Цибуля-порей",
+        "Цибуля-батун",
+        "Цибуля-шніт",
+        "Топінамбур",
+        "Валеріана"
+      ]
+    },
+    {
+      "date": "2027-05-06",
+      "day": 6,
+      "weekday": "четвер",
+      "lunar_day": "29-30-1",
+      "lunar_days": [
+        29,
+        30,
+        1
+      ],
+      "moon_phase": "new_moon",
+      "moon_phase_ua": "Новий місяць",
+      "phase_event": {
+        "type": "new_moon",
+        "time": "13:59"
+      },
+      "illumination": 0,
+      "waxing": false,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Taurus",
+      "sign_at_start_ua": "Телець",
+      "sign_change": null,
+      "moonrise": "04:46",
+      "moonset": "21:03",
+      "eclipse": null,
+      "planting_rating": "terrible",
+      "rating_reason": "Новий місяць — сили рослин на мінімумі, посіви та пересадки приживаються гірше. Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються.",
+      "recommended": [
+        "Планувати посадки, готувати насіння та інвентар",
+        "Легке прополювання"
+      ],
+      "not_recommended": [
+        "Сіяти, садити й пересаджувати",
+        "Щеплювати й обрізати"
+      ],
+      "sign_works": {
+        "rec": [],
+        "not": []
+      },
+      "phase_works": {
+        "rec": [
+          "Планувати посадки, готувати насіння та інвентар",
+          "Легке прополювання"
+        ],
+        "not": [
+          "Сіяти, садити й пересаджувати",
+          "Щеплювати й обрізати"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-07",
+      "day": 7,
+      "weekday": "пʼятниця",
+      "lunar_day": "1-2",
+      "lunar_days": [
+        1,
+        2
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 1,
+      "waxing": true,
+      "moon_sign": "Taurus",
+      "moon_sign_ua": "Телець",
+      "moon_sign_symbol": "♉",
+      "element": "earth",
+      "sign_at_start": "Taurus",
+      "sign_at_start_ua": "Телець",
+      "sign_change": {
+        "time": "14:06",
+        "to": "Gemini",
+        "to_ua": "Близнюки"
+      },
+      "moonrise": "05:15",
+      "moonset": "22:26",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються. Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.",
+      "recommended": [
+        "Садити коренеплоди й бульби для зберігання",
+        "Висаджувати розсаду та саджанці",
+        "Вносити органічні добрива",
+        "Укорінювати живці",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Глибоко перекопувати біля коріння",
+        "Обрізати коріння під час пересадки",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди й бульби для зберігання",
+          "Висаджувати розсаду та саджанці",
+          "Вносити органічні добрива",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Глибоко перекопувати біля коріння",
+          "Обрізати коріння під час пересадки"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-08",
+      "day": 8,
+      "weekday": "субота",
+      "lunar_day": "2-3",
+      "lunar_days": [
+        2,
+        3
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 5,
+      "waxing": true,
+      "moon_sign": "Gemini",
+      "moon_sign_ua": "Близнюки",
+      "moon_sign_symbol": "♊",
+      "element": "air",
+      "sign_at_start": "Gemini",
+      "sign_at_start_ua": "Близнюки",
+      "sign_change": null,
+      "moonrise": "05:56",
+      "moonset": "23:40",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Близнюки — малородючий знак, але добрий для витких і в’юнких рослин.",
+      "recommended": [
+        "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+        "Висаджувати вуса суниці",
+        "Прополювати й розпушувати",
+        "Збирати лікарські трави",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Рясно поливати",
+        "Вносити мінеральні добрива",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+          "Висаджувати вуса суниці",
+          "Прополювати й розпушувати",
+          "Збирати лікарські трави"
+        ],
+        "not": [
+          "Рясно поливати",
+          "Вносити мінеральні добрива"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "iris",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Лілії",
+        "Гладіолуси",
+        "Троянди",
+        "Айстри однорічні",
+        "Нагідки (календула)",
+        "Космея",
+        "Флокси волотисті",
+        "Іриси (півники) бородаті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-09",
+      "day": 9,
+      "weekday": "неділя",
+      "lunar_day": "3-4",
+      "lunar_days": [
+        3,
+        4
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 11,
+      "waxing": true,
+      "moon_sign": "Gemini",
+      "moon_sign_ua": "Близнюки",
+      "moon_sign_symbol": "♊",
+      "element": "air",
+      "sign_at_start": "Gemini",
+      "sign_at_start_ua": "Близнюки",
+      "sign_change": {
+        "time": "15:59",
+        "to": "Cancer",
+        "to_ua": "Рак"
+      },
+      "moonrise": "06:53",
+      "moonset": null,
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Близнюки — малородючий знак, але добрий для витких і в’юнких рослин.",
+      "recommended": [
+        "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+        "Висаджувати вуса суниці",
+        "Прополювати й розпушувати",
+        "Збирати лікарські трави",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Рясно поливати",
+        "Вносити мінеральні добрива",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері",
+          "Висаджувати вуса суниці",
+          "Прополювати й розпушувати",
+          "Збирати лікарські трави"
+        ],
+        "not": [
+          "Рясно поливати",
+          "Вносити мінеральні добрива"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "iris",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Лілії",
+        "Гладіолуси",
+        "Троянди",
+        "Айстри однорічні",
+        "Нагідки (календула)",
+        "Космея",
+        "Флокси волотисті",
+        "Іриси (півники) бородаті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-10",
+      "day": 10,
+      "weekday": "понеділок",
+      "lunar_day": "4-5",
+      "lunar_days": [
+        4,
+        5
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 20,
+      "waxing": true,
+      "moon_sign": "Cancer",
+      "moon_sign_ua": "Рак",
+      "moon_sign_symbol": "♋",
+      "element": "water",
+      "sign_at_start": "Cancer",
+      "sign_at_start_ua": "Рак",
+      "sign_change": null,
+      "moonrise": "08:06",
+      "moonset": "00:39",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Рак — один із найродючіших знаків: насіння дружно сходить, рослини соковиті.",
+      "recommended": [
+        "Сіяти й висаджувати більшість городніх культур",
+        "Поливати",
+        "Вносити мінеральні добрива",
+        "Щеплювати плодові дерева",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Обробляти рослини хімічними препаратами",
+        "Закладати врожай на тривале зберігання",
+        "Садити картоплю — бульби будуть водянисті",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й висаджувати більшість городніх культур",
+          "Поливати",
+          "Вносити мінеральні добрива",
+          "Щеплювати плодові дерева"
+        ],
+        "not": [
+          "Обробляти рослини хімічними препаратами",
+          "Закладати врожай на тривале зберігання",
+          "Садити картоплю — бульби будуть водянисті"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_sweet",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_hot",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "seedling_indoor",
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chinese_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chickpea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watercress",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sorrel",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "asparagus",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsley",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "basil",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "mint",
+          "activities": [
+            "division"
+          ]
+        },
+        {
+          "id": "fennel",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "tarragon",
+          "activities": [
+            "division"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lovage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "mustard_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "strawberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "blueberry",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rose",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "iris",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Перець солодкий",
+        "Баклажан",
+        "Перець гострий (чилі)",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста пекінська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Нут",
+        "Соя",
+        "Салат листовий",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Крес-салат",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Щавель",
+        "Спаржа",
+        "Артишок",
+        "Кріп",
+        "Петрушка листова",
+        "Базилік",
+        "М'ята",
+        "Фенхель",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Меліса лікарська",
+        "Естрагон (тархун)",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Любисток",
+        "Материнка (орегано)",
+        "Гірчиця біла (сидерат)",
+        "Фацелія (сидерат)",
+        "Полуниця (суниця садова)",
+        "Лохина (чорниця садова)",
+        "Виноград",
+        "Лілії",
+        "Гладіолуси",
+        "Жоржини",
+        "Троянди",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Нагідки (календула)",
+        "Космея",
+        "Настурція",
+        "Флокси волотисті",
+        "Іриси (півники) бородаті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-11",
+      "day": 11,
+      "weekday": "вівторок",
+      "lunar_day": "5-6",
+      "lunar_days": [
+        5,
+        6
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 30,
+      "waxing": true,
+      "moon_sign": "Cancer",
+      "moon_sign_ua": "Рак",
+      "moon_sign_symbol": "♋",
+      "element": "water",
+      "sign_at_start": "Cancer",
+      "sign_at_start_ua": "Рак",
+      "sign_change": {
+        "time": "18:00",
+        "to": "Leo",
+        "to_ua": "Лев"
+      },
+      "moonrise": "09:29",
+      "moonset": "01:21",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Рак — один із найродючіших знаків: насіння дружно сходить, рослини соковиті.",
+      "recommended": [
+        "Сіяти й висаджувати більшість городніх культур",
+        "Поливати",
+        "Вносити мінеральні добрива",
+        "Щеплювати плодові дерева",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Обробляти рослини хімічними препаратами",
+        "Закладати врожай на тривале зберігання",
+        "Садити картоплю — бульби будуть водянисті",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й висаджувати більшість городніх культур",
+          "Поливати",
+          "Вносити мінеральні добрива",
+          "Щеплювати плодові дерева"
+        ],
+        "not": [
+          "Обробляти рослини хімічними препаратами",
+          "Закладати врожай на тривале зберігання",
+          "Садити картоплю — бульби будуть водянисті"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_sweet",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_hot",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chickpea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watercress",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "asparagus",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsley",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "basil",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "mint",
+          "activities": [
+            "division"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "mustard_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Перець солодкий",
+        "Баклажан",
+        "Перець гострий (чилі)",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Нут",
+        "Соя",
+        "Салат листовий",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Крес-салат",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Спаржа",
+        "Артишок",
+        "Кріп",
+        "Петрушка листова",
+        "Базилік",
+        "М'ята",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Гірчиця біла (сидерат)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Лілії",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Нагідки (календула)",
+        "Космея",
+        "Настурція",
+        "Флокси волотисті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-12",
+      "day": 12,
+      "weekday": "середа",
+      "lunar_day": "6-7",
+      "lunar_days": [
+        6,
+        7
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 41,
+      "waxing": true,
+      "moon_sign": "Leo",
+      "moon_sign_ua": "Лев",
+      "moon_sign_symbol": "♌",
+      "element": "fire",
+      "sign_at_start": "Leo",
+      "sign_at_start_ua": "Лев",
+      "sign_change": null,
+      "moonrise": "10:56",
+      "moonset": "01:52",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Лев — найбільш неплідний знак: посіяне погано сходить.",
+      "recommended": [
+        "Збирати фрукти, ягоди й насіння",
+        "Сушити й заготовляти",
+        "Мульчувати й прополювати",
+        "Косити газон — повільніше відростатиме"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Пересаджувати",
+        "Поливати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Збирати фрукти, ягоди й насіння",
+          "Сушити й заготовляти",
+          "Мульчувати й прополювати",
+          "Косити газон — повільніше відростатиме"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Пересаджувати",
+          "Поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-13",
+      "day": 13,
+      "weekday": "четвер",
+      "lunar_day": "7-8",
+      "lunar_days": [
+        7,
+        8
+      ],
+      "moon_phase": "first_quarter",
+      "moon_phase_ua": "Перша чверть",
+      "phase_event": {
+        "type": "first_quarter",
+        "time": "07:44"
+      },
+      "illumination": 52,
+      "waxing": true,
+      "moon_sign": "Leo",
+      "moon_sign_ua": "Лев",
+      "moon_sign_symbol": "♌",
+      "element": "fire",
+      "sign_at_start": "Leo",
+      "sign_at_start_ua": "Лев",
+      "sign_change": {
+        "time": "21:05",
+        "to": "Virgo",
+        "to_ua": "Діва"
+      },
+      "moonrise": "12:21",
+      "moonset": "02:14",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Лев — найбільш неплідний знак: посіяне погано сходить.",
+      "recommended": [
+        "Збирати фрукти, ягоди й насіння",
+        "Сушити й заготовляти",
+        "Мульчувати й прополювати",
+        "Косити газон — повільніше відростатиме"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Пересаджувати",
+        "Поливати",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Збирати фрукти, ягоди й насіння",
+          "Сушити й заготовляти",
+          "Мульчувати й прополювати",
+          "Косити газон — повільніше відростатиме"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Пересаджувати",
+          "Поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-14",
+      "day": 14,
+      "weekday": "пʼятниця",
+      "lunar_day": "8-9",
+      "lunar_days": [
+        8,
+        9
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 63,
+      "waxing": true,
+      "moon_sign": "Virgo",
+      "moon_sign_ua": "Діва",
+      "moon_sign_symbol": "♍",
+      "element": "earth",
+      "sign_at_start": "Virgo",
+      "sign_at_start_ua": "Діва",
+      "sign_change": null,
+      "moonrise": "13:43",
+      "moonset": "02:32",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Діва — знак, сприятливий для квітів і декоративних рослин; овочі на насіння — гірше.",
+      "recommended": [
+        "Сіяти й пересаджувати квіти та декоративні рослини",
+        "Ділити кущі багаторічників",
+        "Садити плодові дерева й кущі",
+        "Укорінювати живці",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Сіяти овочі на насіння",
+        "Замочувати насіння",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й пересаджувати квіти та декоративні рослини",
+          "Ділити кущі багаторічників",
+          "Садити плодові дерева й кущі",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Сіяти овочі на насіння",
+          "Замочувати насіння"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_sweet",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_hot",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "greenhouse",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chickpea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watercress",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "asparagus",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsley",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "basil",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "mint",
+          "activities": [
+            "division"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "mustard_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Перець солодкий",
+        "Баклажан",
+        "Перець гострий (чилі)",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Нут",
+        "Соя",
+        "Салат листовий",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Крес-салат",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Спаржа",
+        "Артишок",
+        "Кріп",
+        "Петрушка листова",
+        "Базилік",
+        "М'ята",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Гірчиця біла (сидерат)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Лілії",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Нагідки (календула)",
+        "Космея",
+        "Настурція",
+        "Флокси волотисті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-15",
+      "day": 15,
+      "weekday": "субота",
+      "lunar_day": "9-10",
+      "lunar_days": [
+        9,
+        10
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 74,
+      "waxing": true,
+      "moon_sign": "Virgo",
+      "moon_sign_ua": "Діва",
+      "moon_sign_symbol": "♍",
+      "element": "earth",
+      "sign_at_start": "Virgo",
+      "sign_at_start_ua": "Діва",
+      "sign_change": null,
+      "moonrise": "15:02",
+      "moonset": "02:48",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Діва — знак, сприятливий для квітів і декоративних рослин; овочі на насіння — гірше.",
+      "recommended": [
+        "Сіяти й пересаджувати квіти та декоративні рослини",
+        "Ділити кущі багаторічників",
+        "Садити плодові дерева й кущі",
+        "Укорінювати живці",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Сіяти овочі на насіння",
+        "Замочувати насіння",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й пересаджувати квіти та декоративні рослини",
+          "Ділити кущі багаторічників",
+          "Садити плодові дерева й кущі",
+          "Укорінювати живці"
+        ],
+        "not": [
+          "Сіяти овочі на насіння",
+          "Замочувати насіння"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "greenhouse",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pepper_sweet",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "pepper_hot",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "physalis",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "greenhouse",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "greenhouse",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "greenhouse",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chickpea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watercress",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "asparagus",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "parsley",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "basil",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "mint",
+          "activities": [
+            "division"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "division",
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rosemary",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "mustard_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "lily",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phlox",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "division",
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Перець солодкий",
+        "Баклажан",
+        "Перець гострий (чилі)",
+        "Фізаліс",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Нут",
+        "Соя",
+        "Салат листовий",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Крес-салат",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Спаржа",
+        "Артишок",
+        "Кріп",
+        "Петрушка листова",
+        "Базилік",
+        "М'ята",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Розмарин",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Гірчиця біла (сидерат)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Лілії",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Петунія",
+        "Нагідки (календула)",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Флокси волотисті",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-16",
+      "day": 16,
+      "weekday": "неділя",
+      "lunar_day": "10-11",
+      "lunar_days": [
+        10,
+        11
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 83,
+      "waxing": true,
+      "moon_sign": "Libra",
+      "moon_sign_ua": "Терези",
+      "moon_sign_symbol": "♎",
+      "element": "air",
+      "sign_at_start": "Virgo",
+      "sign_at_start_ua": "Діва",
+      "sign_change": {
+        "time": "01:33",
+        "to": "Libra",
+        "to_ua": "Терези"
+      },
+      "moonrise": "16:20",
+      "moonset": "03:02",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних.",
+      "recommended": [
+        "Садити квіти, троянди й цибулинні",
+        "Висаджувати плодові дерева й кущі",
+        "Збирати врожай для зберігання",
+        "Вносити мінеральні добрива",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Вносити свіжий гній",
+        "Обробляти від шкідників",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити квіти, троянди й цибулинні",
+          "Висаджувати плодові дерева й кущі",
+          "Збирати врожай для зберігання",
+          "Вносити мінеральні добрива"
+        ],
+        "not": [
+          "Вносити свіжий гній",
+          "Обробляти від шкідників"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "physalis",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rosemary",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Баклажан",
+        "Фізаліс",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Соя",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Артишок",
+        "Кріп",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Розмарин",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Петунія",
+        "Нагідки (календула)",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-17",
+      "day": 17,
+      "weekday": "понеділок",
+      "lunar_day": "11-12",
+      "lunar_days": [
+        11,
+        12
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 90,
+      "waxing": true,
+      "moon_sign": "Libra",
+      "moon_sign_ua": "Терези",
+      "moon_sign_symbol": "♎",
+      "element": "air",
+      "sign_at_start": "Libra",
+      "sign_at_start_ua": "Терези",
+      "sign_change": null,
+      "moonrise": "17:39",
+      "moonset": "03:17",
+      "eclipse": null,
+      "planting_rating": "good",
+      "rating_reason": "Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних.",
+      "recommended": [
+        "Садити квіти, троянди й цибулинні",
+        "Висаджувати плодові дерева й кущі",
+        "Збирати врожай для зберігання",
+        "Вносити мінеральні добрива",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+        "Поливати й підживлювати"
+      ],
+      "not_recommended": [
+        "Вносити свіжий гній",
+        "Обробляти від шкідників",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити квіти, троянди й цибулинні",
+          "Висаджувати плодові дерева й кущі",
+          "Збирати врожай для зберігання",
+          "Вносити мінеральні добрива"
+        ],
+        "not": [
+          "Вносити свіжий гній",
+          "Обробляти від шкідників"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "physalis",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rosemary",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Баклажан",
+        "Фізаліс",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Соя",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Артишок",
+        "Кріп",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Розмарин",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Петунія",
+        "Нагідки (календула)",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-18",
+      "day": 18,
+      "weekday": "вівторок",
+      "lunar_day": "12-13",
+      "lunar_days": [
+        12,
+        13
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 95,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Libra",
+      "sign_at_start_ua": "Терези",
+      "sign_change": {
+        "time": "07:33",
+        "to": "Scorpio",
+        "to_ua": "Скорпіон"
+      },
+      "moonrise": "18:57",
+      "moonset": "03:34",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Сіяти й садити майже всі культури, особливо розсаду",
+        "Садити часник і цибулю",
+        "Щеплювати",
+        "Поливати й підживлювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Розмножувати поділом коренів і бульб — можуть загнити",
+        "Обрізати дерева",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити майже всі культури, особливо розсаду",
+          "Садити часник і цибулю",
+          "Щеплювати",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Розмножувати поділом коренів і бульб — можуть загнити",
+          "Обрізати дерева"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "physalis",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rosemary",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Баклажан",
+        "Фізаліс",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Соя",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Артишок",
+        "Кріп",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Розмарин",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Петунія",
+        "Нагідки (календула)",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-19",
+      "day": 19,
+      "weekday": "середа",
+      "lunar_day": "13-14",
+      "lunar_days": [
+        13,
+        14
+      ],
+      "moon_phase": "waxing",
+      "moon_phase_ua": "Молодий (росте)",
+      "phase_event": null,
+      "illumination": 99,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": null,
+      "moonrise": "20:14",
+      "moonset": "03:55",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Сіяти й садити майже всі культури, особливо розсаду",
+        "Садити часник і цибулю",
+        "Щеплювати",
+        "Поливати й підживлювати",
+        "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові"
+      ],
+      "not_recommended": [
+        "Розмножувати поділом коренів і бульб — можуть загнити",
+        "Обрізати дерева",
+        "Сильно обрізати дерева й кущі — активний сокорух"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити майже всі культури, особливо розсаду",
+          "Садити часник і цибулю",
+          "Щеплювати",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Розмножувати поділом коренів і бульб — можуть загнити",
+          "Обрізати дерева"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові",
+          "Поливати й підживлювати"
+        ],
+        "not": [
+          "Сильно обрізати дерева й кущі — активний сокорух"
+        ]
+      },
+      "plants": [
+        {
+          "id": "tomato",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "activities": [
+            "greenhouse"
+          ]
+        },
+        {
+          "id": "physalis",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zucchini",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "pumpkin_patisson",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "watermelon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "melon",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_white",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_broccoli",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_cauliflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "kohlrabi",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savoy_cabbage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_red",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cabbage_brussels",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "bean_asparagus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "soybean",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chard",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery_stalk",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "arugula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lettuce_head",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "corn",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sunflower",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "artichoke",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dill",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "coriander",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "thyme",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "rosemary",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lemon_balm",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "sage",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "savory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "lavender",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "oregano",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "phacelia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "aster",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "calendula",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Томат (помідор)",
+        "Баклажан",
+        "Фізаліс",
+        "Огірок",
+        "Кабачок (цукіні)",
+        "Гарбуз",
+        "Патисон",
+        "Кавун",
+        "Диня",
+        "Капуста білокачанна",
+        "Броколі",
+        "Капуста цвітна",
+        "Кольрабі",
+        "Капуста савойська",
+        "Капуста червонокачанна",
+        "Капуста брюссельська",
+        "Квасоля",
+        "Квасоля спаржева (стручкова)",
+        "Соя",
+        "Мангольд",
+        "Селера черешкова",
+        "Рукола",
+        "Салат качанний (айсберг)",
+        "Кукурудза цукрова",
+        "Соняшник",
+        "Артишок",
+        "Кріп",
+        "Коріандр (кінза)",
+        "Чебрець (тим'ян)",
+        "Розмарин",
+        "Меліса лікарська",
+        "Шавлія лікарська",
+        "Чабер садовий",
+        "Лаванда вузьколиста",
+        "Ехінацея пурпурова",
+        "Материнка (орегано)",
+        "Фацелія (сидерат)",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Айстри однорічні",
+        "Чорнобривці",
+        "Петунія",
+        "Нагідки (календула)",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-20",
+      "day": 20,
+      "weekday": "четвер",
+      "lunar_day": "14-15",
+      "lunar_days": [
+        14,
+        15
+      ],
+      "moon_phase": "full",
+      "moon_phase_ua": "Повня",
+      "phase_event": {
+        "type": "full",
+        "time": "13:59"
+      },
+      "illumination": 100,
+      "waxing": true,
+      "moon_sign": "Scorpio",
+      "moon_sign_ua": "Скорпіон",
+      "moon_sign_symbol": "♏",
+      "element": "water",
+      "sign_at_start": "Scorpio",
+      "sign_at_start_ua": "Скорпіон",
+      "sign_change": {
+        "time": "15:27",
+        "to": "Sagittarius",
+        "to_ua": "Стрілець"
+      },
+      "moonrise": "21:27",
+      "moonset": "04:21",
+      "eclipse": null,
+      "planting_rating": "terrible",
+      "rating_reason": "Повня — рослини найчутливіші до пошкоджень, пересадки й обрізання не рекомендують. Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.",
+      "recommended": [
+        "Прорідити посіви, прополювати",
+        "Збирати врожай для швидкого вживання та лікарські трави"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Обрізати та щеплювати"
+      ],
+      "sign_works": {
+        "rec": [],
+        "not": []
+      },
+      "phase_works": {
+        "rec": [
+          "Прорідити посіви, прополювати",
+          "Збирати врожай для швидкого вживання та лікарські трави"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Обрізати та щеплювати"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-21",
+      "day": 21,
+      "weekday": "пʼятниця",
+      "lunar_day": "15-16",
+      "lunar_days": [
+        15,
+        16
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 99,
+      "waxing": false,
+      "moon_sign": "Sagittarius",
+      "moon_sign_ua": "Стрілець",
+      "moon_sign_symbol": "♐",
+      "element": "fire",
+      "sign_at_start": "Sagittarius",
+      "sign_at_start_ua": "Стрілець",
+      "sign_change": null,
+      "moonrise": "22:32",
+      "moonset": "04:55",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.",
+      "recommended": [
+        "Сіяти цибулю на перо, часник, кріп, гострий перець",
+        "Косити й збирати насіння",
+        "Прополювати",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Пересаджувати",
+        "Рясно поливати",
+        "Обрізати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти цибулю на перо, часник, кріп, гострий перець",
+          "Косити й збирати насіння",
+          "Прополювати"
+        ],
+        "not": [
+          "Пересаджувати",
+          "Рясно поливати",
+          "Обрізати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-22",
+      "day": 22,
+      "weekday": "субота",
+      "lunar_day": "16-17",
+      "lunar_days": [
+        16,
+        17
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 96,
+      "waxing": false,
+      "moon_sign": "Sagittarius",
+      "moon_sign_ua": "Стрілець",
+      "moon_sign_symbol": "♐",
+      "element": "fire",
+      "sign_at_start": "Sagittarius",
+      "sign_at_start_ua": "Стрілець",
+      "sign_change": null,
+      "moonrise": "23:25",
+      "moonset": "05:39",
+      "eclipse": null,
+      "planting_rating": "normal",
+      "rating_reason": "Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.",
+      "recommended": [
+        "Сіяти цибулю на перо, часник, кріп, гострий перець",
+        "Косити й збирати насіння",
+        "Прополювати",
+        "Садити коренеплоди, цибулю й часник",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Пересаджувати",
+        "Рясно поливати",
+        "Обрізати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти цибулю на перо, часник, кріп, гострий перець",
+          "Косити й збирати насіння",
+          "Прополювати"
+        ],
+        "not": [
+          "Пересаджувати",
+          "Рясно поливати",
+          "Обрізати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-23",
+      "day": 23,
+      "weekday": "неділя",
+      "lunar_day": "17",
+      "lunar_days": [
+        17
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 92,
+      "waxing": false,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Sagittarius",
+      "sign_at_start_ua": "Стрілець",
+      "sign_change": {
+        "time": "01:42",
+        "to": "Capricorn",
+        "to_ua": "Козеріг"
+      },
+      "moonrise": null,
+      "moonset": "06:35",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Обрізати й формувати крону",
+        "Щеплювати",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Обрізати й формувати крону",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Селера коренева",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Цибуля-порей",
+        "Ехінацея пурпурова",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-24",
+      "day": 24,
+      "weekday": "понеділок",
+      "lunar_day": "17-18",
+      "lunar_days": [
+        17,
+        18
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 86,
+      "waxing": false,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Capricorn",
+      "sign_at_start_ua": "Козеріг",
+      "sign_change": null,
+      "moonrise": "00:06",
+      "moonset": "07:39",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Обрізати й формувати крону",
+        "Щеплювати",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Обрізати й формувати крону",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Селера коренева",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Цибуля-порей",
+        "Ехінацея пурпурова",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-25",
+      "day": 25,
+      "weekday": "вівторок",
+      "lunar_day": "18-19",
+      "lunar_days": [
+        18,
+        19
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 79,
+      "waxing": false,
+      "moon_sign": "Capricorn",
+      "moon_sign_ua": "Козеріг",
+      "moon_sign_symbol": "♑",
+      "element": "earth",
+      "sign_at_start": "Capricorn",
+      "sign_at_start_ua": "Козеріг",
+      "sign_change": {
+        "time": "14:05",
+        "to": "Aquarius",
+        "to_ua": "Водолій"
+      },
+      "moonrise": "00:36",
+      "moonset": "08:48",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.",
+      "recommended": [
+        "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+        "Садити дерева й кущі",
+        "Обрізати й формувати крону",
+        "Щеплювати",
+        "Садити коренеплоди, цибулю й часник",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Пересаджувати з поділом коренів",
+        "Рясно поливати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Садити коренеплоди, бульби, цибулю й часник для зберігання",
+          "Садити дерева й кущі",
+          "Обрізати й формувати крону",
+          "Щеплювати"
+        ],
+        "not": [
+          "Пересаджувати з поділом коренів",
+          "Рясно поливати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник",
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "celery",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "leek",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "echinacea",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "gladiolus",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "cosmos",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Селера коренева",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Цибуля-порей",
+        "Ехінацея пурпурова",
+        "Виноград",
+        "Гладіолуси",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Космея",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-26",
+      "day": 26,
+      "weekday": "середа",
+      "lunar_day": "19-20",
+      "lunar_days": [
+        19,
+        20
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 71,
+      "waxing": false,
+      "moon_sign": "Aquarius",
+      "moon_sign_ua": "Водолій",
+      "moon_sign_symbol": "♒",
+      "element": "air",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": null,
+      "moonrise": "00:59",
+      "moonset": "09:58",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Водолій — неплідний знак: день для догляду, а не для посівів.",
+      "recommended": [
+        "Прополювати й розпушувати",
+        "Прищипувати й пасинкувати",
+        "Боротися зі шкідниками",
+        "Збирати врожай",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Поливати й підживлювати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати",
+          "Прищипувати й пасинкувати",
+          "Боротися зі шкідниками",
+          "Збирати врожай"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-27",
+      "day": 27,
+      "weekday": "четвер",
+      "lunar_day": "20-21",
+      "lunar_days": [
+        20,
+        21
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 62,
+      "waxing": false,
+      "moon_sign": "Aquarius",
+      "moon_sign_ua": "Водолій",
+      "moon_sign_symbol": "♒",
+      "element": "air",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": null,
+      "moonrise": "01:17",
+      "moonset": "11:08",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Водолій — неплідний знак: день для догляду, а не для посівів.",
+      "recommended": [
+        "Прополювати й розпушувати",
+        "Прищипувати й пасинкувати",
+        "Боротися зі шкідниками",
+        "Збирати врожай",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й садити",
+        "Поливати й підживлювати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати",
+          "Прищипувати й пасинкувати",
+          "Боротися зі шкідниками",
+          "Збирати врожай"
+        ],
+        "not": [
+          "Сіяти й садити",
+          "Поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    },
+    {
+      "date": "2027-05-28",
+      "day": 28,
+      "weekday": "пʼятниця",
+      "lunar_day": "21-22",
+      "lunar_days": [
+        21,
+        22
+      ],
+      "moon_phase": "third_quarter",
+      "moon_phase_ua": "Остання чверть",
+      "phase_event": {
+        "type": "third_quarter",
+        "time": "16:58"
+      },
+      "illumination": 52,
+      "waxing": false,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Aquarius",
+      "sign_at_start_ua": "Водолій",
+      "sign_change": {
+        "time": "02:55",
+        "to": "Pisces",
+        "to_ua": "Риби"
+      },
+      "moonrise": "01:32",
+      "moonset": "12:18",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Садити коренеплоди, цибулю й часник"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Виноград",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-29",
+      "day": 29,
+      "weekday": "субота",
+      "lunar_day": "22-23",
+      "lunar_days": [
+        22,
+        23
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 42,
+      "waxing": false,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": null,
+      "moonrise": "01:46",
+      "moonset": "13:28",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Садити коренеплоди, цибулю й часник"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Виноград",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-30",
+      "day": 30,
+      "weekday": "неділя",
+      "lunar_day": "23-24",
+      "lunar_days": [
+        23,
+        24
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 33,
+      "waxing": false,
+      "moon_sign": "Pisces",
+      "moon_sign_ua": "Риби",
+      "moon_sign_symbol": "♓",
+      "element": "water",
+      "sign_at_start": "Pisces",
+      "sign_at_start_ua": "Риби",
+      "sign_change": {
+        "time": "13:39",
+        "to": "Aries",
+        "to_ua": "Овен"
+      },
+      "moonrise": "01:59",
+      "moonset": "14:39",
+      "eclipse": null,
+      "planting_rating": "excellent",
+      "rating_reason": "Риби — родючий знак: добре для листових і скоростиглих культур.",
+      "recommended": [
+        "Сіяти й садити овочі, особливо листові й скоростиглі",
+        "Поливати",
+        "Вносити органічні добрива",
+        "Садити коренеплоди, цибулю й часник"
+      ],
+      "not_recommended": [
+        "Обрізати дерева",
+        "Обробляти хімічними препаратами",
+        "Закладати врожай на зберігання",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Сіяти й садити овочі, особливо листові й скоростиглі",
+          "Поливати",
+          "Вносити органічні добрива"
+        ],
+        "not": [
+          "Обрізати дерева",
+          "Обробляти хімічними препаратами",
+          "Закладати врожай на зберігання"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Садити коренеплоди, цибулю й часник"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [
+        {
+          "id": "beet",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chicory",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "grape",
+          "activities": [
+            "planting"
+          ]
+        },
+        {
+          "id": "dahlia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "marigold",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "petunia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "zinnia",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "nasturtium",
+          "activities": [
+            "open_ground"
+          ]
+        },
+        {
+          "id": "chrysanthemum",
+          "activities": [
+            "planting"
+          ]
+        }
+      ],
+      "plants_possible": [
+        "Буряк столовий",
+        "Цикорій (коренеплідний і вітлуф)",
+        "Виноград",
+        "Жоржини",
+        "Чорнобривці",
+        "Петунія",
+        "Цинія",
+        "Настурція",
+        "Хризантеми садові"
+      ]
+    },
+    {
+      "date": "2027-05-31",
+      "day": 31,
+      "weekday": "понеділок",
+      "lunar_day": "24-25",
+      "lunar_days": [
+        24,
+        25
+      ],
+      "moon_phase": "waning",
+      "moon_phase_ua": "Спадний",
+      "phase_event": null,
+      "illumination": 24,
+      "waxing": false,
+      "moon_sign": "Aries",
+      "moon_sign_ua": "Овен",
+      "moon_sign_symbol": "♈",
+      "element": "fire",
+      "sign_at_start": "Aries",
+      "sign_at_start_ua": "Овен",
+      "sign_change": null,
+      "moonrise": "02:12",
+      "moonset": "15:54",
+      "eclipse": null,
+      "planting_rating": "bad",
+      "rating_reason": "Овен — неплідний знак: насіння сходить погано, рослини слабкі.",
+      "recommended": [
+        "Прополювати й розпушувати ґрунт",
+        "Боротися зі шкідниками й хворобами",
+        "Збирати овочі та зелень для швидкого вживання",
+        "Сушити трави, гриби й фрукти",
+        "Обрізати дерева й кущі, проріджувати посіви",
+        "Збирати врожай для зберігання"
+      ],
+      "not_recommended": [
+        "Сіяти й пересаджувати",
+        "Рясно поливати й підживлювати",
+        "Сіяти культури з надземними плодами"
+      ],
+      "sign_works": {
+        "rec": [
+          "Прополювати й розпушувати ґрунт",
+          "Боротися зі шкідниками й хворобами",
+          "Збирати овочі та зелень для швидкого вживання",
+          "Сушити трави, гриби й фрукти"
+        ],
+        "not": [
+          "Сіяти й пересаджувати",
+          "Рясно поливати й підживлювати"
+        ]
+      },
+      "phase_works": {
+        "rec": [
+          "Обрізати дерева й кущі, проріджувати посіви",
+          "Збирати врожай для зберігання"
+        ],
+        "not": [
+          "Сіяти культури з надземними плодами"
+        ]
+      },
+      "plants": [],
+      "plants_possible": []
+    }
+  ]
+}

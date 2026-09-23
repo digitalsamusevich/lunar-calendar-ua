@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "year": 2026,
+    "month": 1
+  },
+  "by_plant": {},
+  "by_rating": {
+    "terrible": [
+      {
+        "day": 3,
+        "date": "2026-01-03",
+        "weekday": "субота",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Повня"
+      },
+      {
+        "day": 18,
+        "date": "2026-01-18",
+        "weekday": "неділя",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Новий місяць"
+      },
+      {
+        "day": 19,
+        "date": "2026-01-19",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "bad": [
+      {
+        "day": 5,
+        "date": "2026-01-05",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 6,
+        "date": "2026-01-06",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2026-01-20",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 24,
+        "date": "2026-01-24",
+        "weekday": "субота",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-01-25",
+        "weekday": "неділя",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "normal": [
+      {
+        "day": 1,
+        "date": "2026-01-01",
+        "weekday": "четвер",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2026-01-02",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2026-01-14",
+        "weekday": "середа",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2026-01-15",
+        "weekday": "четвер",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 16,
+        "date": "2026-01-16",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2026-01-28",
+        "weekday": "середа",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2026-01-29",
+        "weekday": "четвер",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "good": [
+      {
+        "day": 7,
+        "date": "2026-01-07",
+        "weekday": "середа",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 8,
+        "date": "2026-01-08",
+        "weekday": "четвер",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 9,
+        "date": "2026-01-09",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 10,
+        "date": "2026-01-10",
+        "weekday": "субота",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 11,
+        "date": "2026-01-11",
+        "weekday": "неділя",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2026-01-17",
+        "weekday": "субота",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 26,
+        "date": "2026-01-26",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 27,
+        "date": "2026-01-27",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "excellent": [
+      {
+        "day": 4,
+        "date": "2026-01-04",
+        "weekday": "неділя",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 12,
+        "date": "2026-01-12",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2026-01-13",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 21,
+        "date": "2026-01-21",
+        "weekday": "середа",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 22,
+        "date": "2026-01-22",
+        "weekday": "четвер",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-01-23",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2026-01-30",
+        "weekday": "пʼятниця",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2026-01-31",
+        "weekday": "субота",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ]
+  },
+  "rating_labels_ua": {
+    "excellent": "Відмінний",
+    "good": "Гарний",
+    "normal": "Нейтральний",
+    "bad": "Поганий",
+    "terrible": "Несприятливий"
+  },
+  "activity_labels_ua": {
+    "seedling_indoor": "сівба на розсаду",
+    "greenhouse": "у теплицю",
+    "open_ground": "у відкритий ґрунт",
+    "autumn": "осіння посадка",
+    "planting": "посадка саджанців",
+    "division": "поділ і пересадка"
+  }
+}

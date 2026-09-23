@@ -1,0 +1,45 @@
+name: Generate lunar calendar
+
+# Щомісяця продовжує календар так, щоб завжди було 18 місяців наперед.
+# Початок фіксований (2026-01), щоб уже опубліковані сторінки сайту не зникали.
+on:
+  schedule:
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate.mjs'
+      - 'scripts/lib/**'
+      - 'data/plants.json'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Generate
+        run: |
+          TO=$(date -u -d "$(date -u +%Y-%m-01) +17 months" +%Y-%m)
+          node scripts/generate.mjs --from 2026-01 --to "$TO"
+
+      - name: Check
+        run: node scripts/check.mjs
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || git commit -m "auto: regenerate lunar calendar $(date -u +'%Y-%m-%d')"
+          git push

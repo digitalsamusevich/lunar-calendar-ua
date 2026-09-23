@@ -1,97 +1,69 @@
-# 🌙 Місячний посівний календар України — JSON API
+# 🌙 Місячний посівний календар України — дані
 
-Структуровані дані місячного посівного календаря садівника-городника для генерації SEO-контенту.
+Структуровані дані місячного посівного календаря садівника й городника для сайту [huphub.link](https://huphub.link/misiachnyi-kalendar/).
+Усе **генерується скриптом**: астрономія рахується власноруч, поради — власні тексти за традиційними правилами місячного садівництва.
+Жодних даних зі сторонніх сайтів.
 
-## Структура репозиторію
+## Як це працює
 
 ```
+scripts/
+├── generate.mjs      ← генератор: місяці → data/<рік>/<MM>-<month>-calendar.json / -index.json + data/manifest.json
+├── check.mjs         ← перевірка даних (запускається в CI після генерації)
+└── lib/
+    ├── astro.mjs     ← астрономія (astronomy-engine): фази, знак зодіаку, місячні дні, схід/захід, затемнення
+    └── rules.mjs     ← правила й тексти: рейтинг дня, роботи за знаком і фазою, які культури садити
 data/
-└── 2026/
-    ├── 05-may-calendar.json      ← повні дані по кожному дню
-    ├── 05-may-index.json         ← індекс: рослини → дні, рейтинг → дні
-    ├── 06-june-calendar.json
-    └── 06-june-index.json
-docs/
-└── STRUCTURE.md                  ← опис схеми JSON
+├── manifest.json     ← список згенерованих місяців (сайт читає саме його)
+├── plants.json       ← база культур (строки, група для місячних правил, догляд) — редагується вручну
+├── regions.json      ← агрокліматичні дані регіонів
+└── 2026/, 2027/ …    ← згенеровані місяці
 ```
 
-## Як читати дані з сайту
+### Астрономія (`lib/astro.mjs`)
+- Фази (новий місяць, чверті, повня) — з точністю до хвилини, київський час з переходом на літній.
+- **Знак зодіаку** — тропічний, як у традиційних календарях. Знак дня — той, у якому Місяць **опівдні**; якщо знак змінюється протягом доби, записується час зміни (`sign_change`).
+- **Місячні дні**: 1-й починається в момент нового місяця, кожен наступний — зі сходом Місяця (Київ). У добі може бути 2–3 місячні дні (`"28-29-1"`).
+- Схід / захід Місяця, освітленість диска, затемнення.
 
-### Отримати дані поточного місяця
+Перевірено на даних травня–липня 2026, що лежали тут раніше: фази 92/92 днів, знак на початок доби 92/92.
 
-```js
-const REPO = 'https://raw.githubusercontent.com/YOUR_USERNAME/lunar-calendar-ua/main';
+### Правила (`lib/rules.mjs`)
+1. Базовий рейтинг — за родючістю знаку: Рак, Скорпіон, Риби, Козеріг → `excellent`; Телець, Діва, Терези → `good`; Близнюки, Стрілець → `normal`; Овен, Лев, Водолій → `bad`.
+2. Новий місяць, повня, затемнення → `terrible`; день поруч із новим місяцем — на рівень гірший.
+3. Молодий Місяць — культури з надземним урожаєм (`fruit`, `leaf`, `flower`), спадний — коренеплоди й цибулинні (`root`, `bulb`); дерева й кущі — в обидві фази.
+4. У нейтральний день підходять лише культури, яким «сприяє» стихія знаку (вода — листові, земля — коренеплоди, повітря — квіти, вогонь — плодові).
+5. У поганий і несприятливий день немає ні культур, ні порад «сіяти/садити». Суперечні поради (наприклад, «обрізати» від фази й «не обрізати» від знаку) відфільтровуються.
+6. Культура потрапляє в день, лише якщо дата в її агрономічному вікні (`windows` у `plants.json`: розсада, теплиця, ґрунт, осіння посадка, саджанці, поділ).
 
-// Повний календар місяця
-const calendar = await fetch(`${REPO}/data/2026/05-may-calendar.json`)
-  .then(r => r.json());
+## Запуск
 
-// Індекс по рослинах і рейтингах
-const index = await fetch(`${REPO}/data/2026/05-may-index.json`)
-  .then(r => r.json());
+```bash
+npm install
+node scripts/generate.mjs --from 2026-01 --to 2027-12   # або без аргументів: від поточного місяця на 18 наперед
+node scripts/check.mjs
 ```
 
-### Знайти сприятливі дні для конкретної рослини
+GitHub Action `generate-calendar.yml` щомісяця (1-го числа) перегенеровує дані від 2026-01 на 18 місяців уперед і комітить. Також запускається при зміні скриптів або `plants.json`. Сайт підтягує дані під час кожного білду.
 
-```js
-const garlicDays = index.by_plant['часник']
-  .filter(d => ['excellent', 'good'].includes(d.rating));
-// → [{ day: 6, date: '2026-05-06', rating: 'excellent', moon_sign_ua: 'Козеріг', ... }]
-```
+## Схема дня (`days[]` у `*-calendar.json`)
 
-### Отримати всі відмінні дні місяця
+| Поле | Приклад | Опис |
+|------|---------|------|
+| `date`, `day`, `weekday` | `"2026-10-05"`, `5`, `"понеділок"` | |
+| `lunar_day`, `lunar_days` | `"24-25"`, `[24, 25]` | місячні дні протягом доби |
+| `moon_phase`, `moon_phase_ua` | `"waning"`, `"Спадний"` | `waxing` · `waning` · `new_moon` · `first_quarter` · `full` · `third_quarter` |
+| `phase_event` | `{ "type": "full", "time": "06:12" }` | головна фаза в цей день |
+| `illumination`, `waxing` | `30`, `false` | % освітленості опівдні |
+| `moon_sign`, `moon_sign_ua`, `moon_sign_symbol`, `element` | `"Leo"`, `"Лев"`, `"♌"`, `"fire"` | знак опівдні |
+| `sign_at_start(_ua)`, `sign_change` | `"Cancer"`, `{ "time": "01:54", "to": "Leo", "to_ua": "Лев" }` | знак на 00:00 і час зміни |
+| `moonrise`, `moonset` | `"00:08"`, `"16:29"` | Київ |
+| `eclipse` | `{ "body": "moon", "kind": "partial", "time": "…" }` | |
+| `planting_rating`, `rating_reason` | `"bad"`, `"Лев — …"` | `excellent` · `good` · `normal` · `bad` · `terrible` |
+| `sign_works`, `phase_works` | `{ "rec": [...], "not": [...] }` | роботи окремо за знаком і за фазою |
+| `recommended`, `not_recommended` | `[...]` | об'єднані списки без суперечностей |
+| `plants` | `[{ "id": "garlic", "activities": ["autumn"] }]` | що садити цього дня |
+| `plants_possible` | `["Часник"]` | назви (сумісність зі старою схемою) |
 
-```js
-const bestDays = index.by_rating.excellent;
-// → [{ day: 6, date: '2026-05-06', weekday: 'середа', moon_sign_ua: 'Козеріг', ... }]
-```
-
-### Отримати повний опис дня
-
-```js
-const dayInfo = calendar.days.find(d => d.day === 6);
-// → { date, lunar_day, moon_phase, moon_sign, planting_rating,
-//     recommended: [...], not_recommended: [...], plants_possible: [...] }
-```
-
-## Схема об'єкта дня
-
-| Поле | Тип | Приклад |
-|------|-----|---------|
-| `date` | string | `"2026-05-06"` |
-| `day` | number | `6` |
-| `weekday` | string | `"середа"` |
-| `lunar_day` | string | `"18-19"` |
-| `moon_phase` | string | `"waning"` |
-| `moon_phase_ua` | string | `"Спадний"` |
-| `moon_sign` | string | `"Capricorn"` |
-| `moon_sign_ua` | string | `"Козеріг"` |
-| `moon_sign_symbol` | string | `"♑"` |
-| `planting_rating` | string | `"excellent"` |
-| `recommended` | array | `["Сіяти бобові..."]` |
-| `not_recommended` | array | `["Поливати..."]` |
-| `plants_possible` | array | `["часник", "морква"]` |
-| `notes` | string | опціонально |
-
-### Значення `moon_phase`
-`waxing` · `waning` · `full` · `new_moon` · `first_quarter` · `third_quarter`
-
-### Значення `planting_rating`
-| Код | Українською |
-|-----|-------------|
-| `excellent` | Відмінний |
-| `good` | Гарний |
-| `normal` | Нормальний |
-| `bad` | Поганий |
-| `terrible` | Жахливий |
-
-## Доступні місяці
-
-| Місяць | Calendar | Index |
-|--------|----------|-------|
-| Травень 2026 | [05-may-calendar.json](data/2026/05-may-calendar.json) | [05-may-index.json](data/2026/05-may-index.json) |
-| Червень 2026 | [06-june-calendar.json](data/2026/06-june-calendar.json) | [06-june-index.json](data/2026/06-june-index.json) |
-
-## Джерело даних
-
-[floristics.info](https://floristics.info/ua/misyachnij-kalendar/) — місячний посівний календар садівника-городника.
+`meta` місяця: `phases`, `eclipses`, `tasks` (роботи місяця), `rating_counts`.
+`*-index.json`: `by_plant` (id → дні), `by_rating`, підписи українською.
