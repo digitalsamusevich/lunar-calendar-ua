@@ -2,8 +2,11 @@
 // Логіка:
 //   1) базовий рейтинг дня — за родючістю знаку, в якому Місяць опівдні;
 //   2) новий місяць, повня й затемнення — найгірші дні, дні поруч із новим місяцем — на рівень гірші;
-//   3) Місяць, що росте, — для культур із надземним урожаєм, спадний — для коренеплодів і цибулинних;
-//   4) стихія знаку (вода/земля/повітря/вогонь) підказує, для якої частини рослини день найкращий.
+//   3) Місяць, що росте, — для культур із надземним урожаєм (зокрема квітів із насіння),
+//      спадний — для коренеплодів, цибулинних (зокрема цибулинних квітів) і саджанців дерев та кущів;
+//   4) стихія знаку (вода/земля/повітря/вогонь) підказує, для якої частини рослини день найкращий;
+//   5) порада «сіяти/садити» з’являється, лише якщо цього дня в списку є відповідна культура
+//      (підходять фаза, рейтинг і агрономічні строки) — так порада не суперечить ні фазі, ні сезону.
 
 export const RATINGS = ['terrible', 'bad', 'normal', 'good', 'excellent'];
 export const RATING_UA = {
@@ -38,9 +41,21 @@ export const GROUP_UA = {
 
 /** Для яких груп культур підходить фаза Місяця */
 export const PHASE_GROUPS = {
-	waxing: ['fruit', 'leaf', 'flower', 'tree_shrub'],
-	waning: ['root', 'bulb', 'tree_shrub', 'flower'],
+	waxing: ['fruit', 'leaf', 'flower'],
+	waning: ['root', 'bulb', 'tree_shrub'],
 };
+
+// Порада про посів чи посадку. Показуємо її, лише якщо в списку культур дня є відповідна:
+//   g — групи moon_group, cat — категорії plants.json, ids — культури, a — види робіт (windows.type),
+//   seedling — лише культури, які вирощують через розсаду;
+//   list — дописати до тексту назви знайдених культур, щоб не радити того, що зараз не садять;
+//   home — робота на підвіконні: зважаємо лише на фазу (групи g).
+const job = (t, tag) => ({ t, ...tag });
+const VEG = ['solanaceae', 'cucurbit', 'melon', 'brassica', 'root', 'bulb', 'legume', 'leafy', 'cereal', 'perennial', 'herb'];
+const ORCHARD = ['berry', 'vines', 'fruit_trees'];
+const SEEDLINGS = job('Висаджувати розсаду', { a: ['greenhouse', 'open_ground'], seedling: true });
+const ONION_GARLIC = job('Садити', { ids: ['garlic', 'onion', 'shallot'], a: ['open_ground', 'autumn'], list: true });
+const FLOWER_BULBS = ['tulip', 'daffodil', 'hyacinth', 'crocus', 'lily', 'gladiolus', 'dahlia'];
 
 export const SIGN_INFO = {
 	Aries: {
@@ -53,23 +68,24 @@ export const SIGN_INFO = {
 	Taurus: {
 		ua: 'Телець', gen: 'Тельці', symbol: '♉', element: 'earth', base: 'good',
 		why: 'Телець — родючий земний знак: рослини ростуть повільно, зате міцні й добре зберігаються.',
-		rec: ['Садити коренеплоди й бульби для зберігання', 'Висаджувати розсаду та саджанці', 'Вносити органічні добрива', 'Укорінювати живці'],
+		rec: [job('Садити коренеплоди й бульби для зберігання', { g: ['root'], cat: ['root', 'solanaceae', 'perennial'] }), SEEDLINGS, job('Садити саджанці дерев і кущів', { g: ['tree_shrub'] }), 'Вносити органічні добрива', 'Укорінювати живці'],
 		not: ['Глибоко перекопувати біля коріння', 'Обрізати коріння під час пересадки'],
-		winter: ['Сіяти на розсаду культури з тривалим вегетаційним періодом', 'Підживлювати кімнатні рослини'],
+		winter: [job('Сіяти на розсаду культури з тривалим вегетаційним періодом', { a: ['seedling_indoor'] }), 'Підживлювати кімнатні рослини'],
 	},
 	Gemini: {
 		ua: 'Близнюки', gen: 'Близнюках', symbol: '♊', element: 'air', base: 'normal',
 		why: 'Близнюки — малородючий знак, але добрий для витких і в’юнких рослин.',
-		rec: ['Сіяти й садити виткі рослини: квасолю, горох, огірки на шпалері', 'Висаджувати вуса суниці', 'Прополювати й розпушувати', 'Збирати лікарські трави'],
+		// у нейтральний день Близнюків (повітря) підходять лише квіти — тож і порада про квіти
+		rec: [job('Сіяти й садити квіти, особливо виткі й в’юнкі', { g: ['flower'] }), 'Прополювати й розпушувати', 'Збирати лікарські трави'],
 		not: ['Рясно поливати', 'Вносити мінеральні добрива'],
-		winter: ['Сіяти мікрозелень на підвіконні', 'Розпушувати ґрунт у горщиках'],
+		winter: [job('Сіяти мікрозелень на підвіконні', { home: true, g: ['leaf'] }), 'Розпушувати ґрунт у горщиках'],
 	},
 	Cancer: {
 		ua: 'Рак', gen: 'Раку', symbol: '♋', element: 'water', base: 'excellent',
 		why: 'Рак — один із найродючіших знаків: насіння дружно сходить, рослини соковиті.',
-		rec: ['Сіяти й висаджувати більшість городніх культур', 'Поливати', 'Вносити мінеральні добрива', 'Щеплювати плодові дерева'],
+		rec: [job('Сіяти й висаджувати овочі та зелень', { g: ['fruit', 'leaf'], cat: VEG }), 'Поливати', 'Вносити мінеральні добрива', 'Щеплювати плодові дерева'],
 		not: ['Обробляти рослини хімічними препаратами', 'Закладати врожай на тривале зберігання', 'Садити картоплю — бульби будуть водянисті'],
-		winter: ['Сіяти на розсаду перець, баклажани, селеру', 'Поливати й підживлювати розсаду'],
+		winter: [job('Сіяти на розсаду', { ids: ['pepper_sweet', 'pepper_hot', 'eggplant', 'celery'], a: ['seedling_indoor'], list: true }), 'Поливати й підживлювати розсаду'],
 	},
 	Leo: {
 		ua: 'Лев', gen: 'Леві', symbol: '♌', element: 'fire', base: 'bad',
@@ -81,37 +97,50 @@ export const SIGN_INFO = {
 	Virgo: {
 		ua: 'Діва', gen: 'Діві', symbol: '♍', element: 'earth', base: 'good',
 		why: 'Діва — знак, сприятливий для квітів і декоративних рослин; овочі на насіння — гірше.',
-		rec: ['Сіяти й пересаджувати квіти та декоративні рослини', 'Ділити кущі багаторічників', 'Садити плодові дерева й кущі', 'Укорінювати живці'],
+		rec: [
+			job('Сіяти й пересаджувати квіти та декоративні рослини', { g: ['flower'] }),
+			job('Садити', { ids: FLOWER_BULBS, a: ['open_ground', 'autumn'], list: true }),
+			job('Ділити кущі багаторічників', { a: ['division'] }),
+			job('Садити плодові дерева й кущі', { g: ['tree_shrub'], cat: ORCHARD }),
+			'Укорінювати живці',
+		],
 		not: ['Сіяти овочі на насіння', 'Замочувати насіння'],
-		winter: ['Пересаджувати кімнатні рослини', 'Сіяти квіти на розсаду: петунію, лобелію'],
+		winter: ['Пересаджувати кімнатні рослини', job('Сіяти квіти на розсаду: петунію, лобелію', { ids: ['petunia'], a: ['seedling_indoor'] })],
 	},
 	Libra: {
 		ua: 'Терези', gen: 'Терезах', symbol: '♎', element: 'air', base: 'good',
 		why: 'Терези — помірно родючий знак, найкращий для квітів, зокрема цибулинних.',
-		rec: ['Садити квіти, троянди й цибулинні', 'Висаджувати плодові дерева й кущі', 'Збирати врожай для зберігання', 'Вносити мінеральні добрива'],
+		rec: [
+			job('Сіяти й садити квіти', { g: ['flower'] }),
+			job('Садити', { ids: ['rose', ...FLOWER_BULBS], a: ['open_ground', 'autumn', 'planting'], list: true }),
+			job('Висаджувати плодові дерева й кущі', { g: ['tree_shrub'], cat: ORCHARD }),
+			'Збирати врожай для зберігання',
+			'Вносити мінеральні добрива',
+		],
 		not: ['Вносити свіжий гній', 'Обробляти від шкідників'],
-		winter: ['Сіяти квіти на розсаду', 'Планувати клумби й квітники'],
+		winter: [job('Сіяти квіти на розсаду', { g: ['flower'], a: ['seedling_indoor'] }), 'Планувати клумби й квітники'],
 	},
 	Scorpio: {
 		ua: 'Скорпіон', gen: 'Скорпіоні', symbol: '♏', element: 'water', base: 'excellent',
 		why: 'Скорпіон — дуже родючий знак: рослини отримують міцне коріння й стійкість до хвороб.',
-		rec: ['Сіяти й садити майже всі культури, особливо розсаду', 'Садити часник і цибулю', 'Щеплювати', 'Поливати й підживлювати'],
+		rec: [job('Сіяти й садити овочі та зелень', { g: ['fruit', 'leaf'], cat: VEG }), SEEDLINGS, ONION_GARLIC, 'Щеплювати', 'Поливати й підживлювати'],
 		not: ['Розмножувати поділом коренів і бульб — можуть загнити', 'Обрізати дерева'],
-		winter: ['Сіяти на розсаду томати, перець', 'Підживлювати розсаду'],
+		winter: [job('Сіяти на розсаду', { ids: ['tomato', 'pepper_sweet', 'pepper_hot'], a: ['seedling_indoor'], list: true }), 'Підживлювати розсаду'],
 	},
 	Sagittarius: {
 		ua: 'Стрілець', gen: 'Стрільці', symbol: '♐', element: 'fire', base: 'normal',
-		why: 'Стрілець — малородючий знак: підходить для швидких культур і цибулі на перо.',
-		rec: ['Сіяти цибулю на перо, часник, кріп, гострий перець', 'Косити й збирати насіння', 'Прополювати'],
+		why: 'Стрілець — малородючий знак: підходить хіба що для бобових і високорослих культур.',
+		// у нейтральний день Стрільця (вогонь) підходять лише плодові — бобові, кукурудза, соняшник
+		rec: [job('Сіяти', { ids: ['pea', 'broad_bean', 'bean', 'bean_asparagus', 'corn', 'sunflower'], a: ['open_ground'], list: true }), 'Косити й збирати насіння', 'Прополювати'],
 		not: ['Пересаджувати', 'Рясно поливати', 'Обрізати'],
-		winter: ['Виганяти зелену цибулю на підвіконні', 'Перевіряти насіння на схожість'],
+		winter: [job('Виганяти зелену цибулю на підвіконні', { home: true, g: ['leaf'] }), 'Перевіряти насіння на схожість'],
 	},
 	Capricorn: {
 		ua: 'Козеріг', gen: 'Козерозі', symbol: '♑', element: 'earth', base: 'excellent',
 		why: 'Козеріг — родючий земний знак: сходи повільніші, зате витривалі, урожай добре лежить.',
-		rec: ['Садити коренеплоди, бульби, цибулю й часник для зберігання', 'Садити дерева й кущі', 'Обрізати й формувати крону', 'Щеплювати'],
+		rec: [job('Садити коренеплоди й бульби для зберігання', { g: ['root'], cat: ['root', 'solanaceae', 'perennial'] }), ONION_GARLIC, job('Садити дерева й кущі', { g: ['tree_shrub'] }), 'Обрізати й формувати крону', 'Щеплювати'],
 		not: ['Пересаджувати з поділом коренів', 'Рясно поливати'],
-		winter: ['Сіяти на розсаду селеру, цибулю-порей', 'Обрізати плодові дерева в безморозний день'],
+		winter: [job('Сіяти на розсаду', { ids: ['celery', 'leek'], a: ['seedling_indoor'], list: true }), 'Обрізати плодові дерева в безморозний день', 'Перевіряти укриття й обв’язку молодих дерев і кущів', 'Перебирати овочі у сховищі'],
 	},
 	Aquarius: {
 		ua: 'Водолій', gen: 'Водолії', symbol: '♒', element: 'air', base: 'bad',
@@ -123,20 +152,20 @@ export const SIGN_INFO = {
 	Pisces: {
 		ua: 'Риби', gen: 'Рибах', symbol: '♓', element: 'water', base: 'excellent',
 		why: 'Риби — родючий знак: добре для листових і скоростиглих культур.',
-		rec: ['Сіяти й садити овочі, особливо листові й скоростиглі', 'Поливати', 'Вносити органічні добрива'],
+		rec: [job('Сіяти й садити овочі, особливо листові й скоростиглі', { g: ['fruit', 'leaf'], cat: VEG }), 'Поливати', 'Вносити органічні добрива'],
 		not: ['Обрізати дерева', 'Обробляти хімічними препаратами', 'Закладати врожай на зберігання'],
-		winter: ['Сіяти салат і зелень на підвіконні', 'Поливати розсаду'],
+		winter: [job('Сіяти салат і зелень на підвіконні', { home: true, g: ['leaf'] }), 'Поливати розсаду'],
 	},
 };
 
 const PHASE_WORKS = {
 	waxing: {
-		rec: ['Сіяти й садити культури з надземним урожаєм: зелень, огірки, томати, бобові', 'Поливати й підживлювати'],
-		not: ['Сильно обрізати дерева й кущі — активний сокорух'],
+		rec: [job('Сіяти й садити культури з надземним урожаєм', { g: PHASE_GROUPS.waxing }), 'Поливати й підживлювати'],
+		not: ['Сильно обрізати дерева й кущі — активний сокорух', 'Садити коренеплоди, цибулинні й саджанці дерев і кущів'],
 	},
 	waning: {
-		rec: ['Садити коренеплоди, цибулю й часник', 'Обрізати дерева й кущі, проріджувати посіви', 'Збирати врожай для зберігання'],
-		not: ['Сіяти культури з надземними плодами'],
+		rec: [job('Сіяти й садити коренеплоди та цибулинні', { g: ['root', 'bulb'] }), 'Обрізати дерева й кущі, проріджувати посіви', 'Збирати врожай для зберігання'],
+		not: ['Сіяти й садити культури з надземним урожаєм'],
 	},
 	new_moon: {
 		rec: ['Планувати посадки, готувати насіння та інвентар', 'Легке прополювання'],
@@ -160,9 +189,14 @@ const isWinter = (month) => month === 12 || month <= 2;
 const downgrade = (r) => RATINGS[Math.max(0, RATINGS.indexOf(r) - 1)];
 const minRating = (a, b) => (RATINGS.indexOf(a) < RATINGS.indexOf(b) ? a : b);
 
+const NEAR_NEW_MOON = {
+	before: 'Напередодні нового місяця сили рослин мінімальні, тому день на рівень гірший.',
+	after: 'Щойно минув новий місяць — рослини ще не набрали сили, тому день на рівень гірший.',
+};
+
 /**
  * Оцінка дня.
- * @param day { sign, phase, phaseEvent, nearNewMoon, eclipse, month }
+ * @param day { sign, phaseEvent, nearNewMoon: 'before' | 'after' | null, eclipse }
  */
 export function rateDay({ sign, phaseEvent, nearNewMoon, eclipse }) {
 	const info = SIGN_INFO[sign];
@@ -179,22 +213,48 @@ export function rateDay({ sign, phaseEvent, nearNewMoon, eclipse }) {
 		reasons.unshift(PHASE_WORKS.full.why);
 	} else if (nearNewMoon) {
 		rating = downgrade(rating);
-		reasons.push('Поруч новий місяць — рослини ще не набрали сили, тому день на рівень гірший.');
+		reasons.push(NEAR_NEW_MOON[nearNewMoon]);
 	}
 	return { rating, reason: reasons.join(' ') };
 }
 
 // Основи слів, за якими ловимо суперечності «рекомендовано X» ↔ «не рекомендовано X»
-const CONFLICT_STEMS = ['обріз', 'картопл', 'полив', 'пересад', 'щеплю', 'зберіган', 'підживл', 'добрив'];
+const CONFLICT_STEMS = ['обріз', 'картопл', 'полив', 'пересад', 'щеплю', 'зберіган', 'підживл', 'добрив', 'надземн', 'коренепл', 'цибулин', 'саджан'];
 const stemsOf = (line) => CONFLICT_STEMS.filter((st) => line.toLowerCase().includes(st));
-const conflicts = (line, notList) => stemsOf(line).some((st) => notList.some((n) => n.toLowerCase().includes(st)));
+export const conflicts = (line, notList) => stemsOf(line).some((st) => notList.some((n) => n.toLowerCase().includes(st)));
+
+// Рядки «не рекомендовано», що забороняють роботу з культурою, — її прибираємо і зі списку культур дня
+const FORBIDS = [
+	{ re: /поділ|пересаджув/i, act: 'division' },
+	{ re: /картопл/i, id: 'potato' },
+];
+const forbidden = (plant, act, not) => FORBIDS.some((f) => (f.act ? f.act === act : f.id === plant.id) && not.some((n) => f.re.test(n)));
+
+const matches = (tag, { plant, acts }) =>
+	(!tag.g || tag.g.includes(plant.moon_group)) &&
+	(!tag.cat || tag.cat.includes(plant.category)) &&
+	(!tag.ids || tag.ids.includes(plant.id)) &&
+	(!tag.a || acts.some((a) => tag.a.includes(a))) &&
+	(!tag.seedling || plant.windows.some((w) => w.type === 'seedling_indoor'));
+
+// «a, b і c»: після голосного — «й», після приголосного чи перед й/я/ю/є/ї — «і»
+function joinUa(xs) {
+	if (xs.length < 2) return xs.join('');
+	const [prev, last] = xs.slice(-2);
+	const and = /[аеєиіїоуюя]$/i.test(prev) && !/^[йяюєї]/i.test(last) ? 'й' : 'і';
+	return `${xs.slice(0, -1).join(', ')} ${and} ${last}`;
+}
+
+export const PLANTING = /^(Сіяти|Садити|Висаджувати)/;
 
 /**
  * Роботи дня: окремо за знаком і за фазою (так їх і показуємо на сайті),
  * плюс об’єднані списки без суперечностей — якщо щось «не рекомендовано» в одній групі,
  * його прибрано з «рекомендовано» в іншій.
+ * active — культури з відкритим сьогодні агровікном: [{ plant, acts }]. З них у plants лишаються ті,
+ * що підходять дню й не заборонені «не рекомендовано»; поради «сіяти/садити» даємо лише під них.
  */
-export function worksForDay({ sign, phase, phaseEvent, eclipse, month, rating }) {
+export function worksForDay({ sign, phase, phaseEvent, eclipse, month, rating, active = [] }) {
 	const info = SIGN_INFO[sign];
 	const key = eclipse ? 'eclipse' : phaseEvent === 'new_moon' || phaseEvent === 'full' ? phaseEvent : phase;
 	const pw = PHASE_WORKS[key];
@@ -202,9 +262,21 @@ export function worksForDay({ sign, phase, phaseEvent, eclipse, month, rating })
 	const signRec = isWinter(month) ? info.winter : info.rec;
 
 	const not = dedupe(special ? pw.not : [...info.not, ...pw.not]);
+	const plants = active
+		.filter(({ plant }) => plantFits(plant.moon_group, { rating, phase, sign }))
+		.map(({ plant, acts }) => ({ plant, acts: acts.filter((a) => !forbidden(plant, a, not)) }))
+		.filter(({ acts }) => acts.length);
 	// У поганий день посів і посадку не радимо, навіть якщо фаза «за»
 	const noPlanting = rating === 'bad' || rating === 'terrible';
-	const clean = (list) => list.filter((l) => !conflicts(l, not) && !(noPlanting && /^(Сіяти|Садити|Висаджувати)/.test(l)));
+	const pick = (l) => {
+		if (typeof l === 'string') return l;
+		if (l.home) return !noPlanting && l.g.some((g) => PHASE_GROUPS[phase].includes(g)) ? l.t : null;
+		const found = plants.filter((x) => matches(l, x));
+		if (!found.length) return null;
+		if (l.ids) found.sort((x, y) => l.ids.indexOf(x.plant.id) - l.ids.indexOf(y.plant.id));
+		return l.list ? `${l.t} ${joinUa(dedupe(found.map((x) => x.plant.name_acc)))}` : l.t;
+	};
+	const clean = (list) => list.map(pick).filter((l) => l && !conflicts(l, not) && !(noPlanting && PLANTING.test(l)));
 	const signWorks = special ? { rec: [], not: [] } : { rec: clean(signRec), not: info.not };
 	const phaseWorks = { rec: clean(pw.rec), not: pw.not };
 	return {
@@ -212,6 +284,7 @@ export function worksForDay({ sign, phase, phaseEvent, eclipse, month, rating })
 		not_recommended: not,
 		sign_works: signWorks,
 		phase_works: phaseWorks,
+		plants,
 	};
 }
 

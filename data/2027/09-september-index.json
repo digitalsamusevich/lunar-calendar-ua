@@ -4,6 +4,48 @@
     "month": 9
   },
   "by_plant": {
+    "chives": [
+      {
+        "day": 2,
+        "date": "2027-09-02",
+        "rating": "good",
+        "activities": [
+          "division"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 3,
+        "date": "2027-09-03",
+        "rating": "good",
+        "activities": [
+          "division"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2027-09-14",
+        "rating": "excellent",
+        "activities": [
+          "division"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 15,
+        "date": "2027-09-15",
+        "rating": "excellent",
+        "activities": [
+          "division"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
     "lettuce": [
       {
         "day": 2,
@@ -416,66 +458,6 @@
         "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 14,
         "date": "2027-09-14",
         "rating": "excellent",
@@ -518,66 +500,6 @@
         "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 14,
         "date": "2027-09-14",
         "rating": "excellent",
@@ -617,66 +539,6 @@
           "division"
         ],
         "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Молодий (росте)"
       },
       {
@@ -800,76 +662,6 @@
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 24,
-        "date": "2027-09-24",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-09-25",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
       }
     ],
     "echinacea": [
@@ -894,66 +686,6 @@
         "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 14,
         "date": "2027-09-14",
         "rating": "excellent",
@@ -972,86 +704,6 @@
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 24,
-        "date": "2027-09-24",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-09-25",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 28,
-        "date": "2027-09-28",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Спадний"
       }
     ],
     "oregano": [
@@ -1073,66 +725,6 @@
           "division"
         ],
         "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Молодий (росте)"
       },
       {
@@ -1474,13 +1066,13 @@
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
-    "honeysuckle": [
+    "phlox": [
       {
         "day": 2,
         "date": "2027-09-02",
         "rating": "good",
         "activities": [
-          "planting"
+          "division"
         ],
         "moon_sign_ua": "Терези",
         "moon_phase_ua": "Молодий (росте)"
@@ -1490,69 +1082,9 @@
         "date": "2027-09-03",
         "rating": "good",
         "activities": [
-          "planting"
+          "division"
         ],
         "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Молодий (росте)"
       },
       {
@@ -1560,7 +1092,7 @@
         "date": "2027-09-14",
         "rating": "excellent",
         "activities": [
-          "planting"
+          "division"
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Молодий (росте)"
@@ -1570,11 +1102,117 @@
         "date": "2027-09-15",
         "rating": "excellent",
         "activities": [
-          "planting"
+          "division"
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "currant_red": [
+      {
+        "day": 19,
+        "date": "2027-09-19",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
       },
+      {
+        "day": 20,
+        "date": "2027-09-20",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2027-09-24",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2027-09-25",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2027-09-28",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "blueberry": [
+      {
+        "day": 19,
+        "date": "2027-09-19",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2027-09-20",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2027-09-24",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2027-09-25",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2027-09-28",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "honeysuckle": [
       {
         "day": 19,
         "date": "2027-09-19",
@@ -1628,106 +1266,6 @@
     ],
     "daffodil": [
       {
-        "day": 2,
-        "date": "2027-09-02",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 3,
-        "date": "2027-09-03",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 19,
         "date": "2027-09-19",
         "rating": "good",
@@ -1746,36 +1284,6 @@
         ],
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
       },
       {
         "day": 24,
@@ -1801,6 +1309,78 @@
         "day": 28,
         "date": "2027-09-28",
         "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2027-09-29",
+        "rating": "normal",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "crocus": [
+      {
+        "day": 19,
+        "date": "2027-09-19",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2027-09-20",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2027-09-24",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2027-09-25",
+        "rating": "excellent",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2027-09-28",
+        "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2027-09-29",
+        "rating": "normal",
         "activities": [
           "autumn"
         ],
@@ -1810,106 +1390,6 @@
     ],
     "lily": [
       {
-        "day": 2,
-        "date": "2027-09-02",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 3,
-        "date": "2027-09-03",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 19,
         "date": "2027-09-19",
         "rating": "good",
@@ -1928,36 +1408,6 @@
         ],
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
       },
       {
         "day": 24,
@@ -1983,6 +1433,16 @@
         "day": 28,
         "date": "2027-09-28",
         "rating": "good",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2027-09-29",
+        "rating": "normal",
         "activities": [
           "autumn"
         ],
@@ -1992,116 +1452,6 @@
     ],
     "peony": [
       {
-        "day": 2,
-        "date": "2027-09-02",
-        "rating": "good",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 3,
-        "date": "2027-09-03",
-        "rating": "good",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "planting",
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
         "day": 19,
         "date": "2027-09-19",
         "rating": "good",
@@ -2119,250 +1469,6 @@
         "activities": [
           "planting",
           "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 24,
-        "date": "2027-09-24",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-09-25",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 28,
-        "date": "2027-09-28",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "phlox": [
-      {
-        "day": 2,
-        "date": "2027-09-02",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 3,
-        "date": "2027-09-03",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 4,
-        "date": "2027-09-04",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 5,
-        "date": "2027-09-05",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 6,
-        "date": "2027-09-06",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 9,
-        "date": "2027-09-09",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "currant_red": [
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "planting"
         ],
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Спадний"
@@ -2396,185 +1502,11 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Спадний"
-      }
-    ],
-    "crocus": [
-      {
-        "day": 10,
-        "date": "2027-09-10",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 11,
-        "date": "2027-09-11",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-09-14",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
+        "day": 29,
+        "date": "2027-09-29",
         "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 24,
-        "date": "2027-09-24",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-09-25",
-        "rating": "excellent",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 28,
-        "date": "2027-09-28",
-        "rating": "good",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "blueberry": [
-      {
-        "day": 15,
-        "date": "2027-09-15",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2027-09-19",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 20,
-        "date": "2027-09-20",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 24,
-        "date": "2027-09-24",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-09-25",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 28,
-        "date": "2027-09-28",
-        "rating": "good",
         "activities": [
           "planting"
         ],
@@ -2940,36 +1872,6 @@
         "moon_phase_ua": "Спадний"
       },
       {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "autumn"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
         "day": 24,
         "date": "2027-09-24",
         "rating": "excellent",
@@ -2998,6 +1900,16 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2027-09-29",
+        "rating": "normal",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
       }
     ],
     "rose": [
@@ -3010,36 +1922,6 @@
         ],
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 21,
-        "date": "2027-09-21",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 22,
-        "date": "2027-09-22",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 23,
-        "date": "2027-09-23",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Остання чверть"
       },
       {
         "day": 24,
@@ -3310,6 +2192,16 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 29,
+        "date": "2027-09-29",
+        "rating": "normal",
+        "activities": [
+          "autumn"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Спадний"
       }
     ]
   },
@@ -3348,7 +2240,7 @@
       {
         "day": 17,
         "date": "2027-09-17",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Овен",
         "moon_phase_ua": "Спадний"
       },
@@ -3436,7 +2328,7 @@
       {
         "day": 3,
         "date": "2027-09-03",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Терези",
         "moon_phase_ua": "Молодий (росте)"
       },
@@ -3494,7 +2386,7 @@
       {
         "day": 10,
         "date": "2027-09-10",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Молодий (росте)"
       },
@@ -3522,7 +2414,7 @@
       {
         "day": 24,
         "date": "2027-09-24",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Рак",
         "moon_phase_ua": "Спадний"
       },

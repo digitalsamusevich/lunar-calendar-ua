@@ -247,322 +247,6 @@
         "moon_phase_ua": "Спадний"
       }
     ],
-    "lavender": [
-      {
-        "day": 2,
-        "date": "2027-03-02",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 3,
-        "date": "2027-03-03",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 4,
-        "date": "2027-03-04",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2027-03-07",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "echinacea": [
-      {
-        "day": 2,
-        "date": "2027-03-02",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 3,
-        "date": "2027-03-03",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 4,
-        "date": "2027-03-04",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2027-03-07",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2027-03-12",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 13,
-        "date": "2027-03-13",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-03-14",
-        "rating": "normal",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-03-15",
-        "rating": "normal",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 16,
-        "date": "2027-03-16",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 17,
-        "date": "2027-03-17",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2027-03-20",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 21,
-        "date": "2027-03-21",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2027-03-23",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 24,
-        "date": "2027-03-24",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-03-25",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 26,
-        "date": "2027-03-26",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 29,
-        "date": "2027-03-29",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 30,
-        "date": "2027-03-30",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 31,
-        "date": "2027-03-31",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "petunia": [
-      {
-        "day": 2,
-        "date": "2027-03-02",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 3,
-        "date": "2027-03-03",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 4,
-        "date": "2027-03-04",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2027-03-07",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2027-03-12",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 13,
-        "date": "2027-03-13",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 14,
-        "date": "2027-03-14",
-        "rating": "normal",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 15,
-        "date": "2027-03-15",
-        "rating": "normal",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Перша чверть"
-      }
-    ],
     "tomato": [
       {
         "day": 12,
@@ -1753,6 +1437,88 @@
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
+    "echinacea": [
+      {
+        "day": 12,
+        "date": "2027-03-12",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 13,
+        "date": "2027-03-13",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2027-03-14",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 15,
+        "date": "2027-03-15",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 16,
+        "date": "2027-03-16",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 17,
+        "date": "2027-03-17",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2027-03-20",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 21,
+        "date": "2027-03-21",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
     "lovage": [
       {
         "day": 12,
@@ -1875,6 +1641,48 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "petunia": [
+      {
+        "day": 12,
+        "date": "2027-03-12",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 13,
+        "date": "2027-03-13",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2027-03-14",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 15,
+        "date": "2027-03-15",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
       }
     ],
     "physalis": [
@@ -2109,76 +1917,6 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2027-03-23",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 24,
-        "date": "2027-03-24",
-        "rating": "good",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 25,
-        "date": "2027-03-25",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 26,
-        "date": "2027-03-26",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 29,
-        "date": "2027-03-29",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 30,
-        "date": "2027-03-30",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 31,
-        "date": "2027-03-31",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
       }
     ],
     "garlic": [
@@ -2284,110 +2022,6 @@
         "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Спадний"
       }
-    ],
-    "marigold": [
-      {
-        "day": 25,
-        "date": "2027-03-25",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 26,
-        "date": "2027-03-26",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 29,
-        "date": "2027-03-29",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 30,
-        "date": "2027-03-30",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 31,
-        "date": "2027-03-31",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "cosmos": [
-      {
-        "day": 25,
-        "date": "2027-03-25",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 26,
-        "date": "2027-03-26",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 29,
-        "date": "2027-03-29",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 30,
-        "date": "2027-03-30",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Остання чверть"
-      },
-      {
-        "day": 31,
-        "date": "2027-03-31",
-        "rating": "excellent",
-        "activities": [
-          "seedling_indoor"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      }
     ]
   },
   "by_rating": {
@@ -2418,7 +2052,7 @@
       {
         "day": 5,
         "date": "2027-03-05",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Водолій",
         "moon_phase_ua": "Спадний"
       },
@@ -2453,7 +2087,7 @@
       {
         "day": 19,
         "date": "2027-03-19",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Лев",
         "moon_phase_ua": "Молодий (росте)"
       }
@@ -2506,7 +2140,7 @@
       {
         "day": 12,
         "date": "2027-03-12",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Молодий (росте)"
       },
@@ -2592,7 +2226,7 @@
       {
         "day": 26,
         "date": "2027-03-26",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Скорпіон",
         "moon_phase_ua": "Спадний"
       },

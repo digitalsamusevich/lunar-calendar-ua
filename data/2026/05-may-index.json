@@ -370,136 +370,6 @@
         "moon_phase_ua": "Спадний"
       }
     ],
-    "welsh_onion": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 15,
-        "date": "2026-05-15",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "chives": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 15,
-        "date": "2026-05-15",
-        "rating": "normal",
-        "activities": [
-          "open_ground",
-          "division"
-        ],
-        "moon_sign_ua": "Телець",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
     "topinambur": [
       {
         "day": 2,
@@ -594,203 +464,6 @@
         "moon_phase_ua": "Спадний"
       }
     ],
-    "lavender": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
-    "echinacea": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
     "blueberry": [
       {
         "day": 2,
@@ -873,106 +546,6 @@
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 26,
-        "date": "2026-05-26",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 27,
-        "date": "2026-05-27",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 28,
-        "date": "2026-05-28",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 29,
-        "date": "2026-05-29",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 30,
-        "date": "2026-05-30",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
       }
     ],
     "schisandra": [
@@ -1037,6 +610,16 @@
         ],
         "moon_sign_ua": "Риби",
         "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2026-05-15",
+        "rating": "normal",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
       }
     ],
     "gladiolus": [
@@ -1091,64 +674,14 @@
         "moon_phase_ua": "Спадний"
       },
       {
-        "day": 18,
-        "date": "2026-05-18",
+        "day": 15,
+        "date": "2026-05-15",
         "rating": "normal",
         "activities": [
           "open_ground"
         ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
       }
     ],
     "rose": [
@@ -1181,533 +714,6 @@
         ],
         "moon_sign_ua": "Козеріг",
         "moon_phase_ua": "Спадний"
-      }
-    ],
-    "aster": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
-    "calendula": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
-    "cosmos": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
-    "phlox": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "iris": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      }
-    ],
-    "chrysanthemum": [
-      {
-        "day": 2,
-        "date": "2026-05-02",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 6,
-        "date": "2026-05-06",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 7,
-        "date": "2026-05-07",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "planting"
-        ],
-        "moon_sign_ua": "Козеріг",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "division",
-          "planting"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 26,
-        "date": "2026-05-26",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 27,
-        "date": "2026-05-27",
-        "rating": "good",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 28,
-        "date": "2026-05-28",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 29,
-        "date": "2026-05-29",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 30,
-        "date": "2026-05-30",
-        "rating": "excellent",
-        "activities": [
-          "planting"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
       }
     ],
     "celery": [
@@ -1784,6 +790,50 @@
         "moon_phase_ua": "Спадний"
       },
       {
+        "day": 15,
+        "date": "2026-05-15",
+        "rating": "normal",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "lavender": [
+      {
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "echinacea": [
+      {
         "day": 18,
         "date": "2026-05-18",
         "rating": "normal",
@@ -1842,211 +892,41 @@
         ],
         "moon_sign_ua": "Діва",
         "moon_phase_ua": "Молодий (росте)"
-      },
+      }
+    ],
+    "aster": [
       {
-        "day": 26,
-        "date": "2026-05-26",
-        "rating": "good",
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
         "activities": [
           "open_ground"
         ],
-        "moon_sign_ua": "Терези",
+        "moon_sign_ua": "Близнюки",
         "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 27,
-        "date": "2026-05-27",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 28,
-        "date": "2026-05-28",
+        "day": 19,
+        "date": "2026-05-19",
         "rating": "excellent",
         "activities": [
           "open_ground"
         ],
-        "moon_sign_ua": "Скорпіон",
+        "moon_sign_ua": "Рак",
         "moon_phase_ua": "Молодий (росте)"
       },
       {
-        "day": 29,
-        "date": "2026-05-29",
+        "day": 20,
+        "date": "2026-05-20",
         "rating": "excellent",
         "activities": [
           "open_ground"
         ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 30,
-        "date": "2026-05-30",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
+        "moon_sign_ua": "Рак",
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
     "marigold": [
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 18,
-        "date": "2026-05-18",
-        "rating": "normal",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Близнюки",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 19,
-        "date": "2026-05-19",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 20,
-        "date": "2026-05-20",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Рак",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 23,
-        "date": "2026-05-23",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Перша чверть"
-      },
-      {
-        "day": 24,
-        "date": "2026-05-24",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 25,
-        "date": "2026-05-25",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Діва",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 26,
-        "date": "2026-05-26",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 27,
-        "date": "2026-05-27",
-        "rating": "good",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Терези",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 28,
-        "date": "2026-05-28",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 29,
-        "date": "2026-05-29",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      },
-      {
-        "day": 30,
-        "date": "2026-05-30",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Скорпіон",
-        "moon_phase_ua": "Молодий (росте)"
-      }
-    ],
-    "nasturtium": [
-      {
-        "day": 11,
-        "date": "2026-05-11",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
-      {
-        "day": 12,
-        "date": "2026-05-12",
-        "rating": "excellent",
-        "activities": [
-          "open_ground"
-        ],
-        "moon_sign_ua": "Риби",
-        "moon_phase_ua": "Спадний"
-      },
       {
         "day": 18,
         "date": "2026-05-18",
@@ -2270,6 +1150,100 @@
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
+    "calendula": [
+      {
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cosmos": [
+      {
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-05-23",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 24,
+        "date": "2026-05-24",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-05-25",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
     "zinnia": [
       {
         "day": 18,
@@ -2377,6 +1351,230 @@
         "rating": "excellent",
         "activities": [
           "open_ground"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "nasturtium": [
+      {
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-05-23",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 24,
+        "date": "2026-05-24",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-05-25",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 26,
+        "date": "2026-05-26",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 27,
+        "date": "2026-05-27",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2026-05-28",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2026-05-29",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2026-05-30",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "chrysanthemum": [
+      {
+        "day": 18,
+        "date": "2026-05-18",
+        "rating": "normal",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-05-23",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 24,
+        "date": "2026-05-24",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-05-25",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 26,
+        "date": "2026-05-26",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 27,
+        "date": "2026-05-27",
+        "rating": "good",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2026-05-28",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2026-05-29",
+        "rating": "excellent",
+        "activities": [
+          "planting"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2026-05-30",
+        "rating": "excellent",
+        "activities": [
+          "planting"
         ],
         "moon_sign_ua": "Скорпіон",
         "moon_phase_ua": "Молодий (росте)"
@@ -3814,6 +3012,28 @@
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
+    "chives": [
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
     "bean": [
       {
         "day": 19,
@@ -4696,6 +3916,58 @@
         "moon_phase_ua": "Молодий (росте)"
       }
     ],
+    "mint": [
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-05-23",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 24,
+        "date": "2026-05-24",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-05-25",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
     "coriander": [
       {
         "day": 19,
@@ -4923,6 +4195,58 @@
       }
     ],
     "lemon_balm": [
+      {
+        "day": 19,
+        "date": "2026-05-19",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 20,
+        "date": "2026-05-20",
+        "rating": "excellent",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 23,
+        "date": "2026-05-23",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 24,
+        "date": "2026-05-24",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 25,
+        "date": "2026-05-25",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "tarragon": [
       {
         "day": 19,
         "date": "2026-05-19",
@@ -5424,7 +4748,7 @@
       {
         "day": 1,
         "date": "2026-05-01",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Скорпіон",
         "moon_phase_ua": "Повня"
       },
@@ -5447,7 +4771,7 @@
       {
         "day": 8,
         "date": "2026-05-08",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Водолій",
         "moon_phase_ua": "Спадний"
       },
@@ -5496,7 +4820,7 @@
       {
         "day": 22,
         "date": "2026-05-22",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Лев",
         "moon_phase_ua": "Молодий (росте)"
       }
@@ -5526,7 +4850,7 @@
       {
         "day": 15,
         "date": "2026-05-15",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Телець",
         "moon_phase_ua": "Спадний"
       },
@@ -5635,7 +4959,7 @@
       {
         "day": 29,
         "date": "2026-05-29",
-        "weekday": "пʼятниця",
+        "weekday": "п’ятниця",
         "moon_sign_ua": "Скорпіон",
         "moon_phase_ua": "Молодий (росте)"
       },

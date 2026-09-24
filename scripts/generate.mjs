@@ -11,11 +11,11 @@ import * as R from './lib/rules.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = arg('out') ?? path.join(ROOT, 'data');
-const RULES_VERSION = '2.0';
+const RULES_VERSION = '2.1';
 
 const MONTH_EN = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
 const MONTH_UA = ['Січень', 'Лютий', 'Березень', 'Квітень', 'Травень', 'Червень', 'Липень', 'Серпень', 'Вересень', 'Жовтень', 'Листопад', 'Грудень'];
-const WEEKDAY_UA = ['неділя', 'понеділок', 'вівторок', 'середа', 'четвер', 'пʼятниця', 'субота'];
+const WEEKDAY_UA = ['неділя', 'понеділок', 'вівторок', 'середа', 'четвер', 'п’ятниця', 'субота'];
 const ACTIVITY_UA = {
 	seedling_indoor: 'сівба на розсаду',
 	greenhouse: 'у теплицю',
@@ -91,7 +91,9 @@ function buildDay(y, m, d) {
 	const event = quarters.find((q) => inRange(q.time, m0, m1));
 	const angle = S.phaseAngle(noon);
 	const phase = event ? event.type : angle < 180 ? 'waxing' : 'waning';
-	const nearNewMoon = !event?.type?.startsWith('new') && newMoons.some((t) => inRange(t, new Date(+m0 - S.DAY), new Date(+m1 + S.DAY)));
+	// Новий місяць учора чи завтра (але не сьогодні) — день на рівень гірший
+	const nearNew = event?.type?.startsWith('new') ? null : newMoons.find((t) => inRange(t, new Date(+m0 - S.DAY), new Date(+m1 + S.DAY)));
+	const nearNewMoon = nearNew ? (nearNew >= m1 ? 'before' : 'after') : null;
 	const eclipse = eclipses.find((e) => inRange(e.time, m0, m1)) ?? null;
 
 	// Послідовність місячних днів протягом доби: 28-29-1 тощо
@@ -104,16 +106,10 @@ function buildDay(y, m, d) {
 
 	const phaseEvent = event?.type === 'new_moon' || event?.type === 'full' ? event.type : null;
 	const { rating, reason } = R.rateDay({ sign, phaseEvent, nearNewMoon, eclipse });
-	const works = R.worksForDay({ sign, phase: angle < 180 ? 'waxing' : 'waning', phaseEvent, eclipse, month: m, rating });
-
-	const dayPlants = [];
-	for (const p of plants) {
-		const acts = activeWindows(p, date);
-		if (!acts.length) continue;
-		if (R.plantFits(p.moon_group, { rating, phase: angle < 180 ? 'waxing' : 'waning', sign })) {
-			dayPlants.push({ id: p.id, activities: acts });
-		}
-	}
+	// Культури з відкритим агровікном; які з них підходять дню, вирішують правила (фаза, рейтинг, «не рекомендовано»)
+	const active = plants.map((p) => ({ plant: p, acts: activeWindows(p, date) })).filter((x) => x.acts.length);
+	const works = R.worksForDay({ sign, phase: angle < 180 ? 'waxing' : 'waning', phaseEvent, eclipse, month: m, rating, active });
+	const dayPlants = works.plants.map(({ plant, acts }) => ({ id: plant.id, activities: acts }));
 
 	const rise = rises.find((t) => inRange(t, m0, m1));
 	const set = sets.find((t) => inRange(t, m0, m1));
