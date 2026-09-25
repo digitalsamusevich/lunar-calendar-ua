@@ -79,6 +79,10 @@
       "name_acc": "томати",
       "name_gen": "томатів",
       "name_latin": "Solanum lycopersicum",
+      "synonyms": [
+        "помідори"
+      ],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🍅",
       "moon_group": "fruit",
@@ -143,7 +147,7 @@
         "фенхель",
         "картопля"
       ],
-      "moon_tips": "Сіяти й висаджувати на молодому Місяці, коли він у Раку, Скорпіоні чи Рибах. Лев і Водолій вважаються безплідними знаками."
+      "moon_tips": "Сіяти й висаджувати на молодому Місяці. Лев і Водолій вважаються безплідними знаками."
     },
     {
       "id": "pepper_sweet",
@@ -151,6 +155,10 @@
       "name_acc": "солодкий перець",
       "name_gen": "солодкого перцю",
       "name_latin": "Capsicum annuum",
+      "synonyms": [
+        "болгарський перець"
+      ],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🫑",
       "moon_group": "fruit",
@@ -212,7 +220,7 @@
         "фенхель",
         "картопля"
       ],
-      "moon_tips": "Для посіву й висадки обирайте дні молодого Місяця в Раку, Скорпіоні або Рибах. Уникайте днів нового місяця й повні."
+      "moon_tips": "Для посіву й висадки обирайте дні молодого Місяця. Уникайте днів нового місяця й повні."
     },
     {
       "id": "eggplant",
@@ -220,6 +228,10 @@
       "name_acc": "баклажани",
       "name_gen": "баклажанів",
       "name_latin": "Solanum melongena",
+      "synonyms": [
+        "синенькі"
+      ],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🍆",
       "moon_group": "fruit",
@@ -279,7 +291,7 @@
       "avoid": [
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку чи Рибах. У дні Лева та Водолія посіви краще відкласти."
+      "moon_tips": "Сіяти на молодому Місяці. У дні Лева та Водолія посіви краще відкласти."
     },
     {
       "id": "potato",
@@ -287,6 +299,8 @@
       "name_acc": "картоплю",
       "name_gen": "картоплі",
       "name_latin": "Solanum tuberosum",
+      "synonyms": [],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🥔",
       "moon_group": "root",
@@ -342,7 +356,7 @@
         "огірки",
         "соняшник"
       ],
-      "moon_tips": "Садити на спадному Місяці, коли він у Тельці, Діві, Козерозі чи Рибах. Новий місяць і повня — несприятливі дні."
+      "moon_tips": "Садити на спадному Місяці, але не в Раку — бульби будуть водянисті. Новий місяць і повня — несприятливі дні."
     },
     {
       "id": "pepper_hot",
@@ -350,6 +364,11 @@
       "name_acc": "гострий перець",
       "name_gen": "гострого перцю",
       "name_latin": "Capsicum annuum",
+      "synonyms": [
+        "перець чилі",
+        "гіркий перець"
+      ],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🌶️",
       "moon_group": "fruit",
@@ -412,7 +431,7 @@
         "солодкий перець",
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Скорпіоні чи Рибах. Солодкий і гострий перець садять подалі один від одного — вони перезапилюються."
+      "moon_tips": "Сіяти на молодому Місяці. Солодкий і гострий перець садять подалі один від одного — вони перезапилюються."
     },
     {
       "id": "physalis",
@@ -420,6 +439,8 @@
       "name_acc": "фізаліс",
       "name_gen": "фізалісу",
       "name_latin": "Physalis philadelphica, P. pruinosa",
+      "synonyms": [],
+      "verb": "садити",
       "category": "solanaceae",
       "emoji": "🏮",
       "moon_group": "fruit",
@@ -476,7 +497,7 @@
         "картопля",
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "cucumber",
@@ -484,6 +505,8 @@
       "name_acc": "огірки",
       "name_gen": "огірків",
       "name_latin": "Cucumis sativus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "cucurbit",
       "emoji": "🥒",
       "moon_group": "fruit",
@@ -554,7 +577,7 @@
         "томати",
         "картопля"
       ],
-      "moon_tips": "Сіяти на молодому Місяці, найкраще в Раку, Рибах, Скорпіоні або Тельці. У дні Лева й Водолія не сіяти."
+      "moon_tips": "Сіяти на молодому Місяці. У дні Лева й Водолія не сіяти."
     },
     {
       "id": "zucchini",
@@ -562,6 +585,10 @@
       "name_acc": "кабачки",
       "name_gen": "кабачків",
       "name_latin": "Cucurbita pepo",
+      "synonyms": [
+        "цукіні"
+      ],
+      "verb": "садити",
       "category": "cucurbit",
       "emoji": "🥒",
       "moon_group": "fruit",
@@ -616,7 +643,7 @@
         "кукурудза"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Скорпіоні чи Рибах. Збирати плоди краще на спадному Місяці — вони довше зберігаються."
+      "moon_tips": "Сіяти на молодому Місяці. Збирати плоди краще на спадному Місяці — вони довше зберігаються."
     },
     {
       "id": "pumpkin",
@@ -624,6 +651,8 @@
       "name_acc": "гарбуз",
       "name_gen": "гарбуза",
       "name_latin": "Cucurbita maxima",
+      "synonyms": [],
+      "verb": "садити",
       "category": "cucurbit",
       "emoji": "🎃",
       "moon_group": "fruit",
@@ -677,7 +706,7 @@
         "кріп"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Скорпіоні або Рибах. Плоди на зберігання знімати на спадному Місяці в сухий день."
+      "moon_tips": "Сіяти на молодому Місяці. Плоди на зберігання знімати на спадному Місяці в сухий день."
     },
     {
       "id": "pumpkin_patisson",
@@ -685,6 +714,8 @@
       "name_acc": "патисони",
       "name_gen": "патисонів",
       "name_latin": "Cucurbita pepo var. patisson",
+      "synonyms": [],
+      "verb": "садити",
       "category": "cucurbit",
       "emoji": "🥏",
       "moon_group": "fruit",
@@ -736,7 +767,7 @@
         "кукурудза"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "watermelon",
@@ -744,6 +775,8 @@
       "name_acc": "кавуни",
       "name_gen": "кавунів",
       "name_latin": "Citrullus lanatus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "melon",
       "emoji": "🍉",
       "moon_group": "fruit",
@@ -804,7 +837,7 @@
         "картопля",
         "огірки"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "melon",
@@ -812,6 +845,8 @@
       "name_acc": "диню",
       "name_gen": "дині",
       "name_latin": "Cucumis melo",
+      "synonyms": [],
+      "verb": "садити",
       "category": "melon",
       "emoji": "🍈",
       "moon_group": "fruit",
@@ -871,7 +906,7 @@
         "картопля",
         "огірки"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні. Прищипувати плети краще на спадному Місяці."
+      "moon_tips": "Сіяти на молодому Місяці. Прищипувати плети краще на спадному Місяці."
     },
     {
       "id": "cabbage_white",
@@ -879,6 +914,8 @@
       "name_acc": "капусту",
       "name_gen": "капусти",
       "name_latin": "Brassica oleracea",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -944,7 +981,7 @@
         "часник",
         "полуниця"
       ],
-      "moon_tips": "Сіяти й висаджувати на молодому Місяці в Раку, Рибах, Скорпіоні або Тельці. Квасити капусту радять на молодому Місяці."
+      "moon_tips": "Сіяти й висаджувати на молодому Місяці. Квасити капусту радять на молодому Місяці."
     },
     {
       "id": "cabbage_broccoli",
@@ -952,6 +989,8 @@
       "name_acc": "броколі",
       "name_gen": "броколі",
       "name_latin": "Brassica oleracea var. italica",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥦",
       "moon_group": "leaf",
@@ -1013,7 +1052,7 @@
         "томати",
         "полуниця"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "cabbage_cauliflower",
@@ -1021,6 +1060,8 @@
       "name_acc": "цвітну капусту",
       "name_gen": "цвітної капусти",
       "name_latin": "Brassica oleracea var. botrytis",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🤍",
       "moon_group": "leaf",
@@ -1078,7 +1119,7 @@
         "томати",
         "полуниця"
       ],
-      "moon_tips": "Сіяти й висаджувати на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Сіяти й висаджувати на молодому Місяці."
     },
     {
       "id": "kohlrabi",
@@ -1086,6 +1127,8 @@
       "name_acc": "кольрабі",
       "name_gen": "кольрабі",
       "name_latin": "Brassica oleracea var. gongylodes",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -1145,7 +1188,7 @@
       "avoid": [
         "томати"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "savoy_cabbage",
@@ -1153,6 +1196,8 @@
       "name_acc": "савойську капусту",
       "name_gen": "савойської капусти",
       "name_latin": "Brassica oleracea var. sabauda",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -1205,7 +1250,7 @@
       "avoid": [
         "томати"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "chinese_cabbage",
@@ -1213,6 +1258,10 @@
       "name_acc": "пекінську капусту",
       "name_gen": "пекінської капусти",
       "name_latin": "Brassica rapa subsp. pekinensis",
+      "synonyms": [
+        "пекінка"
+      ],
+      "verb": "сіяти",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -1269,7 +1318,7 @@
         "салат"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "cabbage_red",
@@ -1277,6 +1326,8 @@
       "name_acc": "червонокачанну капусту",
       "name_gen": "червонокачанної капусти",
       "name_latin": "Brassica oleracea var. capitata f. rubra",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -1335,7 +1386,7 @@
         "томати",
         "полуниця"
       ],
-      "moon_tips": "Сіяти й висаджувати на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти й висаджувати на молодому Місяці."
     },
     {
       "id": "cabbage_brussels",
@@ -1343,6 +1394,8 @@
       "name_acc": "брюссельську капусту",
       "name_gen": "брюссельської капусти",
       "name_latin": "Brassica oleracea var. gemmifera",
+      "synonyms": [],
+      "verb": "садити",
       "category": "brassica",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -1401,7 +1454,7 @@
         "томати",
         "полуниця"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "carrot",
@@ -1409,6 +1462,8 @@
       "name_acc": "моркву",
       "name_gen": "моркви",
       "name_latin": "Daucus carota",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🥕",
       "moon_group": "root",
@@ -1474,7 +1529,7 @@
         "кріп",
         "петрушка"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі. Проріджувати теж краще на спадному Місяці."
+      "moon_tips": "Сіяти на спадному Місяці. Проріджувати теж краще на спадному Місяці."
     },
     {
       "id": "beet",
@@ -1482,6 +1537,8 @@
       "name_acc": "буряк",
       "name_gen": "буряка",
       "name_latin": "Beta vulgaris",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🫚",
       "moon_group": "root",
@@ -1547,7 +1604,7 @@
         "шпинат",
         "мангольд"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві або Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "radish",
@@ -1555,6 +1612,10 @@
       "name_acc": "редиску",
       "name_gen": "редиски",
       "name_latin": "Raphanus sativus",
+      "synonyms": [
+        "редис"
+      ],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🌱",
       "moon_group": "root",
@@ -1615,7 +1676,7 @@
         "капуста",
         "редька"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "radish_winter",
@@ -1623,6 +1684,8 @@
       "name_acc": "редьку",
       "name_gen": "редьки",
       "name_latin": "Raphanus sativus var. niger",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🌑",
       "moon_group": "root",
@@ -1668,7 +1731,7 @@
         "салат"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві або Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "celery",
@@ -1676,6 +1739,8 @@
       "name_acc": "селеру кореневу",
       "name_gen": "селери кореневої",
       "name_latin": "Apium graveolens",
+      "synonyms": [],
+      "verb": "садити",
       "category": "root",
       "emoji": "🌿",
       "moon_group": "root",
@@ -1732,7 +1797,7 @@
         "морква",
         "петрушка"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "daikon",
@@ -1740,6 +1805,10 @@
       "name_acc": "дайкон",
       "name_gen": "дайкону",
       "name_latin": "Raphanus sativus var. longipinnatus",
+      "synonyms": [
+        "японська редька"
+      ],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🌿",
       "moon_group": "root",
@@ -1784,7 +1853,7 @@
         "салат"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "chicory",
@@ -1792,6 +1861,8 @@
       "name_acc": "цикорій",
       "name_gen": "цикорію",
       "name_latin": "Cichorium intybus",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🌿",
       "moon_group": "root",
@@ -1836,7 +1907,7 @@
         "салат"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві або Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "turnip",
@@ -1844,6 +1915,8 @@
       "name_acc": "ріпу",
       "name_gen": "ріпи",
       "name_latin": "Brassica rapa subsp. rapa",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🟣",
       "moon_group": "root",
@@ -1900,7 +1973,7 @@
         "хрін",
         "капуста"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "parsnip",
@@ -1908,6 +1981,8 @@
       "name_acc": "пастернак",
       "name_gen": "пастернаку",
       "name_latin": "Pastinaca sativa",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🥕",
       "moon_group": "root",
@@ -1965,7 +2040,7 @@
         "морква",
         "селера"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві або Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "parsley_root",
@@ -1973,6 +2048,8 @@
       "name_acc": "петрушку кореневу",
       "name_gen": "петрушки кореневої",
       "name_latin": "Petroselinum crispum var. tuberosum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "root",
       "emoji": "🥕",
       "moon_group": "root",
@@ -2030,7 +2107,7 @@
         "салат",
         "морква"
       ],
-      "moon_tips": "Сіяти на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти на спадному Місяці."
     },
     {
       "id": "onion",
@@ -2038,6 +2115,8 @@
       "name_acc": "цибулю",
       "name_gen": "цибулі",
       "name_latin": "Allium cepa",
+      "synonyms": [],
+      "verb": "садити",
       "category": "bulb",
       "emoji": "🧅",
       "moon_group": "bulb",
@@ -2102,7 +2181,7 @@
         "квасоля",
         "горох"
       ],
-      "moon_tips": "Садити на спадному Місяці в Козерозі, Скорпіоні чи Тельці. На зелене перо — на молодому."
+      "moon_tips": "Садити на спадному Місяці. На зелене перо — на молодому."
     },
     {
       "id": "garlic",
@@ -2110,6 +2189,8 @@
       "name_acc": "часник",
       "name_gen": "часнику",
       "name_latin": "Allium sativum",
+      "synonyms": [],
+      "verb": "садити",
       "category": "bulb",
       "emoji": "🧄",
       "moon_group": "bulb",
@@ -2171,7 +2252,7 @@
         "горох",
         "капуста"
       ],
-      "moon_tips": "Садити на спадному Місяці, найкраще в Козерозі, Скорпіоні або Тельці."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "leek",
@@ -2179,6 +2260,10 @@
       "name_acc": "цибулю-порей",
       "name_gen": "цибулі-порею",
       "name_latin": "Allium ampeloprasum",
+      "synonyms": [
+        "порей"
+      ],
+      "verb": "садити",
       "category": "bulb",
       "emoji": "🌿",
       "moon_group": "bulb",
@@ -2234,7 +2319,7 @@
       "avoid": [
         "квасоля"
       ],
-      "moon_tips": "Сіяти й висаджувати на спадному Місяці в Козерозі чи Скорпіоні."
+      "moon_tips": "Сіяти й висаджувати на спадному Місяці."
     },
     {
       "id": "shallot",
@@ -2242,6 +2327,10 @@
       "name_acc": "цибулю-шалот",
       "name_gen": "цибулі-шалоту",
       "name_latin": "Allium cepa var. aggregatum",
+      "synonyms": [
+        "цибуля-кущівка"
+      ],
+      "verb": "садити",
       "category": "bulb",
       "emoji": "🧅",
       "moon_group": "bulb",
@@ -2297,7 +2386,7 @@
         "горох",
         "квасоля"
       ],
-      "moon_tips": "Садити на спадному Місяці в Козерозі, Скорпіоні чи Тельці."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "welsh_onion",
@@ -2305,6 +2394,8 @@
       "name_acc": "цибулю-батун",
       "name_gen": "цибулі-батуну",
       "name_latin": "Allium fistulosum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "bulb",
       "emoji": "🌱",
       "moon_group": "leaf",
@@ -2365,7 +2456,7 @@
         "горох",
         "квасоля"
       ],
-      "moon_tips": "Батун вирощують на перо, тож сіють на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Батун вирощують на перо, тож сіють на молодому Місяці."
     },
     {
       "id": "chives",
@@ -2373,6 +2464,10 @@
       "name_acc": "шніт-цибулю",
       "name_gen": "шніт-цибулі",
       "name_latin": "Allium schoenoprasum",
+      "synonyms": [
+        "цибуля-резанець"
+      ],
+      "verb": "сіяти",
       "category": "bulb",
       "emoji": "🌱",
       "moon_group": "leaf",
@@ -2432,7 +2527,7 @@
         "горох",
         "квасоля"
       ],
-      "moon_tips": "Сіяти й ділити на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Сіяти й ділити на молодому Місяці."
     },
     {
       "id": "pea",
@@ -2440,6 +2535,8 @@
       "name_acc": "горох",
       "name_gen": "гороху",
       "name_latin": "Pisum sativum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "legume",
       "emoji": "🫛",
       "moon_group": "fruit",
@@ -2493,7 +2590,7 @@
         "часник",
         "картопля"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах, Скорпіоні або Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "bean",
@@ -2501,6 +2598,8 @@
       "name_acc": "квасолю",
       "name_gen": "квасолі",
       "name_latin": "Phaseolus vulgaris",
+      "synonyms": [],
+      "verb": "садити",
       "category": "legume",
       "emoji": "🫘",
       "moon_group": "fruit",
@@ -2554,7 +2653,7 @@
         "буряк",
         "горох"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "bean_asparagus",
@@ -2562,6 +2661,10 @@
       "name_acc": "спаржеву квасолю",
       "name_gen": "спаржевої квасолі",
       "name_latin": "Phaseolus vulgaris",
+      "synonyms": [
+        "стручкова квасоля"
+      ],
+      "verb": "садити",
       "category": "legume",
       "emoji": "🫛",
       "moon_group": "fruit",
@@ -2612,7 +2715,7 @@
         "цибуля",
         "часник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "broad_bean",
@@ -2620,6 +2723,8 @@
       "name_acc": "боби",
       "name_gen": "бобів",
       "name_latin": "Vicia faba",
+      "synonyms": [],
+      "verb": "садити",
       "category": "legume",
       "emoji": "🫘",
       "moon_group": "fruit",
@@ -2669,7 +2774,7 @@
         "цибуля",
         "часник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "lentil",
@@ -2677,6 +2782,8 @@
       "name_acc": "сочевицю",
       "name_gen": "сочевиці",
       "name_latin": "Lens culinaris",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "legume",
       "emoji": "🫘",
       "moon_group": "fruit",
@@ -2724,7 +2831,7 @@
         "цибуля",
         "часник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "chickpea",
@@ -2732,6 +2839,10 @@
       "name_acc": "нут",
       "name_gen": "нуту",
       "name_latin": "Cicer arietinum",
+      "synonyms": [
+        "турецький горох"
+      ],
+      "verb": "сіяти",
       "category": "legume",
       "emoji": "🫘",
       "moon_group": "fruit",
@@ -2779,7 +2890,7 @@
         "цибуля",
         "часник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "soybean",
@@ -2787,6 +2898,8 @@
       "name_acc": "сою",
       "name_gen": "сої",
       "name_latin": "Glycine max",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "legume",
       "emoji": "🫘",
       "moon_group": "fruit",
@@ -2835,7 +2948,7 @@
         "часник",
         "соняшник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "lettuce",
@@ -2843,6 +2956,8 @@
       "name_acc": "салат",
       "name_gen": "салату",
       "name_latin": "Lactuca sativa",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🥗",
       "moon_group": "leaf",
@@ -2902,7 +3017,7 @@
         "цибуля"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "spinach",
@@ -2910,6 +3025,8 @@
       "name_acc": "шпинат",
       "name_gen": "шпинату",
       "name_latin": "Spinacia oleracea",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -2972,7 +3089,7 @@
         "цибуля"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "chard",
@@ -2980,6 +3097,10 @@
       "name_acc": "мангольд",
       "name_gen": "мангольду",
       "name_latin": "Beta vulgaris var. cicla",
+      "synonyms": [
+        "листовий буряк"
+      ],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3024,7 +3145,7 @@
         "капуста"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "celery_stalk",
@@ -3032,6 +3153,8 @@
       "name_acc": "селеру черешкову",
       "name_gen": "селери черешкової",
       "name_latin": "Apium graveolens var. dulce",
+      "synonyms": [],
+      "verb": "садити",
       "category": "leafy",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -3089,7 +3212,7 @@
         "морква",
         "пастернак"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "arugula",
@@ -3097,6 +3220,8 @@
       "name_acc": "руколу",
       "name_gen": "руколи",
       "name_latin": "Eruca vesicaria subsp. sativa",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -3155,7 +3280,7 @@
         "капуста",
         "редис"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "lettuce_head",
@@ -3163,6 +3288,8 @@
       "name_acc": "салат айсберг",
       "name_gen": "салату айсберг",
       "name_latin": "Lactuca sativa var. capitata",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🥬",
       "moon_group": "leaf",
@@ -3224,7 +3351,7 @@
         "петрушка",
         "соняшник"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "watercress",
@@ -3232,6 +3359,8 @@
       "name_acc": "крес-салат",
       "name_gen": "крес-салату",
       "name_latin": "Lepidium sativum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "leafy",
       "emoji": "🌱",
       "moon_group": "leaf",
@@ -3282,7 +3411,7 @@
       "avoid": [
         "капуста"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "corn",
@@ -3290,6 +3419,8 @@
       "name_acc": "кукурудзу",
       "name_gen": "кукурудзи",
       "name_latin": "Zea mays",
+      "synonyms": [],
+      "verb": "садити",
       "category": "cereal",
       "emoji": "🌽",
       "moon_group": "fruit",
@@ -3337,7 +3468,7 @@
       "avoid": [
         "томати"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "sunflower",
@@ -3345,6 +3476,8 @@
       "name_acc": "соняшник",
       "name_gen": "соняшнику",
       "name_latin": "Helianthus annuus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "cereal",
       "emoji": "🌻",
       "moon_group": "fruit",
@@ -3391,7 +3524,7 @@
       "avoid": [
         "картопля"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "sorrel",
@@ -3399,6 +3532,8 @@
       "name_acc": "щавель",
       "name_gen": "щавлю",
       "name_latin": "Rumex acetosa",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "perennial",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3456,7 +3591,7 @@
         "морква"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "asparagus",
@@ -3464,6 +3599,8 @@
       "name_acc": "спаржу",
       "name_gen": "спаржі",
       "name_latin": "Asparagus officinalis",
+      "synonyms": [],
+      "verb": "садити",
       "category": "perennial",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3519,7 +3656,7 @@
         "часник",
         "цибуля"
       ],
-      "moon_tips": "Садити на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Садити на молодому Місяці."
     },
     {
       "id": "topinambur",
@@ -3527,6 +3664,10 @@
       "name_acc": "топінамбур",
       "name_gen": "топінамбуру",
       "name_latin": "Helianthus tuberosus",
+      "synonyms": [
+        "земляна груша"
+      ],
+      "verb": "садити",
       "category": "perennial",
       "emoji": "🌻",
       "moon_group": "root",
@@ -3575,7 +3716,7 @@
         "соняшник"
       ],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "horseradish",
@@ -3583,6 +3724,8 @@
       "name_acc": "хрін",
       "name_gen": "хрону",
       "name_latin": "Armoracia rusticana",
+      "synonyms": [],
+      "verb": "садити",
       "category": "perennial",
       "emoji": "🌿",
       "moon_group": "root",
@@ -3630,7 +3773,7 @@
         "картопля"
       ],
       "avoid": [],
-      "moon_tips": "Садити й викопувати на спадному Місяці в Тельці чи Козерозі."
+      "moon_tips": "Садити й викопувати на спадному Місяці."
     },
     {
       "id": "artichoke",
@@ -3638,6 +3781,8 @@
       "name_acc": "артишок",
       "name_gen": "артишоку",
       "name_latin": "Cynara scolymus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "perennial",
       "emoji": "🌿",
       "moon_group": "fruit",
@@ -3688,7 +3833,7 @@
         "капуста"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "rhubarb",
@@ -3696,6 +3841,8 @@
       "name_acc": "ревінь",
       "name_gen": "ревеню",
       "name_latin": "Rheum rhabarbarum",
+      "synonyms": [],
+      "verb": "садити",
       "category": "perennial",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3747,7 +3894,7 @@
         "квасоля"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на молодому Місяці в Раку, Рибах або Тельці."
+      "moon_tips": "Садити й ділити на молодому Місяці."
     },
     {
       "id": "dill",
@@ -3755,6 +3902,8 @@
       "name_acc": "кріп",
       "name_gen": "кропу",
       "name_latin": "Anethum graveolens",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3817,7 +3966,7 @@
         "петрушка",
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах, Скорпіоні або Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "parsley",
@@ -3825,6 +3974,8 @@
       "name_acc": "петрушку",
       "name_gen": "петрушки",
       "name_latin": "Petroselinum crispum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3885,7 +4036,7 @@
         "морква",
         "кріп"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "basil",
@@ -3893,6 +4044,8 @@
       "name_acc": "базилік",
       "name_gen": "базиліку",
       "name_latin": "Ocimum basilicum",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -3952,7 +4105,7 @@
       "avoid": [
         "шавлія"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні. Прищипувати верхівки — на спадному."
+      "moon_tips": "Сіяти на молодому Місяці. Прищипувати верхівки — на спадному."
     },
     {
       "id": "mint",
@@ -3960,6 +4113,8 @@
       "name_acc": "м’яту",
       "name_gen": "м’яти",
       "name_latin": "Mentha",
+      "synonyms": [],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4024,7 +4179,7 @@
         "горох"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й ділити кущі на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти й ділити кущі на молодому Місяці."
     },
     {
       "id": "fennel",
@@ -4032,6 +4187,8 @@
       "name_acc": "фенхель",
       "name_gen": "фенхелю",
       "name_latin": "Foeniculum vulgare",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4081,7 +4238,7 @@
         "томати",
         "квасоля"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "coriander",
@@ -4089,6 +4246,10 @@
       "name_acc": "кінзу",
       "name_gen": "кінзи",
       "name_latin": "Coriandrum sativum",
+      "synonyms": [
+        "коріандр"
+      ],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4149,7 +4310,7 @@
       "avoid": [
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "thyme",
@@ -4157,6 +4318,10 @@
       "name_acc": "чебрець",
       "name_gen": "чебрецю",
       "name_latin": "Thymus vulgaris",
+      "synonyms": [
+        "тим’ян"
+      ],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4214,7 +4379,7 @@
         "баклажани"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "valerian",
@@ -4222,6 +4387,8 @@
       "name_acc": "валеріану",
       "name_gen": "валеріани",
       "name_latin": "Valeriana officinalis",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌸",
       "moon_group": "root",
@@ -4276,7 +4443,7 @@
         "овочеві культури загалом"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й викопувати корені на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Сіяти й викопувати корені на спадному Місяці."
     },
     {
       "id": "rosemary",
@@ -4284,6 +4451,8 @@
       "name_acc": "розмарин",
       "name_gen": "розмарину",
       "name_latin": "Salvia rosmarinus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4339,7 +4508,7 @@
         "м’ята",
         "базилік"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "lemon_balm",
@@ -4347,6 +4516,10 @@
       "name_acc": "мелісу",
       "name_gen": "меліси",
       "name_latin": "Melissa officinalis",
+      "synonyms": [
+        "лимонна м’ята"
+      ],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4410,7 +4583,7 @@
         "капуста"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "tarragon",
@@ -4418,6 +4591,10 @@
       "name_acc": "естрагон",
       "name_gen": "естрагону",
       "name_latin": "Artemisia dracunculus",
+      "synonyms": [
+        "тархун"
+      ],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4481,7 +4658,7 @@
         "перець"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на молодому Місяці в Раку чи Рибах."
+      "moon_tips": "Садити й ділити на молодому Місяці."
     },
     {
       "id": "sage",
@@ -4489,6 +4666,8 @@
       "name_acc": "шавлію",
       "name_gen": "шавлії",
       "name_latin": "Salvia officinalis",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4543,7 +4722,7 @@
       "avoid": [
         "огірки"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "savory",
@@ -4551,6 +4730,8 @@
       "name_acc": "чабер",
       "name_gen": "чаберу",
       "name_latin": "Satureja hortensis",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4601,7 +4782,7 @@
         "томати"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "lavender",
@@ -4609,6 +4790,8 @@
       "name_acc": "лаванду",
       "name_gen": "лаванди",
       "name_latin": "Lavandula angustifolia",
+      "synonyms": [],
+      "verb": "садити",
       "category": "herb",
       "emoji": "💜",
       "moon_group": "flower",
@@ -4668,7 +4851,7 @@
         "чебрець"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити саджанці на молодому Місяці в Терезах, Тельці чи Діві."
+      "moon_tips": "Сіяти й садити саджанці на молодому Місяці."
     },
     {
       "id": "chamomile",
@@ -4676,6 +4859,8 @@
       "name_acc": "ромашку лікарську",
       "name_gen": "ромашки лікарської",
       "name_latin": "Matricaria chamomilla",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌼",
       "moon_group": "flower",
@@ -4726,7 +4911,7 @@
         "цибуля"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Терезах або Діві."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "echinacea",
@@ -4734,6 +4919,8 @@
       "name_acc": "ехінацею",
       "name_gen": "ехінацеї",
       "name_latin": "Echinacea purpurea",
+      "synonyms": [],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌸",
       "moon_group": "flower",
@@ -4803,7 +4990,7 @@
         "флокси"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й ділити кущі на молодому Місяці в Терезах, Тельці або Діві."
+      "moon_tips": "Сіяти й ділити кущі на молодому Місяці."
     },
     {
       "id": "lovage",
@@ -4811,6 +4998,8 @@
       "name_acc": "любисток",
       "name_gen": "любистку",
       "name_latin": "Levisticum officinale",
+      "synonyms": [],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4876,7 +5065,7 @@
         "огірки"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах чи Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "oregano",
@@ -4884,6 +5073,10 @@
       "name_acc": "материнку",
       "name_gen": "материнки",
       "name_latin": "Origanum vulgare",
+      "synonyms": [
+        "орегано"
+      ],
+      "verb": "садити",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "leaf",
@@ -4946,7 +5139,7 @@
         "огірки"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Скорпіоні."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "caraway",
@@ -4954,6 +5147,8 @@
       "name_acc": "кмин",
       "name_gen": "кмину",
       "name_latin": "Carum carvi",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "herb",
       "emoji": "🌿",
       "moon_group": "fruit",
@@ -5005,7 +5200,7 @@
       "avoid": [
         "фенхель"
       ],
-      "moon_tips": "Сіяти на молодому Місяці в Раку, Рибах або Тельці."
+      "moon_tips": "Сіяти на молодому Місяці."
     },
     {
       "id": "mustard_white",
@@ -5013,6 +5208,8 @@
       "name_acc": "гірчицю",
       "name_gen": "гірчиці",
       "name_latin": "Sinapis alba",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "green_manure",
       "emoji": "🌱",
       "moon_group": "leaf",
@@ -5075,6 +5272,8 @@
       "name_acc": "фацелію",
       "name_gen": "фацелії",
       "name_latin": "Phacelia tanacetifolia",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "green_manure",
       "emoji": "💠",
       "moon_group": "leaf",
@@ -5132,6 +5331,8 @@
       "name_acc": "жито",
       "name_gen": "жита",
       "name_latin": "Secale cereale",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "green_manure",
       "emoji": "🌾",
       "moon_group": "leaf",
@@ -5184,6 +5385,10 @@
       "name_acc": "полуницю",
       "name_gen": "полуниці",
       "name_latin": "Fragaria × ananassa",
+      "synonyms": [
+        "суниця садова"
+      ],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🍓",
       "moon_group": "fruit",
@@ -5252,7 +5457,7 @@
         "фенхель",
         "картопля"
       ],
-      "moon_tips": "Садити на молодому Місяці в Раку, Рибах, Скорпіоні або Тельці. Обрізати вуса — на спадному."
+      "moon_tips": "Садити на молодому Місяці. Обрізати вуса — на спадному."
     },
     {
       "id": "raspberry",
@@ -5260,6 +5465,8 @@
       "name_acc": "малину",
       "name_gen": "малини",
       "name_latin": "Rubus idaeus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🫐",
       "moon_group": "tree_shrub",
@@ -5315,7 +5522,7 @@
         "картопля",
         "томати"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі — так краще розвивається коріння."
+      "moon_tips": "Садити на спадному Місяці — так краще розвивається коріння."
     },
     {
       "id": "currant_black",
@@ -5323,6 +5530,8 @@
       "name_acc": "чорну смородину",
       "name_gen": "чорної смородини",
       "name_latin": "Ribes nigrum",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🫐",
       "moon_group": "tree_shrub",
@@ -5378,7 +5587,7 @@
       "avoid": [
         "фенхель"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Діві чи Козерозі."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "gooseberry",
@@ -5386,6 +5595,8 @@
       "name_acc": "аґрус",
       "name_gen": "аґрусу",
       "name_latin": "Ribes uva-crispa",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🍈",
       "moon_group": "tree_shrub",
@@ -5440,7 +5651,7 @@
       "avoid": [
         "фенхель"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Скорпіоні чи Козерозі."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "currant_red",
@@ -5448,6 +5659,8 @@
       "name_acc": "червону смородину",
       "name_gen": "червоної смородини",
       "name_latin": "Ribes rubrum",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🔴",
       "moon_group": "tree_shrub",
@@ -5503,7 +5716,7 @@
         "чорна смородина",
         "малина"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "blackberry",
@@ -5511,6 +5724,8 @@
       "name_acc": "ожину",
       "name_gen": "ожини",
       "name_latin": "Rubus fruticosus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🫐",
       "moon_group": "tree_shrub",
@@ -5565,7 +5780,7 @@
       "avoid": [
         "малина"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "blueberry",
@@ -5573,6 +5788,10 @@
       "name_acc": "лохину",
       "name_gen": "лохини",
       "name_latin": "Vaccinium corymbosum",
+      "synonyms": [
+        "чорниця садова"
+      ],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🫐",
       "moon_group": "tree_shrub",
@@ -5625,7 +5844,7 @@
         "рододендрон"
       ],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "honeysuckle",
@@ -5633,6 +5852,8 @@
       "name_acc": "жимолость",
       "name_gen": "жимолості",
       "name_latin": "Lonicera caerulea",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🫐",
       "moon_group": "tree_shrub",
@@ -5683,7 +5904,7 @@
         "чорна смородина"
       ],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "sea_buckthorn",
@@ -5691,6 +5912,8 @@
       "name_acc": "обліпиху",
       "name_gen": "обліпихи",
       "name_latin": "Hippophae rhamnoides",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🟠",
       "moon_group": "tree_shrub",
@@ -5741,7 +5964,7 @@
         "полуниця",
         "малина"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "viburnum",
@@ -5749,6 +5972,8 @@
       "name_acc": "калину",
       "name_gen": "калини",
       "name_latin": "Viburnum opulus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "berry",
       "emoji": "🔴",
       "moon_group": "tree_shrub",
@@ -5795,7 +6020,7 @@
       ],
       "companions": [],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі. Обрізку й поділ кущів теж проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку й поділ кущів теж проводять на спадному Місяці."
     },
     {
       "id": "grape",
@@ -5803,6 +6028,8 @@
       "name_acc": "виноград",
       "name_gen": "винограду",
       "name_latin": "Vitis vinifera",
+      "synonyms": [],
+      "verb": "садити",
       "category": "vines",
       "emoji": "🍇",
       "moon_group": "tree_shrub",
@@ -5857,7 +6084,7 @@
       "avoid": [
         "капуста"
       ],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку або Козерозі. Обрізку проводять на спадному Місяці."
+      "moon_tips": "Садити на спадному Місяці. Обрізку проводять на спадному Місяці."
     },
     {
       "id": "schisandra",
@@ -5865,6 +6092,8 @@
       "name_acc": "лимонник",
       "name_gen": "лимонника",
       "name_latin": "Schisandra chinensis",
+      "synonyms": [],
+      "verb": "садити",
       "category": "vines",
       "emoji": "🍋",
       "moon_group": "tree_shrub",
@@ -5914,7 +6143,7 @@
         "актинідія"
       ],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Раку чи Козерозі."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "apple",
@@ -5922,6 +6151,8 @@
       "name_acc": "яблуню",
       "name_gen": "яблуні",
       "name_latin": "Malus domestica",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍎",
       "moon_group": "tree_shrub",
@@ -5978,7 +6209,7 @@
       "avoid": [
         "горіх волоський"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "pear",
@@ -5986,6 +6217,8 @@
       "name_acc": "грушу",
       "name_gen": "груші",
       "name_latin": "Pyrus communis",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍐",
       "moon_group": "tree_shrub",
@@ -6040,7 +6273,7 @@
         "ялівець",
         "горіх волоський"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "cherry_sour",
@@ -6048,6 +6281,8 @@
       "name_acc": "вишню",
       "name_gen": "вишні",
       "name_latin": "Prunus cerasus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍒",
       "moon_group": "tree_shrub",
@@ -6103,7 +6338,7 @@
         "горіх волоський",
         "томати"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "cherry_sweet",
@@ -6111,6 +6346,8 @@
       "name_acc": "черешню",
       "name_gen": "черешні",
       "name_latin": "Prunus avium",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍒",
       "moon_group": "tree_shrub",
@@ -6159,7 +6396,7 @@
         "горіх волоський",
         "яблуня"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "plum",
@@ -6167,6 +6404,8 @@
       "name_acc": "сливу",
       "name_gen": "сливи",
       "name_latin": "Prunus domestica",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🟣",
       "moon_group": "tree_shrub",
@@ -6221,7 +6460,7 @@
         "груша",
         "горіх волоський"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "apricot",
@@ -6229,6 +6468,8 @@
       "name_acc": "абрикос",
       "name_gen": "абрикоса",
       "name_latin": "Prunus armeniaca",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍑",
       "moon_group": "tree_shrub",
@@ -6276,7 +6517,7 @@
         "яблуня",
         "груша"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "peach",
@@ -6284,6 +6525,8 @@
       "name_acc": "персик",
       "name_gen": "персика",
       "name_latin": "Prunus persica",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍑",
       "moon_group": "tree_shrub",
@@ -6330,7 +6573,7 @@
         "горіх волоський",
         "черешня"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "cherry_plum",
@@ -6338,6 +6581,8 @@
       "name_acc": "аличу",
       "name_gen": "аличі",
       "name_latin": "Prunus cerasifera",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🟡",
       "moon_group": "tree_shrub",
@@ -6390,7 +6635,7 @@
       "avoid": [
         "горіх волоський"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "quince",
@@ -6398,6 +6643,8 @@
       "name_acc": "айву",
       "name_gen": "айви",
       "name_latin": "Cydonia oblonga",
+      "synonyms": [],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🍐",
       "moon_group": "tree_shrub",
@@ -6448,7 +6695,7 @@
       "avoid": [
         "горіх волоський"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "walnut",
@@ -6456,6 +6703,10 @@
       "name_acc": "волоський горіх",
       "name_gen": "волоського горіха",
       "name_latin": "Juglans regia",
+      "synonyms": [
+        "грецький горіх"
+      ],
+      "verb": "садити",
       "category": "fruit_trees",
       "emoji": "🌰",
       "moon_group": "tree_shrub",
@@ -6515,7 +6766,7 @@
         "томати",
         "картопля"
       ],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Козерозі — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
+      "moon_tips": "Саджанці садити на спадному Місяці — у цей час активніше росте коріння. Щеплення робити на молодому Місяці."
     },
     {
       "id": "tulip",
@@ -6523,6 +6774,8 @@
       "name_acc": "тюльпани",
       "name_gen": "тюльпанів",
       "name_latin": "Tulipa",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌷",
       "moon_group": "bulb",
@@ -6569,7 +6822,7 @@
         "незабудки"
       ],
       "avoid": [],
-      "moon_tips": "Цибулини садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Цибулини садити на спадному Місяці."
     },
     {
       "id": "daffodil",
@@ -6577,6 +6830,8 @@
       "name_acc": "нарциси",
       "name_gen": "нарцисів",
       "name_latin": "Narcissus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "bulb",
@@ -6622,7 +6877,7 @@
         "гіацинти"
       ],
       "avoid": [],
-      "moon_tips": "Цибулини садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Цибулини садити на спадному Місяці."
     },
     {
       "id": "hyacinth",
@@ -6630,6 +6885,8 @@
       "name_acc": "гіацинти",
       "name_gen": "гіацинтів",
       "name_latin": "Hyacinthus orientalis",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "💐",
       "moon_group": "bulb",
@@ -6673,7 +6930,7 @@
         "крокуси"
       ],
       "avoid": [],
-      "moon_tips": "Цибулини садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Цибулини садити на спадному Місяці."
     },
     {
       "id": "crocus",
@@ -6681,6 +6938,10 @@
       "name_acc": "крокуси",
       "name_gen": "крокусів",
       "name_latin": "Crocus vernus",
+      "synonyms": [
+        "шафран"
+      ],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "bulb",
@@ -6725,7 +6986,7 @@
         "пролісок"
       ],
       "avoid": [],
-      "moon_tips": "Садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Садити на спадному Місяці."
     },
     {
       "id": "lily",
@@ -6733,6 +6994,8 @@
       "name_acc": "лілії",
       "name_gen": "лілій",
       "name_latin": "Lilium",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌺",
       "moon_group": "bulb",
@@ -6786,7 +7049,7 @@
         "півонії"
       ],
       "avoid": [],
-      "moon_tips": "Цибулини садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Цибулини садити на спадному Місяці."
     },
     {
       "id": "gladiolus",
@@ -6794,6 +7057,8 @@
       "name_acc": "гладіолуси",
       "name_gen": "гладіолусів",
       "name_latin": "Gladiolus × hortulanus",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "bulb",
@@ -6839,7 +7104,7 @@
         "нагідки"
       ],
       "avoid": [],
-      "moon_tips": "Бульбоцибулини садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Бульбоцибулини садити на спадному Місяці."
     },
     {
       "id": "dahlia",
@@ -6847,6 +7112,10 @@
       "name_acc": "жоржини",
       "name_gen": "жоржин",
       "name_latin": "Dahlia",
+      "synonyms": [
+        "георгіни"
+      ],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "bulb",
@@ -6900,7 +7169,7 @@
         "нагідки"
       ],
       "avoid": [],
-      "moon_tips": "Бульби садити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Бульби садити на спадному Місяці."
     },
     {
       "id": "peony",
@@ -6908,6 +7177,10 @@
       "name_acc": "півонії",
       "name_gen": "півоній",
       "name_latin": "Paeonia lactiflora",
+      "synonyms": [
+        "піони"
+      ],
+      "verb": "пересаджувати",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "root",
@@ -6967,7 +7240,7 @@
         "лілії"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на спадному Місяці в Тельці, Діві чи Терезах."
+      "moon_tips": "Садити й ділити на спадному Місяці."
     },
     {
       "id": "rose",
@@ -6975,6 +7248,8 @@
       "name_acc": "троянди",
       "name_gen": "троянд",
       "name_latin": "Rosa",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌹",
       "moon_group": "tree_shrub",
@@ -7032,7 +7307,7 @@
         "чорнобривці"
       ],
       "avoid": [],
-      "moon_tips": "Саджанці садити на спадному Місяці в Тельці, Діві чи Терезах; обрізати — теж на спадному."
+      "moon_tips": "Саджанці садити на спадному Місяці; обрізати — теж на спадному."
     },
     {
       "id": "aster",
@@ -7040,6 +7315,8 @@
       "name_acc": "айстри",
       "name_gen": "айстр",
       "name_latin": "Callistephus chinensis",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "flower",
@@ -7100,7 +7377,7 @@
         "томати",
         "картопля"
       ],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "marigold",
@@ -7108,6 +7385,10 @@
       "name_acc": "чорнобривці",
       "name_gen": "чорнобривців",
       "name_latin": "Tagetes",
+      "synonyms": [
+        "тагетес"
+      ],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "flower",
@@ -7161,7 +7442,7 @@
         "троянди"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "petunia",
@@ -7169,6 +7450,8 @@
       "name_acc": "петунію",
       "name_gen": "петунії",
       "name_latin": "Petunia × atkinsiana",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "flower",
@@ -7220,7 +7503,7 @@
         "чорнобривці"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "calendula",
@@ -7228,6 +7511,10 @@
       "name_acc": "нагідки",
       "name_gen": "нагідок",
       "name_latin": "Calendula officinalis",
+      "synonyms": [
+        "календула"
+      ],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "flower",
@@ -7281,7 +7568,7 @@
         "морква"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "cosmos",
@@ -7289,6 +7576,8 @@
       "name_acc": "космею",
       "name_gen": "космеї",
       "name_latin": "Cosmos bipinnatus",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌸",
       "moon_group": "flower",
@@ -7338,7 +7627,7 @@
         "нагідки"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "zinnia",
@@ -7346,6 +7635,10 @@
       "name_acc": "цинію",
       "name_gen": "цинії",
       "name_latin": "Zinnia elegans",
+      "synonyms": [
+        "майори"
+      ],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "flower",
@@ -7396,7 +7689,7 @@
         "чорнобривці"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "nasturtium",
@@ -7404,6 +7697,8 @@
       "name_acc": "настурцію",
       "name_gen": "настурції",
       "name_latin": "Tropaeolum majus",
+      "synonyms": [],
+      "verb": "сіяти",
       "category": "flowers",
       "emoji": "🌺",
       "moon_group": "flower",
@@ -7456,7 +7751,7 @@
         "картопля"
       ],
       "avoid": [],
-      "moon_tips": "Сіяти й садити на молодому Місяці, коли він у Терезах, Тельці чи Діві. Цибулини й бульби садять на спадному Місяці."
+      "moon_tips": "Сіяти й садити на молодому Місяці. Цибулини й бульби садять на спадному Місяці."
     },
     {
       "id": "phlox",
@@ -7464,6 +7759,8 @@
       "name_acc": "флокси",
       "name_gen": "флоксів",
       "name_latin": "Phlox paniculata",
+      "synonyms": [],
+      "verb": "пересаджувати",
       "category": "flowers",
       "emoji": "💮",
       "moon_group": "flower",
@@ -7515,7 +7812,7 @@
         "півонії"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на молодому Місяці, коли він у Терезах, Тельці чи Діві."
+      "moon_tips": "Садити й ділити на молодому Місяці."
     },
     {
       "id": "iris",
@@ -7523,6 +7820,10 @@
       "name_acc": "іриси",
       "name_gen": "ірисів",
       "name_latin": "Iris germanica",
+      "synonyms": [
+        "півники"
+      ],
+      "verb": "пересаджувати",
       "category": "flowers",
       "emoji": "🪻",
       "moon_group": "flower",
@@ -7575,7 +7876,7 @@
         "лілійники"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на молодому Місяці, коли він у Терезах, Тельці чи Діві."
+      "moon_tips": "Садити й ділити на молодому Місяці."
     },
     {
       "id": "chrysanthemum",
@@ -7583,6 +7884,8 @@
       "name_acc": "хризантеми",
       "name_gen": "хризантем",
       "name_latin": "Chrysanthemum × morifolium",
+      "synonyms": [],
+      "verb": "садити",
       "category": "flowers",
       "emoji": "🌼",
       "moon_group": "flower",
@@ -7636,7 +7939,7 @@
         "нагідки"
       ],
       "avoid": [],
-      "moon_tips": "Садити й ділити на молодому Місяці, коли він у Терезах, Тельці чи Діві."
+      "moon_tips": "Садити й ділити на молодому Місяці."
     }
   ]
 }
