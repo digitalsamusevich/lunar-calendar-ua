@@ -1089,7 +1089,7 @@
       "method": "seedling",
       "seedling_days": 50,
       "depth_cm": 8,
-      "spacing_cm": 50,
+      "spacing_cm": 35,
       "row_spacing_cm": 60,
       "care": {
         "watering": "рівномірний, уникати пересихання",
@@ -1831,7 +1831,7 @@
       "seedling_days": null,
       "depth_cm": 2,
       "spacing_cm": 20,
-      "row_spacing_cm": 40,
+      "row_spacing_cm": 60,
       "care": {
         "watering": "рівномірний",
         "fertilizing": "мінімальні",
@@ -2806,7 +2806,7 @@
       "seedling_days": null,
       "depth_cm": 4,
       "spacing_cm": 5,
-      "row_spacing_cm": 30,
+      "row_spacing_cm": 15,
       "care": {
         "watering": "помірний, у посуху під час цвітіння",
         "fertilizing": "фосфорно-калійні, без азоту",
@@ -3324,7 +3324,7 @@
       "seedling_days": 30,
       "depth_cm": 0.5,
       "spacing_cm": 30,
-      "row_spacing_cm": 35,
+      "row_spacing_cm": 40,
       "care": {
         "watering": "регулярний, без пересихання",
         "fertilizing": "азотні після висадки, калійні при зав’язуванні качана",
@@ -3567,7 +3567,7 @@
       "method": "direct",
       "seedling_days": null,
       "depth_cm": 1,
-      "spacing_cm": 15,
+      "spacing_cm": 10,
       "row_spacing_cm": 25,
       "care": {
         "watering": "помірний",
@@ -3753,7 +3753,7 @@
       "seedling_days": null,
       "depth_cm": 10,
       "spacing_cm": 30,
-      "row_spacing_cm": 50,
+      "row_spacing_cm": 70,
       "care": {
         "watering": "не потрібен",
         "fertilizing": "мінімальні",
@@ -4826,8 +4826,8 @@
       "method": "seedling_or_cuttings",
       "seedling_days": 70,
       "depth_cm": 0.3,
-      "spacing_cm": 40,
-      "row_spacing_cm": 60,
+      "spacing_cm": 50,
+      "row_spacing_cm": 70,
       "care": {
         "watering": "помірний, лише у спеку; застою води не терпить",
         "fertilizing": "не підживлювати азотом",
