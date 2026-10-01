@@ -1,0 +1,2656 @@
+{
+  "meta": {
+    "year": 2028,
+    "month": 3
+  },
+  "by_plant": {
+    "tomato": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "pepper_sweet": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "eggplant": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "pepper_hot": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cabbage_white": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor",
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor",
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor",
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cabbage_red": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "lettuce": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "spinach": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "celery_stalk": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "arugula": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "asparagus": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "artichoke": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "dill": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "parsley": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "mint": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "thyme": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "rosemary": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "sage": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "lavender": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 3,
+        "date": "2028-03-03",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 4,
+        "date": "2028-03-04",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 5,
+        "date": "2028-03-05",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "echinacea": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 3,
+        "date": "2028-03-03",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 4,
+        "date": "2028-03-04",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 5,
+        "date": "2028-03-05",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2028-03-31",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "lovage": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "oregano": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "strawberry": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "petunia": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 3,
+        "date": "2028-03-03",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 4,
+        "date": "2028-03-04",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 5,
+        "date": "2028-03-05",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cabbage_broccoli": [
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cabbage_cauliflower": [
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "kohlrabi": [
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "lemon_balm": [
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "tarragon": [
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "radish": [
+      {
+        "day": 12,
+        "date": "2028-03-12",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2028-03-13",
+        "rating": "good",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2028-03-14",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2028-03-15",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2028-03-18",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 19,
+        "date": "2028-03-19",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2028-03-20",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2028-03-23",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2028-03-24",
+        "rating": "excellent",
+        "activities": [
+          "greenhouse"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2028-03-25",
+        "rating": "good",
+        "activities": [
+          "greenhouse",
+          "open_ground"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "onion": [
+      {
+        "day": 12,
+        "date": "2028-03-12",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2028-03-13",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2028-03-14",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2028-03-15",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "leek": [
+      {
+        "day": 12,
+        "date": "2028-03-12",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2028-03-13",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 14,
+        "date": "2028-03-14",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2028-03-15",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2028-03-18",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 19,
+        "date": "2028-03-19",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2028-03-20",
+        "rating": "excellent",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "garlic": [
+      {
+        "day": 25,
+        "date": "2028-03-25",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "dahlia": [
+      {
+        "day": 25,
+        "date": "2028-03-25",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "physalis": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "savoy_cabbage": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "chinese_cabbage": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cabbage_brussels": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "pea": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "open_ground"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "lettuce_head": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "basil": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "savory": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "aster": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2028-03-31",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "marigold": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2028-03-31",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "cosmos": [
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "rating": "good",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 31,
+        "date": "2028-03-31",
+        "rating": "normal",
+        "activities": [
+          "seedling_indoor"
+        ],
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ]
+  },
+  "by_rating": {
+    "terrible": [
+      {
+        "day": 11,
+        "date": "2028-03-11",
+        "weekday": "субота",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Повня"
+      },
+      {
+        "day": 26,
+        "date": "2028-03-26",
+        "weekday": "неділя",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Новий місяць"
+      },
+      {
+        "day": 27,
+        "date": "2028-03-27",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Овен",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "bad": [
+      {
+        "day": 8,
+        "date": "2028-03-08",
+        "weekday": "середа",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 9,
+        "date": "2028-03-09",
+        "weekday": "четвер",
+        "moon_sign_ua": "Лев",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 21,
+        "date": "2028-03-21",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 22,
+        "date": "2028-03-22",
+        "weekday": "середа",
+        "moon_sign_ua": "Водолій",
+        "moon_phase_ua": "Спадний"
+      }
+    ],
+    "normal": [
+      {
+        "day": 3,
+        "date": "2028-03-03",
+        "weekday": "п’ятниця",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 4,
+        "date": "2028-03-04",
+        "weekday": "субота",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Перша чверть"
+      },
+      {
+        "day": 5,
+        "date": "2028-03-05",
+        "weekday": "неділя",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 16,
+        "date": "2028-03-16",
+        "weekday": "четвер",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 17,
+        "date": "2028-03-17",
+        "weekday": "п’ятниця",
+        "moon_sign_ua": "Стрілець",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 31,
+        "date": "2028-03-31",
+        "weekday": "п’ятниця",
+        "moon_sign_ua": "Близнюки",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "good": [
+      {
+        "day": 1,
+        "date": "2028-03-01",
+        "weekday": "середа",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 2,
+        "date": "2028-03-02",
+        "weekday": "четвер",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 10,
+        "date": "2028-03-10",
+        "weekday": "п’ятниця",
+        "moon_sign_ua": "Діва",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 12,
+        "date": "2028-03-12",
+        "weekday": "неділя",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 13,
+        "date": "2028-03-13",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Терези",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 25,
+        "date": "2028-03-25",
+        "weekday": "субота",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 28,
+        "date": "2028-03-28",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 29,
+        "date": "2028-03-29",
+        "weekday": "середа",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 30,
+        "date": "2028-03-30",
+        "weekday": "четвер",
+        "moon_sign_ua": "Телець",
+        "moon_phase_ua": "Молодий (росте)"
+      }
+    ],
+    "excellent": [
+      {
+        "day": 6,
+        "date": "2028-03-06",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 7,
+        "date": "2028-03-07",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Рак",
+        "moon_phase_ua": "Молодий (росте)"
+      },
+      {
+        "day": 14,
+        "date": "2028-03-14",
+        "weekday": "вівторок",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 15,
+        "date": "2028-03-15",
+        "weekday": "середа",
+        "moon_sign_ua": "Скорпіон",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 18,
+        "date": "2028-03-18",
+        "weekday": "субота",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Остання чверть"
+      },
+      {
+        "day": 19,
+        "date": "2028-03-19",
+        "weekday": "неділя",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 20,
+        "date": "2028-03-20",
+        "weekday": "понеділок",
+        "moon_sign_ua": "Козеріг",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 23,
+        "date": "2028-03-23",
+        "weekday": "четвер",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      },
+      {
+        "day": 24,
+        "date": "2028-03-24",
+        "weekday": "п’ятниця",
+        "moon_sign_ua": "Риби",
+        "moon_phase_ua": "Спадний"
+      }
+    ]
+  },
+  "rating_labels_ua": {
+    "excellent": "Відмінний",
+    "good": "Гарний",
+    "normal": "Нейтральний",
+    "bad": "Поганий",
+    "terrible": "Несприятливий"
+  },
+  "activity_labels_ua": {
+    "seedling_indoor": "сівба на розсаду",
+    "greenhouse": "у теплицю",
+    "open_ground": "у відкритий ґрунт",
+    "autumn": "осіння посадка",
+    "planting": "посадка саджанців",
+    "division": "поділ і пересадка"
+  }
+}
