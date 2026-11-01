@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:05:23.114Z",
+  "generated_at": "2026-11-01T08:44:06.639Z",
   "rules_version": "2.1",
   "timezone": "Europe/Kyiv",
   "months": [
@@ -164,6 +164,12 @@
       "month": 3,
       "calendar": "data/2028/03-march-calendar.json",
       "index": "data/2028/03-march-index.json"
+    },
+    {
+      "year": 2028,
+      "month": 4,
+      "calendar": "data/2028/04-april-calendar.json",
+      "index": "data/2028/04-april-index.json"
     }
   ]
 }
